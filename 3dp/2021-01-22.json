@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "5352b6b4-bd34-465b-bcfa-d0a5e0351368",
+        "type": "message",
+        "text": "Nice! :slightly_smiling_face:  Is it a humidity sensor?",
+        "user": "U01B5AS972R",
+        "ts": "1611326951.005100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "a00d0c8b4a78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1618681760848_a00d0c8b4a7856003f00_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert White",
+            "display_name": "Robert White",
+            "team": "TUX7FNQ8J",
+            "name": "r.white",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rkj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Is it a humidity sensor?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609788895.165800",
+        "parent_user_id": "U01CS2NM82C"
+    }
+]

@@ -1,0 +1,661 @@
+[
+    {
+        "client_msg_id": "4f194dcb-0aec-422c-8c50-6d6da509b2b7",
+        "type": "message",
+        "text": "hello friends Nolop is open!",
+        "user": "UV1ANS7GR",
+        "ts": "1615043862.120800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXjO\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello friends Nolop is open!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd075ee8-72e3-4854-96e2-16b94153c6ef",
+        "type": "message",
+        "text": "Hey <@U01BWJ8KGKU> your print failed overnight, would you like to try again on P4?",
+        "user": "UV1ANS7GR",
+        "ts": "1615044054.120900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5WDJY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BWJ8KGKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your print failed overnight, would you like to try again on P4?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614977467.120400",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "C1E1126E-9E62-4746-A2C0-5F000AAE8449",
+        "type": "message",
+        "text": "Hey, can I get a rough stock check on Formlabs resin? Some of Chris Rogers’ students want to print tight-tolerance stuff that will interface with Legos.",
+        "user": "UUX7FNR7U",
+        "ts": "1615044421.122400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, can I get a rough stock check on Formlabs resin? Some of Chris Rogers’ students want to print tight-tolerance stuff that will interface with Legos."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615044421.122400",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1615046332.126000",
+        "reply_users": [
+            "UUX9LS8AW",
+            "UUX7FNR7U",
+            "UUXLKS2F4"
+        ],
+        "replies": [
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1615044553.122500"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1615044592.123100"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1615044599.123400"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1615044622.123800"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1615044633.124200"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1615044656.124400"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1615045679.124700"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1615046332.126000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1615046332.126000"
+    },
+    {
+        "client_msg_id": "bcefbb21-c1c7-4661-aeaa-d4b94779c4f3",
+        "type": "message",
+        "text": "i think (?) we are low on elastic and rigid",
+        "user": "UUX9LS8AW",
+        "ts": "1615044553.122500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVg2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think (?) we are low on elastic and rigid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615044421.122400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "3e68d474-37df-4449-a8a1-def574100d86",
+        "type": "message",
+        "text": "but are good on other resin",
+        "user": "UUX9LS8AW",
+        "ts": "1615044592.123100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qWWxb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but are good on other resin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615044421.122400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "3DC8ADC0-8F33-4710-B524-295B152ED7C7",
+        "type": "message",
+        "text": "But we have at least, say, a liter of total resin?",
+        "user": "UUX7FNR7U",
+        "ts": "1615044599.123400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qK9La",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But we have at least, say, a liter of total resin?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615044421.122400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "f2adf12d-1fd9-405e-8540-9a1615576703",
+        "type": "message",
+        "text": "yeah I believe so",
+        "user": "UUX9LS8AW",
+        "ts": "1615044622.123800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOVW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah I believe so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615044421.122400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "8556C89E-A44E-4D36-A598-3F0C54D1CD00",
+        "type": "message",
+        "text": "Okay, cool. Thanks.",
+        "user": "UUX7FNR7U",
+        "ts": "1615044633.124200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dEA2e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, cool. Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615044421.122400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "7b69bc41-404a-4836-90d3-6e73ad1f0e91",
+        "type": "message",
+        "text": "We have the black resin that hasnt been opened yet",
+        "user": "UUX9LS8AW",
+        "ts": "1615044656.124400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lso",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have the black resin that hasnt been opened yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615044421.122400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "76631FDE-C4D9-4292-9503-9D430F477A7A",
+        "type": "message",
+        "text": "Awesome.",
+        "user": "UUX7FNR7U",
+        "ts": "1615045679.124700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615044421.122400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "45AD8A60-5EF1-4545-917D-939C856B5DE4",
+        "type": "message",
+        "text": "if I remembered correctly, we might have to order another resin tank LT to be used for the unopened black resin",
+        "user": "UUXLKS2F4",
+        "ts": "1615046332.126000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDuYS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if I remembered correctly, we might have to order another resin tank LT to be used for the unopened black resin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615044421.122400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "d3748fe4-09e6-4a89-bc1a-dc2957fb4b84",
+        "type": "message",
+        "text": "For transparency I'm taking P5",
+        "user": "UV1ANS7GR",
+        "ts": "1615046733.126400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J7UC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For transparency I'm taking P5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6311C530-3C19-4396-BAA8-48F76DBA16F8",
+        "type": "message",
+        "text": "Hi is there a printer open? Preferably grey or black filament ",
+        "user": "U010PP3CGUS",
+        "ts": "1615049010.127000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "8ec3935ee678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-13\/1419795780070_8ec3935ee678c1e29dd8_72.jpg",
+            "first_name": "",
+            "real_name": "Harry Steinberg",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "harrymsteinberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wj9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi is there a printer open? Preferably grey or black filament "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "565f640a-7064-4ab3-b20b-4b586ff1f199",
+        "type": "message",
+        "text": "P5 is open in black!",
+        "user": "UV1ANS7GR",
+        "ts": "1615049052.127300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "P5 is open in black!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615049052.127300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1615049731.127700",
+        "reply_users": [
+            "U010PP3CGUS"
+        ],
+        "replies": [
+            {
+                "user": "U010PP3CGUS",
+                "ts": "1615049731.127700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "120F7F92-D62C-424E-AFF0-16D14EEB529B",
+        "type": "message",
+        "text": "Awesomeness just started it",
+        "user": "U010PP3CGUS",
+        "ts": "1615049731.127700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "8ec3935ee678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-13\/1419795780070_8ec3935ee678c1e29dd8_72.jpg",
+            "first_name": "",
+            "real_name": "Harry Steinberg",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "harrymsteinberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ZdO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesomeness just started it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615049052.127300",
+        "parent_user_id": "UV1ANS7GR"
+    }
+]

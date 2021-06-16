@@ -1,0 +1,441 @@
+[
+    {
+        "client_msg_id": "E5F0A448-38A6-4258-9ACE-AFF1FFF9DFF4",
+        "type": "message",
+        "text": "So great! Thank you!",
+        "user": "UUX7FNR7U",
+        "ts": "1599998426.026300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XkWdW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So great! Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EBA7A2CE-E278-486F-AC62-F3C36B42B2B9",
+        "type": "message",
+        "text": "Question: is the top row all old printers, and the bottom row new ones? I’d like to keep them in cohorts for maintenance purposes. We can always check the usage stats if they got mixed up.",
+        "user": "UUX7FNR7U",
+        "ts": "1599998553.029400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cNSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question: is the top row all old printers, and the bottom row new ones? I’d like to keep them in cohorts for maintenance purposes. We can always check the usage stats if they got mixed up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599998553.029400",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1600028583.036200",
+        "reply_users": [
+            "UVA4Q0DM3",
+            "UV1ANS7GR",
+            "UVCATTNCW",
+            "UUX7FNR7U"
+        ],
+        "replies": [
+            {
+                "user": "UVA4Q0DM3",
+                "ts": "1600003530.031200"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1600006352.031400"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1600020149.031600"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1600020247.033200"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1600028480.034600"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1600028583.036200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1600028583.036200"
+    },
+    {
+        "client_msg_id": "172FA585-6067-43CA-8EEC-6A7014E3C506",
+        "type": "message",
+        "text": "I think the two left most printers are the new ones, but yeah maybe we should check the stats to be sure.",
+        "user": "UVA4Q0DM3",
+        "ts": "1600003530.031200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d7a36236da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d7a36236da60328b0524d2cc31523e6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jake Sorscher",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "j.sorscher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the two left most printers are the new ones, but yeah maybe we should check the stats to be sure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599998553.029400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "ef754bd7-9b4c-4ee0-99d9-ab84ac2578e5",
+        "type": "message",
+        "text": "<@UVA4Q0DM3> is correct, right now you can tell by their build plates",
+        "user": "UV1ANS7GR",
+        "ts": "1600006352.031400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6RKVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVA4Q0DM3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is correct, right now you can tell by their build plates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599998553.029400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "6bd0e103-4d01-465a-bbfc-e199047e9206",
+        "type": "message",
+        "text": "*usage stats get reset after a firmware reflash, which I know I've done before, so tread carefully when referring to them",
+        "user": "UVCATTNCW",
+        "ts": "1600020149.031600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lyR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*usage stats get reset after a firmware reflash, which I know I've done before, so tread carefully when referring to them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599998553.029400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "37F4705C-807B-432A-AD89-5E50A2CF1F41",
+        "type": "message",
+        "text": "Reset or overwritten? Is the firmware binary loaded into the same memory where the stats are stored?",
+        "user": "UUX7FNR7U",
+        "ts": "1600020247.033200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A\/4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reset or overwritten? Is the firmware binary loaded into the same memory where the stats are stored?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599998553.029400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "083b1560-9d6a-4d24-aa96-13abd47974fe",
+        "type": "message",
+        "text": "Are all prints put out on the table when they're done?",
+        "user": "UVDGSPBA8",
+        "ts": "1600025351.033400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8c4bedf3848",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8c4bedf38487ed545039c11597190f85.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Daniel Bekai",
+            "display_name": "Daniel Bekai",
+            "team": "TUX7FNQ8J",
+            "name": "daniel.bekai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are all prints put out on the table when they're done?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599920340.016500",
+        "parent_user_id": "UVDGSPBA8"
+    },
+    {
+        "client_msg_id": "583E2A35-20A9-48C4-AF7E-C5C3D65E24BF",
+        "type": "message",
+        "text": "They all should be, and I saw yours out there this morning.",
+        "user": "UUX7FNR7U",
+        "ts": "1600025758.034400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTYZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They all should be, and I saw yours out there this morning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599920340.016500",
+        "parent_user_id": "UVDGSPBA8"
+    },
+    {
+        "client_msg_id": "707a365f-86fa-4c0f-b333-70268a0e3046",
+        "type": "message",
+        "text": "I'm not entirely sure about the difference between the two things you mentioned, but all I know is that the printing stats (like distance\/time printed) go back to zero when the firmware is reflashed",
+        "user": "UVCATTNCW",
+        "ts": "1600028480.034600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ltEPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not entirely sure about the difference between the two things you mentioned, but all I know is that the printing stats (like distance\/time printed) go back to zero when the firmware is reflashed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599998553.029400",
+        "parent_user_id": "UUX7FNR7U"
+    },
+    {
+        "client_msg_id": "8A4CA04C-96FF-430F-BEE0-213B539B05C2",
+        "type": "message",
+        "text": "True. I was just prodding you to deepen your knowledge. (I don’t actually know the answer, but I am curious about how it works.)",
+        "user": "UUX7FNR7U",
+        "ts": "1600028583.036200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wEb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True. I was just prodding you to deepen your knowledge. (I don’t actually know the answer, but I am curious about how it works.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599998553.029400",
+        "parent_user_id": "UUX7FNR7U"
+    }
+]

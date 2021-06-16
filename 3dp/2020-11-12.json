@@ -1,0 +1,2391 @@
+[
+    {
+        "client_msg_id": "4bb089d1-f24e-43b8-a950-38bed75899d0",
+        "type": "message",
+        "text": "Hi! Is P4 open and still loaded with black?",
+        "user": "U010S9D5TJ4",
+        "ts": "1605190872.206300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6e693df31c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e693df31c62fdc0ff641098c26f1337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Daniel Braunegg",
+            "display_name": "Daniel Braunegg",
+            "team": "TUX7FNQ8J",
+            "name": "dbraunegg17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ul9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Is P4 open and still loaded with black?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605190872.206300",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1605209048.219600",
+        "reply_users": [
+            "UVC8Q8RAS",
+            "U010S9D5TJ4",
+            "UV00RGM5F"
+        ],
+        "replies": [
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1605190972.206500"
+            },
+            {
+                "user": "U010S9D5TJ4",
+                "ts": "1605191506.206700"
+            },
+            {
+                "user": "U010S9D5TJ4",
+                "ts": "1605191845.206900"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605194208.207500"
+            },
+            {
+                "user": "U010S9D5TJ4",
+                "ts": "1605209048.219600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7fbcfc95-d5bb-4e71-b979-e3aedbd67390",
+        "type": "message",
+        "text": "Yes!",
+        "user": "UVC8Q8RAS",
+        "ts": "1605190972.206500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rbq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605190872.206300",
+        "parent_user_id": "U010S9D5TJ4"
+    },
+    {
+        "client_msg_id": "cbea7080-bf15-4b47-81f0-10cf0de374fb",
+        "type": "message",
+        "text": "<@UVC8Q8RAS> Shoot I had to cancel and restart, is the bed clear?",
+        "user": "U010S9D5TJ4",
+        "ts": "1605191506.206700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6e693df31c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e693df31c62fdc0ff641098c26f1337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Daniel Braunegg",
+            "display_name": "Daniel Braunegg",
+            "team": "TUX7FNQ8J",
+            "name": "dbraunegg17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qpNq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVC8Q8RAS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Shoot I had to cancel and restart, is the bed clear?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605190872.206300",
+        "parent_user_id": "U010S9D5TJ4"
+    },
+    {
+        "client_msg_id": "08e9f5b8-15d8-4762-90d1-d69b9789104c",
+        "type": "message",
+        "text": "Never mind just resent, thanks!",
+        "user": "U010S9D5TJ4",
+        "ts": "1605191845.206900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6e693df31c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e693df31c62fdc0ff641098c26f1337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Daniel Braunegg",
+            "display_name": "Daniel Braunegg",
+            "team": "TUX7FNQ8J",
+            "name": "dbraunegg17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Never mind just resent, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605190872.206300",
+        "parent_user_id": "U010S9D5TJ4"
+    },
+    {
+        "client_msg_id": "c1718bc9-122e-496c-ae51-d38b8063fb4e",
+        "type": "message",
+        "text": "Its on the table outside!",
+        "user": "UV00RGM5F",
+        "ts": "1605194208.207500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Its on the table outside!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605190872.206300",
+        "parent_user_id": "U010S9D5TJ4"
+    },
+    {
+        "client_msg_id": "2FFC5C5A-DB8C-477D-8D7E-FD5C69A3E7B5",
+        "type": "message",
+        "text": "Can I print some thing please?",
+        "user": "U01D9RA354J",
+        "ts": "1605197210.208200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I print some thing please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "reply_count": 14,
+        "reply_users_count": 2,
+        "latest_reply": "1605199332.214500",
+        "reply_users": [
+            "UV00RGM5F",
+            "U01D9RA354J"
+        ],
+        "replies": [
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605197287.208300"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605197889.210100"
+            },
+            {
+                "user": "U01D9RA354J",
+                "ts": "1605198596.210900"
+            },
+            {
+                "user": "U01D9RA354J",
+                "ts": "1605198602.211100"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605198615.211300"
+            },
+            {
+                "user": "U01D9RA354J",
+                "ts": "1605198850.211700"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605198887.211900"
+            },
+            {
+                "user": "U01D9RA354J",
+                "ts": "1605199106.212100"
+            },
+            {
+                "user": "U01D9RA354J",
+                "ts": "1605199173.212700"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605199262.213100"
+            },
+            {
+                "user": "U01D9RA354J",
+                "ts": "1605199304.213900"
+            },
+            {
+                "user": "U01D9RA354J",
+                "ts": "1605199307.214100"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605199320.214300"
+            },
+            {
+                "user": "U01D9RA354J",
+                "ts": "1605199332.214500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "47aecb5f-7a7e-42ab-9294-247040156359",
+        "type": "message",
+        "text": "Sure! P2 has gray filament, p3 has red, p5 has brown, or p7 has gray (lighter than p2)",
+        "user": "UV00RGM5F",
+        "ts": "1605197287.208300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5avv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure! P2 has gray filament, p3 has red, p5 has brown, or p7 has gray (lighter than p2)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "5cfa2cc6-d740-478f-b11b-2ed848452258",
+        "type": "message",
+        "text": "Howdy!  I have two prints that I'd like to make, are any printers available?",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605197349.209000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RlUb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Howdy!  I have two prints that I'd like to make, are any printers available?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "reply_count": 24,
+        "reply_users_count": 2,
+        "latest_reply": "1605200286.216300",
+        "reply_users": [
+            "UV00RGM5F",
+            "U01E66UJ1PZ"
+        ],
+        "replies": [
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605197803.209100"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605197854.209300"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605197862.209500"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605197868.209700"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605197879.209900"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605197993.210300"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605198507.210500"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605198556.210700"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605198793.211500"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605199166.212300"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605199168.212500"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605199260.212900"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605199274.213300"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605199278.213500"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605199302.213700"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605199436.214700"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605199497.214900"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605200122.215100"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605200129.215300"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605200173.215500"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1605200177.215700"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605200283.215900"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605200285.216100"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1605200286.216300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bfd49235-9779-4e8a-bfda-07a875452412",
+        "type": "message",
+        "text": "Do they fit on one bed? We have a few printers open at the moment: P2 has gray filament, p3 has red, p5 has brown, or p7 has gray (lighter than p2)",
+        "user": "UV00RGM5F",
+        "ts": "1605197803.209100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5sZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do they fit on one bed? We have a few printers open at the moment: P2 has gray filament, p3 has red, p5 has brown, or p7 has gray (lighter than p2)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "0aaecec0-9952-44e5-9841-34303c11ad3f",
+        "type": "message",
+        "text": "They are both like 7 in x 4 in or so",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605197854.209300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uiZ9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They are both like 7 in x 4 in or so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "ae7c77ea-48ff-4248-957c-65dab7b6dd2a",
+        "type": "message",
+        "text": "I can double check",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605197862.209500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0jbC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can double check"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "6a8f29a2-4a46-41f6-ac72-01482b22a19d",
+        "type": "message",
+        "text": "could I use p3?",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605197868.209700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tmRfg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "could I use p3?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "bd6e8d83-9355-4c16-955f-6d89c37a744a",
+        "type": "message",
+        "text": "Sure!",
+        "user": "UV00RGM5F",
+        "ts": "1605197879.209900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X7p1I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "b091b872-e1ae-4753-85f7-754333e1cf93",
+        "type": "message",
+        "text": "**p3 has been taken",
+        "user": "UV00RGM5F",
+        "ts": "1605197889.210100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "USDi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "**p3 has been taken"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "ece27009-e242-43e5-9b02-cd8124b058e2",
+        "type": "message",
+        "text": "I've never really used this service before, is the login just my tufts ID?",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605197993.210300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=4oSl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've never really used this service before, is the login just my tufts ID?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "a821cc9e-73ba-4240-8146-d341477e2213",
+        "type": "message",
+        "text": "Do I have to create a separate account?",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605198507.210500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "auy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do I have to create a separate account?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "a3853b05-6e02-442d-866a-f63a75feb7f3",
+        "type": "message",
+        "text": "Nope, the log in for any of the printers is nolop pw: 3dprint",
+        "user": "UV00RGM5F",
+        "ts": "1605198556.210700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eOuH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope, the log in for any of the printers is nolop pw: 3dprint"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "8f033aa6-ae51-45b6-84cb-af4c417b2c0d",
+        "type": "message",
+        "text": "ok, sorry for the slow response",
+        "user": "U01D9RA354J",
+        "ts": "1605198596.210900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K6qi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, sorry for the slow response"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "f6b342af-4652-46cf-baa6-efe031ed1cd5",
+        "type": "message",
+        "text": "p7 is good to use?",
+        "user": "U01D9RA354J",
+        "ts": "1605198602.211100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bxn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "p7 is good to use?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "26d5a315-a867-435f-a2cd-19485e422143",
+        "type": "message",
+        "text": "No worries! Yep p7 is good to go :)",
+        "user": "UV00RGM5F",
+        "ts": "1605198615.211300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries! Yep p7 is good to go :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "8bc07460-918b-4964-ba72-f8dcd28c7318",
+        "type": "message",
+        "text": "word ty!  just started",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605198793.211500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aNHU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "word ty!  just started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "b1fd37f5-356b-4a60-8897-9946305f22cf",
+        "type": "message",
+        "text": "its <http:\/\/p7.nolop.org|p7.nolop.org> right?",
+        "user": "U01D9RA354J",
+        "ts": "1605198850.211700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NRT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/p7.nolop.org",
+                                "text": "p7.nolop.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "bc38c36e-39c4-4c8f-948a-bc4bc76dfa2a",
+        "type": "message",
+        "text": "Yes",
+        "user": "UV00RGM5F",
+        "ts": "1605198887.211900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "smKH7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "8a4add36-184f-4d56-9f0a-a3ff54f05e66",
+        "type": "message",
+        "text": "its not connecting on my laptop or my phone...",
+        "user": "U01D9RA354J",
+        "ts": "1605199106.212100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its not connecting on my laptop or my phone..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "0fa3762d-a4aa-418f-a4fd-b1a2d1c4a034",
+        "type": "message",
+        "text": "I may have accidentally printed the wrong thing?",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605199166.212300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fYmWn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I may have accidentally printed the wrong thing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "29f68332-7474-4b1e-b690-0faa6cc70b81",
+        "type": "message",
+        "text": "I am not sure",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605199168.212500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rsn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "f6531d06-fa32-458e-8738-1a223bc6ccd0",
+        "type": "message",
+        "text": "Is there a chance it's down right now?",
+        "user": "U01D9RA354J",
+        "ts": "1605199173.212700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tTS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a chance it's down right now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "ede22ca9-8c76-4b4d-b680-e2dba02771fa",
+        "type": "message",
+        "text": "Yea I think I did :confused:",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605199260.212900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5iJ66",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea I think I did "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "845ed9bb-cde7-4963-82ae-7814417df481",
+        "type": "message",
+        "text": "Hmmm are you on the tufts wifi?",
+        "user": "UV00RGM5F",
+        "ts": "1605199262.213100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmmm are you on the tufts wifi?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "91fd39b5-358b-417c-8aab-a8f7f7a7560c",
+        "type": "message",
+        "text": "Is there anyway for me to cancel and restart?",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605199274.213300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JcnZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there anyway for me to cancel and restart?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "a309a747-cb52-45ae-9a81-8902a8e133b5",
+        "type": "message",
+        "text": "You can cancel and reprint!",
+        "user": "UV00RGM5F",
+        "ts": "1605199278.213500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YyOnq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can cancel and reprint!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "768f6ba2-2c70-4847-b610-add7d9a83bf4",
+        "type": "message",
+        "text": "It has not started actually printing yet; it was only warming up so feel free to just print the correct part :)",
+        "user": "UV00RGM5F",
+        "ts": "1605199302.213700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jyWeH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It has not started actually printing yet; it was only warming up so feel free to just print the correct part :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "79abfc9c-ee23-4828-bac6-a3fe6f15b057",
+        "type": "message",
+        "text": "No, do I need to be",
+        "user": "U01D9RA354J",
+        "ts": "1605199304.213900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nfLM2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, do I need to be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "ea8100e7-368b-4d2d-a0d2-5a2e474e71fc",
+        "type": "message",
+        "text": "I can get onto it",
+        "user": "U01D9RA354J",
+        "ts": "1605199307.214100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can get onto it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "13209718-4e52-4177-92e5-185d3ab2b6bc",
+        "type": "message",
+        "text": "Yes, you can do that or log into the vpn",
+        "user": "UV00RGM5F",
+        "ts": "1605199320.214300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, you can do that or log into the vpn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "4a16a7fc-12dd-4bce-8738-080d96add8d4",
+        "type": "message",
+        "text": "Ok, thank you for the help",
+        "user": "U01D9RA354J",
+        "ts": "1605199332.214500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, thank you for the help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197210.208200",
+        "parent_user_id": "U01D9RA354J"
+    },
+    {
+        "client_msg_id": "74c48203-a777-4d7d-a5d8-6bb962e62066",
+        "type": "message",
+        "text": "Jk i was looking at the wrong printer. I'll clear it rn",
+        "user": "UV00RGM5F",
+        "ts": "1605199436.214700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JR=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jk i was looking at the wrong printer. I'll clear it rn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "e8181649-4c71-4fba-9050-5eec98b0a726",
+        "type": "message",
+        "text": "Okay NOW you are good too restart haha",
+        "user": "UV00RGM5F",
+        "ts": "1605199497.214900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay NOW you are good too restart haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "0d3d425a-9759-4b11-ba1e-88c20700db20",
+        "type": "message",
+        "text": "oh I think I started it before ya cleared it",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605200122.215100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "guOkN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh I think I started it before ya cleared it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "f5b3b632-1db6-4b92-a850-1abcb6954d05",
+        "type": "message",
+        "text": "should i cancel and start it again?",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605200129.215300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qw+D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "should i cancel and start it again?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "510b6e97-9bec-4d1b-8ab0-cd3b0e497b25",
+        "type": "message",
+        "text": "No I think you're good. It wasn't going when I cleared it",
+        "user": "UV00RGM5F",
+        "ts": "1605200173.215500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZgdn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No I think you're good. It wasn't going when I cleared it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "55f41bed-1ff2-4c2a-8676-22c61a761681",
+        "type": "message",
+        "text": "Sorry for the confusion",
+        "user": "UV00RGM5F",
+        "ts": "1605200177.215700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q2bEY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry for the confusion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "3fbe4627-caf7-4003-a42f-b7a701a87895",
+        "type": "message",
+        "text": "oh word",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605200283.215900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Scj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh word"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "c06b2fb5-4db1-484b-9348-37c07f67e9cb",
+        "type": "message",
+        "text": "ur good!",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605200285.216100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hdou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ur good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ"
+    },
+    {
+        "client_msg_id": "1c137cd0-8f6d-4fa4-8141-f1c294ed087a",
+        "type": "message",
+        "text": "ty!",
+        "user": "U01E66UJ1PZ",
+        "ts": "1605200286.216300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8GI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ty!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197349.209000",
+        "parent_user_id": "U01E66UJ1PZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV00RGM5F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A58A4A03-2468-407A-B885-D0A08CCE821A",
+        "type": "message",
+        "text": "Hello! Are there any printers available now?",
+        "user": "U01E8589VAN",
+        "ts": "1605206959.217300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g0498842d672",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0498842d6722a6f79fd19886d7d5480d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Jiajian Zong",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jiajian.zong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6Ygj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Are there any printers available now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605206959.217300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1605207066.218000",
+        "reply_users": [
+            "UUXLKS2F4",
+            "U01E8589VAN"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1605207007.217700"
+            },
+            {
+                "user": "U01E8589VAN",
+                "ts": "1605207066.218000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4A0F0984-8512-4D16-A3D3-EEE134C436AC",
+        "type": "message",
+        "text": "Yes, p2 is loaded with grey filament!",
+        "user": "UUXLKS2F4",
+        "ts": "1605207007.217700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KrCJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, p2 is loaded with grey filament!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605206959.217300",
+        "parent_user_id": "U01E8589VAN"
+    },
+    {
+        "client_msg_id": "BB68E727-06D2-4720-A226-33B50510C65F",
+        "type": "message",
+        "text": "Awesome!",
+        "user": "U01E8589VAN",
+        "ts": "1605207066.218000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g0498842d672",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0498842d6722a6f79fd19886d7d5480d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Jiajian Zong",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jiajian.zong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605206959.217300",
+        "parent_user_id": "U01E8589VAN"
+    },
+    {
+        "client_msg_id": "10418974-e823-4b01-8fe6-f59c1c2a8308",
+        "type": "message",
+        "text": "Are there any printers available atm?",
+        "user": "U01CBGPH37V",
+        "ts": "1605207960.218400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e6cbce4ea335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-09\/1412629522534_e6cbce4ea335d84344c9_72.png",
+            "first_name": "",
+            "real_name": "Jackson J. O'Toole",
+            "display_name": "Jackson J. O'Toole",
+            "team": "TUX7FNQ8J",
+            "name": "john.o_toole",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "le0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there any printers available atm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605207960.218400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1605208212.219400",
+        "reply_users": [
+            "UUXLKS2F4",
+            "U01CBGPH37V"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1605208049.218900"
+            },
+            {
+                "user": "U01CBGPH37V",
+                "ts": "1605208198.219100"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1605208212.219400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "78A3F762-1B76-417B-A2AE-9A7F07DBF510",
+        "type": "message",
+        "text": "p1 with red or P7 with grey!",
+        "user": "UUXLKS2F4",
+        "ts": "1605208049.218900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hSan",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "p1 with red or P7 with grey!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605207960.218400",
+        "parent_user_id": "U01CBGPH37V"
+    },
+    {
+        "client_msg_id": "9303d5ce-4fe3-4045-a8fe-4eee6ebb8097",
+        "type": "message",
+        "text": "Sweet, lll take p7. Thank you!",
+        "user": "U01CBGPH37V",
+        "ts": "1605208198.219100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e6cbce4ea335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-09\/1412629522534_e6cbce4ea335d84344c9_72.png",
+            "first_name": "",
+            "real_name": "Jackson J. O'Toole",
+            "display_name": "Jackson J. O'Toole",
+            "team": "TUX7FNQ8J",
+            "name": "john.o_toole",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1INP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet, lll take p7. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605207960.218400",
+        "parent_user_id": "U01CBGPH37V"
+    },
+    {
+        "client_msg_id": "D94158D7-F565-4F42-A2A5-1769FD7358B6",
+        "type": "message",
+        "text": "yup！",
+        "user": "UUXLKS2F4",
+        "ts": "1605208212.219400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yup！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605207960.218400",
+        "parent_user_id": "U01CBGPH37V"
+    },
+    {
+        "client_msg_id": "9dacd574-87c3-45eb-9d9e-4689f29a70a4",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U010S9D5TJ4",
+        "ts": "1605209048.219600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6e693df31c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e693df31c62fdc0ff641098c26f1337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Daniel Braunegg",
+            "display_name": "Daniel Braunegg",
+            "team": "TUX7FNQ8J",
+            "name": "dbraunegg17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605190872.206300",
+        "parent_user_id": "U010S9D5TJ4"
+    }
+]

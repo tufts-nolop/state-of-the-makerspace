@@ -1,0 +1,369 @@
+[
+    {
+        "client_msg_id": "23f89ff4-806d-43bf-a76d-ab8f3de4e7f6",
+        "type": "message",
+        "text": "Now accepting print requests! Here until ~4pm",
+        "user": "UUYJ7QWNP",
+        "ts": "1601221162.014300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "URQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now accepting print requests! Here until ~4pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29d66f63-7990-4060-aeda-38c5d3007118",
+        "type": "message",
+        "text": "Are any of the printers free?",
+        "user": "U010GQ0G0P5",
+        "ts": "1601231145.014500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "774bc97dc585",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-07\/1045514463986_774bc97dc585c3e9134f_72.jpg",
+            "first_name": "",
+            "real_name": "Audrey Balaska",
+            "display_name": "Audrey Balaska",
+            "team": "TUX7FNQ8J",
+            "name": "audrey.balaska",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CS33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are any of the printers free?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601231145.014500",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1601231888.015400",
+        "reply_users": [
+            "UUYJ7QWNP",
+            "U010GQ0G0P5"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1601231205.014600"
+            },
+            {
+                "user": "U010GQ0G0P5",
+                "ts": "1601231765.014800"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1601231815.015200"
+            },
+            {
+                "user": "U010GQ0G0P5",
+                "ts": "1601231888.015400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cf251be4-8d23-43d1-a471-49e4bfe428d9",
+        "type": "message",
+        "text": "Yes indeed! P2, P4, and P5 are all free. Are you looking for a particular color? Also depending on the length of your print some might need to be reloaded",
+        "user": "UUYJ7QWNP",
+        "ts": "1601231205.014600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes indeed! P2, P4, and P5 are all free. Are you looking for a particular color? Also depending on the length of your print some might need to be reloaded"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601231145.014500",
+        "parent_user_id": "U010GQ0G0P5"
+    },
+    {
+        "type": "message",
+        "text": "Any color works!  And I don't know how long it will take, but this is how it fits on the bed of P2:",
+        "files": [
+            {
+                "id": "F01B1PYHTRV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5GXkV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any color works!  And I don't know how long it will take, but this is how it fits on the bed of P2:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010GQ0G0P5",
+        "display_as_bot": false,
+        "ts": "1601231765.014800",
+        "thread_ts": "1601231145.014500",
+        "parent_user_id": "U010GQ0G0P5"
+    },
+    {
+        "client_msg_id": "8e425d11-c880-49c8-96f2-cd78799865c5",
+        "type": "message",
+        "text": "Ok! P2 has enough filament; you should be good to go!",
+        "user": "UUYJ7QWNP",
+        "ts": "1601231815.015200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ve0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok! P2 has enough filament; you should be good to go!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601231145.014500",
+        "parent_user_id": "U010GQ0G0P5"
+    },
+    {
+        "client_msg_id": "df1d8749-9a0b-498a-b885-de35a87139b1",
+        "type": "message",
+        "text": "Awesome thanks!",
+        "user": "U010GQ0G0P5",
+        "ts": "1601231888.015400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "774bc97dc585",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-07\/1045514463986_774bc97dc585c3e9134f_72.jpg",
+            "first_name": "",
+            "real_name": "Audrey Balaska",
+            "display_name": "Audrey Balaska",
+            "team": "TUX7FNQ8J",
+            "name": "audrey.balaska",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PIuG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601231145.014500",
+        "parent_user_id": "U010GQ0G0P5"
+    },
+    {
+        "client_msg_id": "ABAD00B9-DE09-4499-9B75-4CBA239915DA",
+        "type": "message",
+        "text": "Hi are you still accepting print requests?",
+        "user": "U01B5ME6PL5",
+        "ts": "1601245270.016300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1b1d1ccc1ce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1b1d1ccc1ce8b678fd6b536c5ee6dfe5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Dylan Wagman",
+            "display_name": "Dylan Wagman",
+            "team": "TUX7FNQ8J",
+            "name": "dylan.wagman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGJNM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi are you still accepting print requests?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601245270.016300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1601245373.016900",
+        "reply_users": [
+            "UUYJ7QWNP"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1601245373.016900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "486A7A44-F878-456B-AA95-68D086AF0032",
+        "type": "message",
+        "text": "Unfortunately I left; sorry. <@U017Q918SV6> are you near nolop?",
+        "user": "UUYJ7QWNP",
+        "ts": "1601245373.016900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EtIsH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unfortunately I left; sorry. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017Q918SV6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you near nolop?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601245270.016300",
+        "parent_user_id": "U01B5ME6PL5",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017Q918SV6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

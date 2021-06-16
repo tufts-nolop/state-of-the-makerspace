@@ -1,0 +1,1005 @@
+[
+    {
+        "client_msg_id": "e464ff7f-220e-408a-8e88-8e0e5869f8da",
+        "type": "message",
+        "text": "Morning folks, nolop is open! P2 had some issues last night, so if you’d like to reprint just message again",
+        "user": "UUX9LS8AW",
+        "ts": "1617283081.205900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PgL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Morning folks, nolop is open! P2 had some issues last night, so if you’d like to reprint just message again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94981ee0-40c4-4e95-84ef-da38e149af34",
+        "type": "message",
+        "text": "Is there a printer free? Also should I upload locally or to SD?",
+        "user": "U01R1KA6YLV",
+        "ts": "1617287832.206400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga98834ee552",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a98834ee552fc26e735505af20fa10b5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "Milo Dwight",
+            "display_name": "Milo Dwight",
+            "team": "TUX7FNQ8J",
+            "name": "gdwigh01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bxx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a printer free? Also should I upload locally or to SD?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617287832.206400",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1617370213.212100",
+        "reply_users": [
+            "UVC8Q8RAS",
+            "U01R1KA6YLV",
+            "UV0AV32DQ"
+        ],
+        "replies": [
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1617293978.206500"
+            },
+            {
+                "user": "U01R1KA6YLV",
+                "ts": "1617296135.206700"
+            },
+            {
+                "user": "U01R1KA6YLV",
+                "ts": "1617296445.206900"
+            },
+            {
+                "user": "U01R1KA6YLV",
+                "ts": "1617297763.207100"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617369400.210700"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617369450.210900"
+            },
+            {
+                "user": "U01R1KA6YLV",
+                "ts": "1617370146.211700"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617370213.212100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1cd52e93-4c75-434a-9938-8105dcb9d5a3",
+        "type": "message",
+        "text": "Yes, you can use p2. if you go to <http:\/\/p2.nolop.org|p2.nolop.org> while you are using a Tufts wifi connection, you should be able to upload your print into a slicer that way. If you aren't on a Tufts wifi, you can use the VPN to access the website",
+        "user": "UVC8Q8RAS",
+        "ts": "1617293978.206500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jd9jM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, you can use p2. if you go to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/p2.nolop.org",
+                                "text": "p2.nolop.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " while you are using a Tufts wifi connection, you should be able to upload your print into a slicer that way. If you aren't on a Tufts wifi, you can use the VPN to access the website"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617287832.206400",
+        "parent_user_id": "U01R1KA6YLV"
+    },
+    {
+        "client_msg_id": "4fb9fab0-4f7e-4290-b26e-025b24085535",
+        "type": "message",
+        "text": "I hope it is printing. It might be too large for the gcode viewer",
+        "user": "U01R1KA6YLV",
+        "ts": "1617296135.206700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga98834ee552",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a98834ee552fc26e735505af20fa10b5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "Milo Dwight",
+            "display_name": "Milo Dwight",
+            "team": "TUX7FNQ8J",
+            "name": "gdwigh01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zgi6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope it is printing. It might be too large for the gcode viewer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617287832.206400",
+        "parent_user_id": "U01R1KA6YLV"
+    },
+    {
+        "client_msg_id": "5674c1f0-8c55-4cf9-985f-1964bdead2ac",
+        "type": "message",
+        "text": "Nevermind, it showed up and looks like it is working",
+        "user": "U01R1KA6YLV",
+        "ts": "1617296445.206900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga98834ee552",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a98834ee552fc26e735505af20fa10b5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "Milo Dwight",
+            "display_name": "Milo Dwight",
+            "team": "TUX7FNQ8J",
+            "name": "gdwigh01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DFjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nevermind, it showed up and looks like it is working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617287832.206400",
+        "parent_user_id": "U01R1KA6YLV"
+    },
+    {
+        "client_msg_id": "db53128c-f678-469d-b2cd-29e28e194106",
+        "type": "message",
+        "text": "Is it at 100%, because perusa slicer said it would take just over 18 hours and the online thing is saying 6.5 days. I am very confused and would love help",
+        "user": "U01R1KA6YLV",
+        "ts": "1617297763.207100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga98834ee552",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a98834ee552fc26e735505af20fa10b5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "Milo Dwight",
+            "display_name": "Milo Dwight",
+            "team": "TUX7FNQ8J",
+            "name": "gdwigh01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jjO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it at 100%, because perusa slicer said it would take just over 18 hours and the online thing is saying 6.5 days. I am very confused and would love help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617287832.206400",
+        "parent_user_id": "U01R1KA6YLV"
+    },
+    {
+        "client_msg_id": "b0d56842-8d1a-454e-8547-ff0bd49d4bdb",
+        "type": "message",
+        "text": "Hello! May I print something?",
+        "user": "U01QNN8KJ3D",
+        "ts": "1617310487.207500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6665857cc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6665857cc47c930fc62dcb38b78fbce1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Darya Clark",
+            "display_name": "Darya Clark",
+            "team": "TUX7FNQ8J",
+            "name": "darya.clark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKCS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! May I print something?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "reply_count": 42,
+        "reply_users_count": 3,
+        "latest_reply": "1617380943.218700",
+        "reply_users": [
+            "UVCATTNCW",
+            "U01QNN8KJ3D",
+            "UV0AV32DQ"
+        ],
+        "replies": [
+            {
+                "user": "UVCATTNCW",
+                "ts": "1617310493.207600"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1617310500.207800"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617310615.208000"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1617310669.208200"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617310686.208400"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617310726.208600"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1617310810.208800"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1617310822.209000"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1617310830.209200"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617310838.209400"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1617310845.209600"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617313230.209800"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617367064.210100"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617369330.210500"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617369924.211300"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617369983.211500"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617370194.211900"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617370545.212400"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617370659.212600"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617370697.212900"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617370762.213100"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617371559.213300"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617374232.213600"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617374904.213900"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617374930.214100"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617375004.214300"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617375021.214500"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617375070.214700"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617375088.214900"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617375355.215100"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617375451.215300"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617375501.215600"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617375505.215800"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617375539.216200"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617375752.216400"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617376321.216600"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617376449.216900"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617376621.217100"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617377202.217400"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617377255.217600"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1617380815.218500"
+            },
+            {
+                "user": "U01QNN8KJ3D",
+                "ts": "1617380943.218700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ef5de53b-8863-4626-9fba-11fe2f4a8fb7",
+        "type": "message",
+        "text": "Sure",
+        "user": "UVCATTNCW",
+        "ts": "1617310493.207600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HlBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "6fd4e10a-3b9d-4440-ab40-3f8308a8610a",
+        "type": "message",
+        "text": "any specific color?",
+        "user": "UVCATTNCW",
+        "ts": "1617310500.207800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGJJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any specific color?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "43cbd4c1-be9a-43d6-99a2-dfacb082bc47",
+        "type": "message",
+        "text": "Whatever is easiest!",
+        "user": "U01QNN8KJ3D",
+        "ts": "1617310615.208000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6665857cc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6665857cc47c930fc62dcb38b78fbce1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Darya Clark",
+            "display_name": "Darya Clark",
+            "team": "TUX7FNQ8J",
+            "name": "darya.clark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7d7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whatever is easiest!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "82c386dd-c374-435e-b24e-bdaef5140446",
+        "type": "message",
+        "text": "ok, let’s put you on <http:\/\/p4.nolop.org|p4.nolop.org>",
+        "user": "UVCATTNCW",
+        "ts": "1617310669.208200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbDc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, let’s put you on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/p4.nolop.org",
+                                "text": "p4.nolop.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "7b3691fe-0339-4bc8-8c1b-9368518b06a0",
+        "type": "message",
+        "text": "Awesome! thank you so much!",
+        "user": "U01QNN8KJ3D",
+        "ts": "1617310686.208400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6665857cc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6665857cc47c930fc62dcb38b78fbce1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Darya Clark",
+            "display_name": "Darya Clark",
+            "team": "TUX7FNQ8J",
+            "name": "darya.clark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pam=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! thank you so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "038d0f86-27bc-4fd7-a863-145760dc3c0f",
+        "type": "message",
+        "text": "Sorry, this is my first time using the 3d printers. Is my login just my Tufts info?",
+        "user": "U01QNN8KJ3D",
+        "ts": "1617310726.208600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6665857cc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6665857cc47c930fc62dcb38b78fbce1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Darya Clark",
+            "display_name": "Darya Clark",
+            "team": "TUX7FNQ8J",
+            "name": "darya.clark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7eK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, this is my first time using the 3d printers. Is my login just my Tufts info?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "a6d70b88-c572-411b-887e-7ba4f900e66b",
+        "type": "message",
+        "text": "login is: nolop, pass: 3dprint",
+        "user": "UVCATTNCW",
+        "ts": "1617310810.208800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wpq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "login is: nolop, pass: 3dprint"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "d2dac65e-53ff-4d08-a27b-90e412bbba61",
+        "type": "message",
+        "text": "<http:\/\/nolop.org\/3d-printing\/>",
+        "user": "UVCATTNCW",
+        "ts": "1617310822.209000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TiI9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/nolop.org\/3d-printing\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "d04c637e-dca9-49dd-ad22-17adaa07c3e3",
+        "type": "message",
+        "text": "<http:\/\/nolop.org\/3dprint\/>",
+        "user": "UVCATTNCW",
+        "ts": "1617310830.209200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wJCy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/nolop.org\/3dprint\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "4000cd10-b664-4953-a3bf-5652cc3c05bf",
+        "type": "message",
+        "text": "Awesome!!!!!",
+        "user": "U01QNN8KJ3D",
+        "ts": "1617310838.209400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6665857cc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6665857cc47c930fc62dcb38b78fbce1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Darya Clark",
+            "display_name": "Darya Clark",
+            "team": "TUX7FNQ8J",
+            "name": "darya.clark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PDU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    },
+    {
+        "client_msg_id": "a9a6cfde-fc4e-425e-ba30-318d1f30a717",
+        "type": "message",
+        "text": "both of those links should help you out, but if you have any more questions don’t hesitate to ask!",
+        "user": "UVCATTNCW",
+        "ts": "1617310845.209600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "both of those links should help you out, but if you have any more questions don’t hesitate to ask!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUX7FNR7U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a89982df-18e0-4411-ae60-b391bae5ffeb",
+        "type": "message",
+        "text": "Thank you!!!",
+        "user": "U01QNN8KJ3D",
+        "ts": "1617313230.209800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6665857cc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6665857cc47c930fc62dcb38b78fbce1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Darya Clark",
+            "display_name": "Darya Clark",
+            "team": "TUX7FNQ8J",
+            "name": "darya.clark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9t=Fa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310487.207500",
+        "parent_user_id": "U01QNN8KJ3D"
+    }
+]

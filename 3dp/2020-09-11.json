@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "3879424c-7977-457b-b612-b13be744bc72",
+        "type": "message",
+        "text": "Can we upload gcode or do y'all only take stls?",
+        "user": "UVDGSPBA8",
+        "ts": "1599861574.014500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8c4bedf3848",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8c4bedf38487ed545039c11597190f85.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Daniel Bekai",
+            "display_name": "Daniel Bekai",
+            "team": "TUX7FNQ8J",
+            "name": "daniel.bekai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQaHd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we upload gcode or do y'all only take stls?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f76faa19-32ba-434d-92c3-5c9f59dcae1b",
+        "type": "message",
+        "text": "I suspect <@UUYJ7QWNP> has gone home already, but whatever is fine as long as you're doing the uploading and the person in Nolop verifies that the print bed is empty and the filament is loaded.",
+        "user": "UUX7FNR7U",
+        "ts": "1599861661.015800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O27",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I suspect "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUYJ7QWNP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has gone home already, but whatever is fine as long as you're doing the uploading and the person in Nolop verifies that the print bed is empty and the filament is loaded."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

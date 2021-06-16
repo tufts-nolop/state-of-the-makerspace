@@ -1,0 +1,252 @@
+[
+    {
+        "client_msg_id": "fea20bf0-b011-403b-86f7-3369a6adc5da",
+        "type": "message",
+        "text": "This is awesome!!",
+        "user": "UUX9LS8AW",
+        "ts": "1609958601.000200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "koU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is awesome!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609788895.165800",
+        "parent_user_id": "U01CS2NM82C"
+    },
+    {
+        "client_msg_id": "6aa4c5fd-b2b7-4368-801d-4915205cc02f",
+        "type": "message",
+        "text": "Hey, any printers open? What colors might be available?",
+        "user": "U01AJJMHRF1",
+        "ts": "1609963488.000700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "27a39b046d3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-21\/1382351094980_27a39b046d3a6738b259_72.jpg",
+            "first_name": "",
+            "real_name": "John Bodylski",
+            "display_name": "John Bodylski",
+            "team": "TUX7FNQ8J",
+            "name": "john.bodylski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGSy9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, any printers open? What colors might be available?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609963488.000700",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1610039436.001600",
+        "reply_users": [
+            "U01AJJMHRF1",
+            "UUX7FNR7U",
+            "UUXLKS2F4"
+        ],
+        "replies": [
+            {
+                "user": "U01AJJMHRF1",
+                "ts": "1609965781.000800"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1609965899.001000"
+            },
+            {
+                "user": "U01AJJMHRF1",
+                "ts": "1609965956.001200"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1610039436.001600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1610039436.001600"
+    },
+    {
+        "client_msg_id": "0d5b5157-28ec-41a8-b2d0-bb07dc96557f",
+        "type": "message",
+        "text": "<@UUXLKS2F4> is nolop still open?",
+        "user": "U01AJJMHRF1",
+        "ts": "1609965781.000800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "27a39b046d3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-21\/1382351094980_27a39b046d3a6738b259_72.jpg",
+            "first_name": "",
+            "real_name": "John Bodylski",
+            "display_name": "John Bodylski",
+            "team": "TUX7FNQ8J",
+            "name": "john.bodylski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is nolop still open?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609963488.000700",
+        "parent_user_id": "U01AJJMHRF1"
+    },
+    {
+        "client_msg_id": "610a0590-8bf5-4a02-b952-80aca275f078",
+        "type": "message",
+        "text": "I believe Eric is only on duty Tu\/Th. Jared is on M\/W, but he's still waiting for a second virus test result before he's cleared to work. So what I'm getting at is that you'll have to wait until Eric gets in at noon tomorrow.",
+        "user": "UUX7FNR7U",
+        "ts": "1609965899.001000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "970JZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe Eric is only on duty Tu\/Th. Jared is on M\/W, but he's still waiting for a second virus test result before he's cleared to work. So what I'm getting at is that you'll have to wait until Eric gets in at noon tomorrow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609963488.000700",
+        "parent_user_id": "U01AJJMHRF1",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U01AJJMHRF1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6761d84-1f1e-4dce-92bc-87227db2738b",
+        "type": "message",
+        "text": "Ah! I misread the timestamp on Erics message as from today! No problem, ill jump on it tomorrow then!",
+        "user": "U01AJJMHRF1",
+        "ts": "1609965956.001200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "27a39b046d3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-21\/1382351094980_27a39b046d3a6738b259_72.jpg",
+            "first_name": "",
+            "real_name": "John Bodylski",
+            "display_name": "John Bodylski",
+            "team": "TUX7FNQ8J",
+            "name": "john.bodylski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OhB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah! I misread the timestamp on Erics message as from today! No problem, ill jump on it tomorrow then!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609963488.000700",
+        "parent_user_id": "U01AJJMHRF1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUXLKS2F4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

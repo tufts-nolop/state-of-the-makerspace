@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "1776ed1b-fef7-481c-b602-4d9e9ac3b27c",
+        "type": "message",
+        "text": "Hi! Is there a finished print on P4?",
+        "user": "U01AC1T0RKN",
+        "ts": "1618072213.332900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g688c3639518",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/688c3639518d0ee21b9670063bed9828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Natalie Sheehan",
+            "display_name": "Natalie Sheehan",
+            "team": "TUX7FNQ8J",
+            "name": "natalie.sheehan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=f7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Is there a finished print on P4?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
