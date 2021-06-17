@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "8e688968-d0b9-4b6d-a056-5482e7c35600",
+        "type": "message",
+        "text": "Can I get some soldering help? Thanks :slightly_smiling_face:",
+        "user": "U01E0CNFBDG",
+        "ts": "1617219029.047800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6d012e10a8b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d012e10a8b0688fe0a5a092a3041e96.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Barrett Roman",
+            "display_name": "Barrett Roman",
+            "team": "TUX7FNQ8J",
+            "name": "barrett.roman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XoUlw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I get some soldering help? Thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617219029.047800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1617219866.048100",
+        "reply_users": [
+            "UVCATTNCW",
+            "UVA4Q0DM3"
+        ],
+        "replies": [
+            {
+                "user": "UVCATTNCW",
+                "ts": "1617219410.047900"
+            },
+            {
+                "user": "UVA4Q0DM3",
+                "ts": "1617219866.048100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d1422c18-d81b-48e0-abf1-c4090efe1bad",
+        "type": "message",
+        "text": "Sure barrett",
+        "user": "UVCATTNCW",
+        "ts": "1617219410.047900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NbON",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure barrett"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617219029.047800",
+        "parent_user_id": "U01E0CNFBDG"
+    },
+    {
+        "client_msg_id": "cbcf1661-dc8e-4e81-a70f-bfcdea26c00b",
+        "type": "message",
+        "text": "do you have any heat shrink?",
+        "user": "UVA4Q0DM3",
+        "ts": "1617219866.048100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d7a36236da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d7a36236da60328b0524d2cc31523e6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jake Sorscher",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "j.sorscher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7LE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you have any heat shrink?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617219029.047800",
+        "parent_user_id": "U01E0CNFBDG"
+    }
+]

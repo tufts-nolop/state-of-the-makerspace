@@ -1,0 +1,761 @@
+[
+    {
+        "type": "message",
+        "text": "Hi! Looking to laser cut on two 1\/8\" plywood sheets. Each has to be printed on a different 1'x2' plywood sheet and the files are attached. This is for ME30 with Brandon. Thanks!",
+        "files": [
+            {
+                "id": "F01G3S19741",
+                "created": 1606667198,
+                "timestamp": 1606667198,
+                "name": "Rocco_LaserCut(1).DXF",
+                "title": "Rocco_LaserCut(1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01GF1Y9P24",
+                "editable": true,
+                "size": 26149,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01G3S19741\/rocco_lasercut_1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01G3S19741\/download\/rocco_lasercut_1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01GF1Y9P24\/F01G3S19741\/rocco_lasercut_1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01G3S19741-4b21aaecf1",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01GF1Y9P24\/F01G3S19741\/rocco_lasercut_1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01FJFE7FP0",
+                "created": 1606667200,
+                "timestamp": 1606667200,
+                "name": "Rocco_LaserCut(2).DXF",
+                "title": "Rocco_LaserCut(2).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01GF1Y9P24",
+                "editable": true,
+                "size": 27907,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01FJFE7FP0\/rocco_lasercut_2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01FJFE7FP0\/download\/rocco_lasercut_2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01GF1Y9P24\/F01FJFE7FP0\/rocco_lasercut_2_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01FJFE7FP0-26a1df268e",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01GF1Y9P24\/F01FJFE7FP0\/rocco_lasercut_2_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJ+7U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Looking to laser cut on two 1\/8\" plywood sheets. Each has to be printed on a different 1'x2' plywood sheet and the files are attached. This is for ME30 with Brandon. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01GF1Y9P24",
+        "ts": "1606667277.399200",
+        "thread_ts": "1606667277.399200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1606671838.402700",
+        "reply_users": [
+            "UUYJ7QWNP",
+            "U01GF1Y9P24"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1606669287.399900"
+            },
+            {
+                "user": "U01GF1Y9P24",
+                "ts": "1606671272.402400"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1606671838.402700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ec79b126-de91-46a1-ae4e-32695622aa3d",
+        "type": "message",
+        "text": "Hi Nathaniel, yes this file looks like it can be laser cut, but remember that all the lines will be cut so you'll end up with a couple of concentric squares all cut out.\nAlso: for some reason our version of Illustrator cannot open this file; did you download it from somewhere? We will need you to send it as an `.svg` file for cutting",
+        "user": "UUYJ7QWNP",
+        "ts": "1606669244.399700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bod2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Nathaniel, yes this file looks like it can be laser cut, but remember that all the lines will be cut so you'll end up with a couple of concentric squares all cut out.\nAlso: for some reason our version of Illustrator cannot open this file; did you download it from somewhere? We will need you to send it as an "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".svg",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " file for cutting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606612789.395500",
+        "parent_user_id": "U01FWSA58CU"
+    },
+    {
+        "client_msg_id": "15887139-8301-4cac-b722-76a3f5863c78",
+        "type": "message",
+        "text": "Hi Jake, what units are these files in?",
+        "user": "UUYJ7QWNP",
+        "ts": "1606669287.399900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LmlI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Jake, what units are these files in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606667277.399200",
+        "parent_user_id": "U01GF1Y9P24"
+    },
+    {
+        "type": "message",
+        "text": "Hi I'm looking for these to be cut in 1\/4 in clear acrylic please. Dimensions are in mm and its for senior design.",
+        "files": [
+            {
+                "id": "F01FAG1G1CP",
+                "created": 1606670165,
+                "timestamp": 1606670165,
+                "name": "Lower Print Bed.DXF",
+                "title": "Lower Print Bed.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01G3549A8Z",
+                "editable": true,
+                "size": 33535,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01FAG1G1CP\/lower_print_bed.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01FAG1G1CP\/download\/lower_print_bed.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01G3549A8Z\/F01FAG1G1CP\/lower_print_bed.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01FAG1G1CP-f34198887f",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01G3549A8Z\/F01FAG1G1CP\/lower_print_bed.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01FR8E71J6",
+                "created": 1606670166,
+                "timestamp": 1606670166,
+                "name": "Raised Print Bed.DXF",
+                "title": "Raised Print Bed.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01G3549A8Z",
+                "editable": true,
+                "size": 27045,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01FR8E71J6\/raised_print_bed.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01FR8E71J6\/download\/raised_print_bed.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01G3549A8Z\/F01FR8E71J6\/raised_print_bed.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01FR8E71J6-7e5cf046bc",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01G3549A8Z\/F01FR8E71J6\/raised_print_bed.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m7s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi I'm looking for these to be cut in 1\/4 in clear acrylic please. Dimensions are in mm and its for senior design."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01G3549A8Z",
+        "ts": "1606670208.401500",
+        "thread_ts": "1606670208.401500",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1606671067.402200",
+        "reply_users": [
+            "UUYJ7QWNP"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1606670222.402000"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1606671067.402200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "03bcaef4-35d6-496f-a1a2-33d0c5d2a51e",
+        "type": "message",
+        "text": ":fire:",
+        "user": "UUYJ7QWNP",
+        "ts": "1606670222.402000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fFo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606670208.401500",
+        "parent_user_id": "U01G3549A8Z"
+    },
+    {
+        "client_msg_id": "7b5455d2-b7e0-41a2-82ef-c3801335f074",
+        "type": "message",
+        "text": "done!",
+        "user": "UUYJ7QWNP",
+        "ts": "1606671067.402200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uklnp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "done!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606670208.401500",
+        "parent_user_id": "U01G3549A8Z",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01G3549A8Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c4dfc9d-9ec3-4ed3-80e9-7b8c788114a5",
+        "type": "message",
+        "text": "The solidworks files were in inches… so I assume the dxf would be inches as well? First time laser cutting, so lmk if theres anything I need to change!",
+        "user": "U01GF1Y9P24",
+        "ts": "1606671272.402400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gcc6adc94523",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cc6adc94523bb796f6eb45eee00185e6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Jake Rocco",
+            "display_name": "Jake Rocco",
+            "team": "TUX7FNQ8J",
+            "name": "jacob.rocco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IH9r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The solidworks files were in inches… so I assume the dxf would be inches as well? First time laser cutting, so lmk if theres anything I need to change!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606667277.399200",
+        "parent_user_id": "U01GF1Y9P24"
+    },
+    {
+        "client_msg_id": "14de28b6-c17d-4590-88f0-6ff736bbdfc1",
+        "type": "message",
+        "text": "done! your parts are outside nolop",
+        "user": "UUYJ7QWNP",
+        "ts": "1606671838.402700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NiM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "done! your parts are outside nolop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606667277.399200",
+        "parent_user_id": "U01GF1Y9P24",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01GF1Y9P24"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi! Could I cut these on 1\/8\" plywood? I need four copies of the box side and just one cut for the box lid. This is for me 30, thank you!",
+        "files": [
+            {
+                "id": "F01GF4BLRJL",
+                "created": 1606672055,
+                "timestamp": 1606672055,
+                "name": "me 30 lid.DXF",
+                "title": "me 30 lid.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01CZKUAZPV",
+                "editable": true,
+                "size": 90567,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01GF4BLRJL\/me_30_lid.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01GF4BLRJL\/download\/me_30_lid.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01CZKUAZPV\/F01GF4BLRJL\/me_30_lid.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01GF4BLRJL-adaf0de36a",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01CZKUAZPV\/F01GF4BLRJL\/me_30_lid.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01GF4BPHQ8",
+                "created": 1606672064,
+                "timestamp": 1606672064,
+                "name": "me 30 NEW box side.DXF",
+                "title": "me 30 NEW box side.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01CZKUAZPV",
+                "editable": true,
+                "size": 47123,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01GF4BPHQ8\/me_30_new_box_side.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01GF4BPHQ8\/download\/me_30_new_box_side.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01CZKUAZPV\/F01GF4BPHQ8\/me_30_new_box_side.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01GF4BPHQ8-24219bfb9b",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01CZKUAZPV\/F01GF4BPHQ8\/me_30_new_box_side.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LrytJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Could I cut these on 1\/8\" plywood? I need four copies of the box side and just one cut for the box lid. This is for me 30, thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01CZKUAZPV",
+        "ts": "1606672150.404500",
+        "thread_ts": "1606672150.404500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1606673770.405000",
+        "reply_users": [
+            "UV00RGM5F"
+        ],
+        "replies": [
+            {
+                "user": "UV00RGM5F",
+                "ts": "1606673770.405000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e2605fbe-e992-46c4-b1c9-0fabdb9a47b7",
+        "type": "message",
+        "text": "Outside for you!",
+        "user": "UV00RGM5F",
+        "ts": "1606673770.405000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w3=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Outside for you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606672150.404500",
+        "parent_user_id": "U01CZKUAZPV"
+    },
+    {
+        "type": "message",
+        "text": "I wanted it to be one complete square with holes edging the sides. Is this not going to do that? Also I created this using Inkscape as I was unaware of where else I could create a dxf. You mentioned Illustrator. Is that something I can get for free to use for laser cutting?",
+        "files": [
+            {
+                "id": "F01GF5R2BHN",
+                "created": 1606676664,
+                "timestamp": 1606676664,
+                "name": "Robotics-Maze1.svg",
+                "title": "Robotics-Maze1.svg",
+                "mimetype": "image\/svg+xml",
+                "filetype": "svg",
+                "pretty_type": "SVG",
+                "user": "U01FWSA58CU",
+                "editable": false,
+                "size": 38048,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01GF5R2BHN\/robotics-maze1.svg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01GF5R2BHN\/download\/robotics-maze1.svg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01FWSA58CU\/F01GF5R2BHN\/robotics-maze1.svg",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01GF5R2BHN-11546f6988",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dgKJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wanted it to be one complete square with holes edging the sides. Is this not going to do that? Also I created this using Inkscape as I was unaware of where else I could create a dxf. You mentioned Illustrator. Is that something I can get for free to use for laser cutting?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01FWSA58CU",
+        "display_as_bot": false,
+        "ts": "1606676815.405200",
+        "thread_ts": "1606612789.395500",
+        "parent_user_id": "U01FWSA58CU"
+    },
+    {
+        "client_msg_id": "344b4462-7fb8-4296-82bb-8d553dfd0b0c",
+        "type": "message",
+        "text": "Hi can I get something laser cut?",
+        "user": "U01BP1MAZ1C",
+        "ts": "1606688458.405900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gfdfbdda44f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fdfbdda44f8a7909d1f89b577b027aec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Ilan Felberg",
+            "display_name": "Ilan Felberg",
+            "team": "TUX7FNQ8J",
+            "name": "ilan.felberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yF5q1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi can I get something laser cut?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606688458.405900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1606688497.406000",
+        "reply_users": [
+            "UUYJ7QWNP"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1606688497.406000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "14895758-2ba7-49da-9481-a3f188af3181",
+        "type": "message",
+        "text": "Unfortunately we've closed for the day; check back tomorrow! <http:\/\/nolop.org\/hours>",
+        "user": "UUYJ7QWNP",
+        "ts": "1606688497.406000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WBHh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unfortunately we've closed for the day; check back tomorrow! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/nolop.org\/hours"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606688458.405900",
+        "parent_user_id": "U01BP1MAZ1C"
+    }
+]

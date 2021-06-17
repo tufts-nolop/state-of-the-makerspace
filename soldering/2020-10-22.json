@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "d88f6d29-3b03-41c3-85ad-b484f2f7759b",
+        "type": "message",
+        "text": "Hi, I dropped my pcb off for soldering with the schematic, thanks!",
+        "user": "U01CZKUAZPV",
+        "ts": "1603391305.110700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb61efefa3da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b61efefa3daa178e7795f774ae23fe7c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Alex Talbot",
+            "display_name": "Alex Talbot",
+            "team": "TUX7FNQ8J",
+            "name": "alexandra.talbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I dropped my pcb off for soldering with the schematic, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603391305.110700",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1603392028.112800",
+        "reply_users": [
+            "UUXLKS2F4"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1603391431.110800"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1603391833.111000"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1603392028.112800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b24741b8-33a4-4d84-b0cf-68e7ef2824e3",
+        "type": "message",
+        "text": "Will get it done as soon as we can!",
+        "user": "UUXLKS2F4",
+        "ts": "1603391431.110800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Hh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will get it done as soon as we can!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603391305.110700",
+        "parent_user_id": "U01CZKUAZPV"
+    },
+    {
+        "client_msg_id": "e7ba8741-c679-4c81-9214-1bc631634cd1",
+        "type": "message",
+        "text": "<@U01CZKUAZPV> I can't find your pcb on the pickup\/dropoff table... where did you put it?",
+        "user": "UUXLKS2F4",
+        "ts": "1603391833.111000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YkO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01CZKUAZPV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can't find your pcb on the pickup\/dropoff table... where did you put it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603391305.110700",
+        "parent_user_id": "U01CZKUAZPV"
+    },
+    {
+        "client_msg_id": "72EE481C-2AB5-41DE-8CC8-EA992E027FE8",
+        "type": "message",
+        "text": "nvm! Jared helped me find it. You helped me put in some the components so I thought that one is done soldering :)",
+        "user": "UUXLKS2F4",
+        "ts": "1603392028.112800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYfz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nvm! Jared helped me find it. You helped me put in some the components so I thought that one is done soldering :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603391305.110700",
+        "parent_user_id": "U01CZKUAZPV"
+    }
+]

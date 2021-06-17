@@ -1,0 +1,251 @@
+[
+    {
+        "client_msg_id": "B3DABAD5-79C6-4B03-9AEC-4DAD1A5F9AA8",
+        "type": "message",
+        "text": "Do you know what tool it was that we needed?",
+        "user": "UVCATTNCW",
+        "ts": "1617112704.045600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/B6b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you know what tool it was that we needed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617053496.044300",
+        "parent_user_id": "U01BRDMSYRH"
+    },
+    {
+        "client_msg_id": "18820299-22F2-45CF-ADCC-2176083799FB",
+        "type": "message",
+        "text": "I’m not sure, no.",
+        "user": "U01BRDMSYRH",
+        "ts": "1617126444.046200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "931a1527c08c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1910078708691_931a1527c08c6399269c_72.jpg",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Kraft",
+            "display_name": "Ben Kraft",
+            "team": "TUX7FNQ8J",
+            "name": "benjamin.kraft",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4qr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not sure, no."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617053496.044300",
+        "parent_user_id": "U01BRDMSYRH"
+    },
+    {
+        "client_msg_id": "3e0302cc-0d09-4bb2-9eb8-c8818a55a797",
+        "type": "message",
+        "text": "The board should be around 5x20in in size",
+        "user": "U01BRDMSYRH",
+        "ts": "1617131329.046400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "931a1527c08c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1910078708691_931a1527c08c6399269c_72.jpg",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Kraft",
+            "display_name": "Ben Kraft",
+            "team": "TUX7FNQ8J",
+            "name": "benjamin.kraft",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VKb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The board should be around 5x20in in size"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617053496.044300",
+        "parent_user_id": "U01BRDMSYRH"
+    },
+    {
+        "client_msg_id": "305ee8e9-52a9-4abb-b82a-df924048efb3",
+        "type": "message",
+        "text": "We worked on it when it came in, but we're waiting on finer solder tips to arrive so we can break the bridges\/shorts between the pins. Sorry for the delay—we weren't well-equipped for fine-pitch surface mount components, but but we should be able to get that back to you soon.",
+        "user": "U010SQKCPGR",
+        "ts": "1617138634.046600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "d47e61607918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-09\/1740263872916_d47e616079183867111b_72.png",
+            "first_name": "Jeffrey",
+            "real_name": "Jeffrey Blitt",
+            "display_name": "Jeff",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.blitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EyB7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We worked on it when it came in, but we're waiting on finer solder tips to arrive so we can break the bridges\/shorts between the pins. Sorry for the delay—we weren't well-equipped for fine-pitch surface mount components, but but we should be able to get that back to you soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617053496.044300",
+        "parent_user_id": "U01BRDMSYRH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01BRDMSYRH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31bfba96-e16c-491b-8a3a-5101364de18b",
+        "type": "message",
+        "text": "If you have an extra USB mini port, that may speed up the process.",
+        "user": "U010SQKCPGR",
+        "ts": "1617138790.046800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "d47e61607918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-09\/1740263872916_d47e616079183867111b_72.png",
+            "first_name": "Jeffrey",
+            "real_name": "Jeffrey Blitt",
+            "display_name": "Jeff",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.blitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sIrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have an extra USB mini port, that may speed up the process."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617053496.044300",
+        "parent_user_id": "U01BRDMSYRH"
+    },
+    {
+        "client_msg_id": "70DD9960-8CEC-4789-9F0D-284EF5C3857F",
+        "type": "message",
+        "text": "Unfortunately that’s the only one I have that fits with the casing",
+        "user": "U01BRDMSYRH",
+        "ts": "1617155824.047400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "931a1527c08c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1910078708691_931a1527c08c6399269c_72.jpg",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Kraft",
+            "display_name": "Ben Kraft",
+            "team": "TUX7FNQ8J",
+            "name": "benjamin.kraft",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nzg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unfortunately that’s the only one I have that fits with the casing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617053496.044300",
+        "parent_user_id": "U01BRDMSYRH"
+    }
+]

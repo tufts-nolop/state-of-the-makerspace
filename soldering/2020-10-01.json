@@ -1,0 +1,1271 @@
+[
+    {
+        "client_msg_id": "784b600c-4480-4a03-91a5-22ac7b0a85fe",
+        "type": "message",
+        "text": "Hi! I was wondering if someone could solder a pcb for me today if I drop it off around noon?",
+        "user": "U01BSB3SFNE",
+        "ts": "1601559178.004300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1e2d2f6f227",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e2d2f6f227a7b51856dc1c77d3bb979.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Olivia Tomassetti",
+            "display_name": "Olivia Tomassetti",
+            "team": "TUX7FNQ8J",
+            "name": "olivia.tomassetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I was wondering if someone could solder a pcb for me today if I drop it off around noon?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1601575238.010900",
+        "reply_users": [
+            "UUX9LS8AW",
+            "UVCATTNCW",
+            "UUXLKS2F4",
+            "U01BSB3SFNE"
+        ],
+        "replies": [
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1601559214.005000"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1601559242.005700"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1601559250.006100"
+            },
+            {
+                "user": "U01BSB3SFNE",
+                "ts": "1601559298.006300"
+            },
+            {
+                "user": "U01BSB3SFNE",
+                "ts": "1601559323.006500"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1601570630.007400"
+            },
+            {
+                "user": "U01BSB3SFNE",
+                "ts": "1601573438.007600"
+            },
+            {
+                "user": "U01BSB3SFNE",
+                "ts": "1601574573.009000"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1601574729.010200"
+            },
+            {
+                "user": "U01BSB3SFNE",
+                "ts": "1601575238.010900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "df20e9bf-7d8e-4bc3-ab42-a36e494ed3f1",
+        "type": "message",
+        "text": "Yes! I think <@UUXLKS2F4> will be on duty",
+        "user": "UVC8Q8RAS",
+        "ts": "1601559206.004700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DY=Gx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! I think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will be on duty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ADEAF496-84FB-4112-B901-ACBB28C71F93",
+        "type": "message",
+        "text": "<@UUXLKS2F4>  will be there!",
+        "user": "UUX9LS8AW",
+        "ts": "1601559214.005000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b01y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  will be there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE"
+    },
+    {
+        "client_msg_id": "6fce2a5c-9035-4af0-838d-07354a755d2e",
+        "type": "message",
+        "text": "Olivia, is it your breadboard power supply? If so it might be helpful to print out the schematic for whoever solders it",
+        "user": "UVCATTNCW",
+        "ts": "1601559242.005700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qTb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Olivia, is it your breadboard power supply? If so it might be helpful to print out the schematic for whoever solders it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE"
+    },
+    {
+        "client_msg_id": "00C5D46D-3F71-4103-B485-3F7BD4F0C8E4",
+        "type": "message",
+        "text": "<@U01BSB3SFNE> happy to solder it for you. I’ll be on shift noon-3pm",
+        "user": "UUXLKS2F4",
+        "ts": "1601559250.006100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WTyZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BSB3SFNE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " happy to solder it for you. I’ll be on shift noon-3pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE"
+    },
+    {
+        "client_msg_id": "355f4084-f43f-47da-84a6-665ad5878b29",
+        "type": "message",
+        "text": "Amazing thank you!",
+        "user": "U01BSB3SFNE",
+        "ts": "1601559298.006300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1e2d2f6f227",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e2d2f6f227a7b51856dc1c77d3bb979.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Olivia Tomassetti",
+            "display_name": "Olivia Tomassetti",
+            "team": "TUX7FNQ8J",
+            "name": "olivia.tomassetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VOhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE"
+    },
+    {
+        "client_msg_id": "3862bf34-5718-4684-9e22-3eec91a71870",
+        "type": "message",
+        "text": "That's a great idea Teddy! I will be sure to do that!",
+        "user": "U01BSB3SFNE",
+        "ts": "1601559323.006500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1e2d2f6f227",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e2d2f6f227a7b51856dc1c77d3bb979.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Olivia Tomassetti",
+            "display_name": "Olivia Tomassetti",
+            "team": "TUX7FNQ8J",
+            "name": "olivia.tomassetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S0Y9g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's a great idea Teddy! I will be sure to do that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVCATTNCW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C00353F7-0B8D-4F76-B9C6-9750E015493E",
+        "type": "message",
+        "text": "<@U01BSB3SFNE> your pcb is ready outside at the pickup table!",
+        "user": "UUXLKS2F4",
+        "ts": "1601570630.007400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Cz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BSB3SFNE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your pcb is ready outside at the pickup table!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE"
+    },
+    {
+        "client_msg_id": "d612bdf5-16d5-4d8b-9398-ac71426518d7",
+        "type": "message",
+        "text": "<@UUXLKS2F4> Thank you! I will come by around 2:30pm to pick it up!",
+        "user": "U01BSB3SFNE",
+        "ts": "1601573438.007600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1e2d2f6f227",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e2d2f6f227a7b51856dc1c77d3bb979.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Olivia Tomassetti",
+            "display_name": "Olivia Tomassetti",
+            "team": "TUX7FNQ8J",
+            "name": "olivia.tomassetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OILm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you! I will come by around 2:30pm to pick it up!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUXLKS2F4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00074411-8b0a-4590-bcac-9ee8463880bb",
+        "type": "message",
+        "text": "Hi! Could someone solder my PCB for ME30 today? I can drop it off around 3:30pm.",
+        "user": "U01BQ1R7TDK",
+        "ts": "1601574545.008900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g308d9e56870",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/308d9e56870b0ffcfd137ab891781e53.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Emily Kostolansky",
+            "display_name": "Emily Kostolansky",
+            "team": "TUX7FNQ8J",
+            "name": "emily.kostolansky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FsOGg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Could someone solder my PCB for ME30 today? I can drop it off around 3:30pm."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "reply_count": 16,
+        "reply_users_count": 4,
+        "latest_reply": "1601647305.024900",
+        "reply_users": [
+            "UUX9LS8AW",
+            "U01BQ1R7TDK",
+            "U010PP3CGUS",
+            "U01AXLEU7NG"
+        ],
+        "replies": [
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1601574601.009200"
+            },
+            {
+                "user": "U01BQ1R7TDK",
+                "ts": "1601576149.012900"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1601576176.013100"
+            },
+            {
+                "user": "U010PP3CGUS",
+                "ts": "1601576659.013600"
+            },
+            {
+                "user": "U01BQ1R7TDK",
+                "ts": "1601576802.013800"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1601576850.014000"
+            },
+            {
+                "user": "U01BQ1R7TDK",
+                "ts": "1601577122.014700"
+            },
+            {
+                "user": "U01AXLEU7NG",
+                "ts": "1601584982.015000"
+            },
+            {
+                "user": "U010PP3CGUS",
+                "ts": "1601596050.018500"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1601596105.018700"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1601596116.018900"
+            },
+            {
+                "user": "U010PP3CGUS",
+                "ts": "1601596205.019800"
+            },
+            {
+                "user": "U01BQ1R7TDK",
+                "ts": "1601598550.021900"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1601647148.022700"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1601647159.023600"
+            },
+            {
+                "user": "U01BQ1R7TDK",
+                "ts": "1601647305.024900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dd25a1b0-3881-4f84-801e-4337cf3734ed",
+        "type": "message",
+        "text": "<@UUXLKS2F4> Is there any way you could add pin connectors so that I could attach my PCB to my breadboard??",
+        "user": "U01BSB3SFNE",
+        "ts": "1601574573.009000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1e2d2f6f227",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e2d2f6f227a7b51856dc1c77d3bb979.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Olivia Tomassetti",
+            "display_name": "Olivia Tomassetti",
+            "team": "TUX7FNQ8J",
+            "name": "olivia.tomassetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gPZYN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Is there any way you could add pin connectors so that I could attach my PCB to my breadboard??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE"
+    },
+    {
+        "client_msg_id": "da72e114-3e3a-4c0a-a0d2-a9dd79d8e442",
+        "type": "message",
+        "text": "<@U01AXLEU7NG> will be there, although I’m not sure if she can solder it, if not, <@U010PP3CGUS> will be there later, and I will be there tomorrow, so one of us can solder it!",
+        "user": "UUX9LS8AW",
+        "ts": "1601574601.009200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "on1Lr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AXLEU7NG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will be there, although I’m not sure if she can solder it, if not, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010PP3CGUS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will be there later, and I will be there tomorrow, so one of us can solder it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "8183AAA3-0887-4B1C-9ACA-D40B98006FD5",
+        "type": "message",
+        "text": "You mean the four connectors at the edges that goes the opposite directions? I already added them on :)",
+        "user": "UUXLKS2F4",
+        "ts": "1601574729.010200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Og1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You mean the four connectors at the edges that goes the opposite directions? I already added them on :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE"
+    },
+    {
+        "client_msg_id": "649291b8-ed58-41d0-b4d0-c76a5ac9cc18",
+        "type": "message",
+        "text": "<@UUXLKS2F4> Yes! Thank you!",
+        "user": "U01BSB3SFNE",
+        "ts": "1601575238.010900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1e2d2f6f227",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e2d2f6f227a7b51856dc1c77d3bb979.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Olivia Tomassetti",
+            "display_name": "Olivia Tomassetti",
+            "team": "TUX7FNQ8J",
+            "name": "olivia.tomassetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q5N\/D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes! Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601559178.004300",
+        "parent_user_id": "U01BSB3SFNE"
+    },
+    {
+        "client_msg_id": "3F26F76A-E519-49DF-8BC2-4E303830DEF7",
+        "type": "message",
+        "text": "Thank you! Can I still drop it off today if it won't be soldered until tomorrow?",
+        "user": "U01BQ1R7TDK",
+        "ts": "1601576149.012900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g308d9e56870",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/308d9e56870b0ffcfd137ab891781e53.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Emily Kostolansky",
+            "display_name": "Emily Kostolansky",
+            "team": "TUX7FNQ8J",
+            "name": "emily.kostolansky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jNM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! Can I still drop it off today if it won't be soldered until tomorrow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "1b60947e-1468-4383-afc3-17bd5e9adad1",
+        "type": "message",
+        "text": "Yes!",
+        "user": "UUX9LS8AW",
+        "ts": "1601576176.013100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUX9LS8AW",
+            "ts": "1601576182.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+sS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "E21DBAEB-7560-4812-9E65-3AB55D581DDA",
+        "type": "message",
+        "text": "I can get to it tonight if Madison is unable to!",
+        "user": "U010PP3CGUS",
+        "ts": "1601576659.013600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "8ec3935ee678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-13\/1419795780070_8ec3935ee678c1e29dd8_72.jpg",
+            "first_name": "",
+            "real_name": "Harry Steinberg",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "harrymsteinberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XD4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can get to it tonight if Madison is unable to!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK",
+        "reactions": [
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U01AXLEU7NG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9281f45a-5d2f-4258-935e-3796cac17453",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U01BQ1R7TDK",
+        "ts": "1601576802.013800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g308d9e56870",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/308d9e56870b0ffcfd137ab891781e53.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Emily Kostolansky",
+            "display_name": "Emily Kostolansky",
+            "team": "TUX7FNQ8J",
+            "name": "emily.kostolansky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Cah",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "4231826c-309e-4b5b-8957-e708ade21e3d",
+        "type": "message",
+        "text": "<@U01BQ1R7TDK> do you also need the pin headers soldered upside down into your pcb so you can connect it to the breadboard? We have those pin headers in Nolop, Harry just needs to know to solder them on",
+        "user": "UUX9LS8AW",
+        "ts": "1601576850.014000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUX9LS8AW",
+            "ts": "1601576859.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZAQ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BQ1R7TDK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you also need the pin headers soldered upside down into your pcb so you can connect it to the breadboard? We have those pin headers in Nolop, Harry just needs to know to solder them on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "CD68F058-DB93-4AE9-9A90-ED94E5853A74",
+        "type": "message",
+        "text": "Yes, I'll add a note to my bag!",
+        "user": "U01BQ1R7TDK",
+        "ts": "1601577122.014700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g308d9e56870",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/308d9e56870b0ffcfd137ab891781e53.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Emily Kostolansky",
+            "display_name": "Emily Kostolansky",
+            "team": "TUX7FNQ8J",
+            "name": "emily.kostolansky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uh8s6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I'll add a note to my bag!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "5c284bb2-27c0-4f4e-aae4-3a79ccbe4485",
+        "type": "message",
+        "text": "<@U010PP3CGUS> that'd be great!! i'm not a huuuuge soldering gal haha",
+        "user": "U01AXLEU7NG",
+        "ts": "1601584982.015000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "45j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010PP3CGUS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that'd be great!! i'm not a huuuuge soldering gal haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "DE212E8F-B653-4D87-B17B-144F17326E07",
+        "type": "message",
+        "text": "Hey Emily, I was just taking a look at the PCB and it seems that the holes for the voltage regulators aren’t big enough to fit the voltage regulators unfortunately. I’m not sure what to do about this... I haven’t soldered anything yet — maybe there is still a way to make it work? I’m not sure ",
+        "user": "U010PP3CGUS",
+        "ts": "1601596050.018500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "8ec3935ee678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-13\/1419795780070_8ec3935ee678c1e29dd8_72.jpg",
+            "first_name": "",
+            "real_name": "Harry Steinberg",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "harrymsteinberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3qk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Emily, I was just taking a look at the PCB and it seems that the holes for the voltage regulators aren’t big enough to fit the voltage regulators unfortunately. I’m not sure what to do about this... I haven’t soldered anything yet — maybe there is still a way to make it work? I’m not sure "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "920ea38b-a044-47ac-a4bc-c2eb41c21425",
+        "type": "message",
+        "text": "If you leave it there, I can try and figure out how solder them in, a few of the ME 30 pcbs have this issue",
+        "user": "UUX9LS8AW",
+        "ts": "1601596105.018700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you leave it there, I can try and figure out how solder them in, a few of the ME 30 pcbs have this issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "d57b38db-a809-4b00-87ee-eac2bfe5a896",
+        "type": "message",
+        "text": "I was planning on just trying to finagle it",
+        "user": "UUX9LS8AW",
+        "ts": "1601596116.018900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tx5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was planning on just trying to finagle it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "86C50CC1-B8DD-4BD7-AA10-6F86720EA421",
+        "type": "message",
+        "text": "Alright sounds good, thanks Libby. I’ll leave it by the soldering station",
+        "user": "U010PP3CGUS",
+        "ts": "1601596205.019800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "8ec3935ee678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-13\/1419795780070_8ec3935ee678c1e29dd8_72.jpg",
+            "first_name": "",
+            "real_name": "Harry Steinberg",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "harrymsteinberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNgG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright sounds good, thanks Libby. I’ll leave it by the soldering station"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    },
+    {
+        "client_msg_id": "632A4561-0A3E-4A7C-8AEB-0E3DCD6D38EF",
+        "type": "message",
+        "text": "I'm sorry about that, thank you for letting me know <@U010PP3CGUS>! <@UUX9LS8AW> Hopefully finagling will work, let me know if I can do anything to help!",
+        "user": "U01BQ1R7TDK",
+        "ts": "1601598550.021900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g308d9e56870",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/308d9e56870b0ffcfd137ab891781e53.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Emily Kostolansky",
+            "display_name": "Emily Kostolansky",
+            "team": "TUX7FNQ8J",
+            "name": "emily.kostolansky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T5BRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm sorry about that, thank you for letting me know "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010PP3CGUS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUX9LS8AW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hopefully finagling will work, let me know if I can do anything to help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601574545.008900",
+        "parent_user_id": "U01BQ1R7TDK"
+    }
+]

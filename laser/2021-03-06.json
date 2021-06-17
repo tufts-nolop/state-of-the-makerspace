@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "f5de8f33-999c-4c55-bc86-ad74a09f9489",
+        "type": "message",
+        "text": "hello friends Nolop is open!",
+        "user": "UV1ANS7GR",
+        "ts": "1615043879.115800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello friends Nolop is open!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01QEAZRZSN",
+                "created": 1615048422,
+                "timestamp": 1615048422,
+                "name": "Crossing 3Dprinted Link_modular.DXF",
+                "title": "Crossing 3Dprinted Link_modular.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UV1ANS7GR",
+                "editable": true,
+                "size": 28697,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01QEAZRZSN\/crossing_3dprinted_link_modular.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01QEAZRZSN\/download\/crossing_3dprinted_link_modular.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/UV1ANS7GR\/F01QEAZRZSN\/crossing_3dprinted_link_modular.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01QEAZRZSN-e26671b0f3",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/UV1ANS7GR\/F01QEAZRZSN\/crossing_3dprinted_link_modular.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UV1ANS7GR",
+        "display_as_bot": false,
+        "ts": "1615048425.115900"
+    }
+]

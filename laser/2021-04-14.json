@@ -1,0 +1,529 @@
+[
+    {
+        "client_msg_id": "7464c19a-6c97-4c44-94cb-2d6c23d1b141",
+        "type": "message",
+        "text": "How well does the PTFE laser cut?",
+        "user": "U01B5AS972R",
+        "ts": "1618399599.209500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "a00d0c8b4a78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1618681760848_a00d0c8b4a7856003f00_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert White",
+            "display_name": "Robert White",
+            "team": "TUX7FNQ8J",
+            "name": "r.white",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0SFQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How well does the PTFE laser cut?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618346436.208300",
+        "parent_user_id": "U01AXEK5NUE"
+    },
+    {
+        "client_msg_id": "D914D118-F990-40FC-B2F3-A32709568F4B",
+        "type": "message",
+        "text": "hi! what’s the smallest hole size i can cut into 1\/8” acrylic? (i’m making earrings)",
+        "user": "U01D7NV8GBW",
+        "ts": "1618420617.210600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g9d82fee353b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9d82fee353b81836049bb21f8aa9be47.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Sierra Heuvelman",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "sierra.heuvelman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=R6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi! what’s the smallest hole size i can cut into 1\/8” acrylic? (i’m making earrings)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618420617.210600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1618434926.211200",
+        "reply_users": [
+            "UV00RGM5F",
+            "U01D7NV8GBW"
+        ],
+        "replies": [
+            {
+                "user": "UV00RGM5F",
+                "ts": "1618421132.210700"
+            },
+            {
+                "user": "U01D7NV8GBW",
+                "ts": "1618434926.211200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "17912b7e-3f55-493d-85cc-5b8e77fbb2d7",
+        "type": "message",
+        "text": "You can do holes virtually as small as you want. I've done holes smaller than a mm before",
+        "user": "UV00RGM5F",
+        "ts": "1618421132.210700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rCbTe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can do holes virtually as small as you want. I've done holes smaller than a mm before"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618420617.210600",
+        "parent_user_id": "U01D7NV8GBW"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01U85D758V",
+                "created": 1618422953,
+                "timestamp": 1618422953,
+                "name": "pasteExtruderGearbox.ai",
+                "title": "pasteExtruderGearbox.ai",
+                "mimetype": "application\/illustrator",
+                "filetype": "ai",
+                "pretty_type": "Illustrator File",
+                "user": "UVA4Q0DM3",
+                "editable": false,
+                "size": 212778,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01U85D758V\/pasteextrudergearbox.ai?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01U85D758V\/download\/pasteextrudergearbox.ai?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01U85D758V-328de46be1\/pasteextrudergearbox_thumb_pdf.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_pdf_w": 2640,
+                "thumb_pdf_h": 1320,
+                "permalink": "https:\/\/nolop.slack.com\/files\/UVA4Q0DM3\/F01U85D758V\/pasteextrudergearbox.ai",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01U85D758V-50e6a67a3a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UVA4Q0DM3",
+        "display_as_bot": false,
+        "ts": "1618422963.210900"
+    },
+    {
+        "client_msg_id": "983f7854-94ed-4a2c-9b89-f46bd2570faa",
+        "type": "message",
+        "text": "Okay thanks!",
+        "user": "U01D7NV8GBW",
+        "ts": "1618434926.211200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g9d82fee353b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9d82fee353b81836049bb21f8aa9be47.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Sierra Heuvelman",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "sierra.heuvelman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K+\/gJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618420617.210600",
+        "parent_user_id": "U01D7NV8GBW"
+    },
+    {
+        "type": "message",
+        "text": "Hi I'm sure Nolop's closed but can I have this cut on 1\/8th pink acrylic tomorrow?  I'm not sure if it's scaled right, they should be around 1\" top to bottom.  Thanks!",
+        "files": [
+            {
+                "id": "F01UCGTE5NE",
+                "created": 1618446862,
+                "timestamp": 1618446862,
+                "name": "Earrings.ai",
+                "title": "Earrings.ai",
+                "mimetype": "application\/illustrator",
+                "filetype": "ai",
+                "pretty_type": "Illustrator File",
+                "user": "U01D7NV8GBW",
+                "editable": false,
+                "size": 1192660,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01UCGTE5NE\/earrings.ai?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01UCGTE5NE\/download\/earrings.ai?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01UCGTE5NE-13c89b3564\/earrings_thumb_pdf.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01D7NV8GBW\/F01UCGTE5NE\/earrings.ai",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01UCGTE5NE-9b11a2d07f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MehZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi I'm sure Nolop's closed but can I have this cut on 1\/8th pink acrylic tomorrow?  I'm not sure if it's scaled right, they should be around 1\" top to bottom.  Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01D7NV8GBW",
+        "display_as_bot": false,
+        "ts": "1618446883.212400",
+        "thread_ts": "1618446883.212400",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1618491309.213900",
+        "reply_users": [
+            "UUYJ7QWNP",
+            "UV1ANS7GR",
+            "U01D7NV8GBW"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1618446904.212700"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1618446907.212900"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1618446910.213100"
+            },
+            {
+                "user": "U01D7NV8GBW",
+                "ts": "1618447284.213300"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1618454427.213600"
+            },
+            {
+                "user": "U01D7NV8GBW",
+                "ts": "1618491309.213900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6c947db7-eb4a-4014-b052-c16fe6bcd5dc",
+        "type": "message",
+        "text": "We are not closed! Would you like us to cut it tonight?",
+        "user": "UUYJ7QWNP",
+        "ts": "1618446904.212700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bsJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are not closed! Would you like us to cut it tonight?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618446883.212400",
+        "parent_user_id": "U01D7NV8GBW"
+    },
+    {
+        "client_msg_id": "91f29257-a5bc-405e-b987-f4059fa031db",
+        "type": "message",
+        "text": "These look awesome!",
+        "user": "UV1ANS7GR",
+        "ts": "1618446907.212900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kQC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These look awesome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618446883.212400",
+        "parent_user_id": "U01D7NV8GBW",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01D7NV8GBW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52e2161d-17e4-4aed-93ec-db81fd626e2f",
+        "type": "message",
+        "text": "(We're open until 11 :slightly_smiling_face:)",
+        "user": "UUYJ7QWNP",
+        "ts": "1618446910.213100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "er7PI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(We're open until 11 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618446883.212400",
+        "parent_user_id": "U01D7NV8GBW"
+    },
+    {
+        "client_msg_id": "12c738dc-0731-401f-936a-79e9d596cd69",
+        "type": "message",
+        "text": "Oh perfect, you can cut them tonight if you can but I can't pick them up until tomorrow.  Thanks so much!",
+        "user": "U01D7NV8GBW",
+        "ts": "1618447284.213300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g9d82fee353b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9d82fee353b81836049bb21f8aa9be47.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Sierra Heuvelman",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "sierra.heuvelman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NeZJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh perfect, you can cut them tonight if you can but I can't pick them up until tomorrow.  Thanks so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618446883.212400",
+        "parent_user_id": "U01D7NV8GBW"
+    },
+    {
+        "client_msg_id": "a9573cf0-bce0-44df-9142-467ba0855710",
+        "type": "message",
+        "text": "These are done and outside for you",
+        "user": "UUYJ7QWNP",
+        "ts": "1618454427.213600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7XU=+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are done and outside for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618446883.212400",
+        "parent_user_id": "U01D7NV8GBW"
+    }
+]

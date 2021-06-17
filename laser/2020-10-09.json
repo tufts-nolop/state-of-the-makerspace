@@ -1,0 +1,272 @@
+[
+    {
+        "type": "message",
+        "text": "Hi friends, might I be able to get some parts cut in 1\/4 in blue acrylic fro ME-134?",
+        "files": [
+            {
+                "id": "F01CPLG0UM7",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F01CB81TJNP",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F01BW9LMT5M",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xw8p9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi friends, might I be able to get some parts cut in 1\/4 in blue acrylic fro ME-134?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01B6L5FB8F",
+        "ts": "1602263568.194100",
+        "thread_ts": "1602263568.194100",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1602268292.195800",
+        "reply_users": [
+            "UUYJ7QWNP",
+            "U01B6L5FB8F"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1602264102.194800"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1602265101.195000"
+            },
+            {
+                "user": "U01B6L5FB8F",
+                "ts": "1602266424.195200"
+            },
+            {
+                "user": "U01B6L5FB8F",
+                "ts": "1602266435.195400"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1602268292.195800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d0c31618-ccfd-48b6-8eb1-39e6e68564f5",
+        "type": "message",
+        "text": "Where were these parts exported from?",
+        "user": "UUYJ7QWNP",
+        "ts": "1602264102.194800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OwR=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where were these parts exported from?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602263568.194100",
+        "parent_user_id": "U01B6L5FB8F"
+    },
+    {
+        "client_msg_id": "5bae3a7a-86fd-4db7-9197-800a14445b69",
+        "type": "message",
+        "text": "In the future please try to send the original .dxf files. Some of the lines in these files are doubled up or joined in weird ways and it's harder to orient for a cut",
+        "user": "UUYJ7QWNP",
+        "ts": "1602265101.195000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nXL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the future please try to send the original .dxf files. Some of the lines in these files are doubled up or joined in weird ways and it's harder to orient for a cut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602263568.194100",
+        "parent_user_id": "U01B6L5FB8F"
+    },
+    {
+        "client_msg_id": "e4a75e1c-1f34-4246-bb9b-03dff50b83d7",
+        "type": "message",
+        "text": "From solidworks parts",
+        "user": "U01B6L5FB8F",
+        "ts": "1602266424.195200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "91738a058928",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-09\/1442916613792_91738a0589286728fc25_72.jpg",
+            "first_name": "Olivier",
+            "real_name": "Olivier Ng'weno Kigotho",
+            "display_name": "Olivier (he\/him\/his)",
+            "team": "TUX7FNQ8J",
+            "name": "olivier.kigotho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ErY7i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From solidworks parts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602263568.194100",
+        "parent_user_id": "U01B6L5FB8F"
+    },
+    {
+        "client_msg_id": "a90cb3ae-16fb-46d4-9d2a-248344a338f4",
+        "type": "message",
+        "text": "Will do, thanks",
+        "user": "U01B6L5FB8F",
+        "ts": "1602266435.195400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "91738a058928",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-09\/1442916613792_91738a0589286728fc25_72.jpg",
+            "first_name": "Olivier",
+            "real_name": "Olivier Ng'weno Kigotho",
+            "display_name": "Olivier (he\/him\/his)",
+            "team": "TUX7FNQ8J",
+            "name": "olivier.kigotho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L6bsL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602263568.194100",
+        "parent_user_id": "U01B6L5FB8F"
+    },
+    {
+        "client_msg_id": "41C0D924-9507-41AE-8597-CC4E9FCCE175",
+        "type": "message",
+        "text": "Your parts are outside nolop",
+        "user": "UUYJ7QWNP",
+        "ts": "1602268292.195800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "apgT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your parts are outside nolop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602263568.194100",
+        "parent_user_id": "U01B6L5FB8F"
+    }
+]

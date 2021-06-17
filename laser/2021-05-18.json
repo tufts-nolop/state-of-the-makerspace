@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "E59C8FE3-50D3-498F-9033-EC8D8C85F54C",
+        "type": "message",
+        "text": "Hi! Just wanted to follow up on one of the laser cuts",
+        "user": "U01831XEWLW",
+        "ts": "1621354609.000700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Just wanted to follow up on one of the laser cuts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617395264.092700",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I had paid for wood before and was wondering if i could use the same one to get something cut since i didnt take it yet?",
+        "user": "U01831XEWLW",
+        "ts": "1621354680.001900",
+        "thread_ts": "1617395264.092700",
+        "root": {
+            "client_msg_id": "774bc849-cea6-4daf-ad58-13ca92ce4f31",
+            "type": "message",
+            "text": "Hi! Would I be able send an SVG file for laser cutting?",
+            "user": "U01831XEWLW",
+            "ts": "1617395264.092700",
+            "team": "TUX7FNQ8J",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "27O",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi! Would I be able send an SVG file for laser cutting?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1617395264.092700",
+            "reply_count": 89,
+            "reply_users_count": 6,
+            "latest_reply": "1621355364.002700",
+            "reply_users": [
+                "UUYJ7QWNP",
+                "U01831XEWLW",
+                "UUXLKS2F4",
+                "UV1ANS7GR",
+                "UUX9LS8AW",
+                "UUX9RJS66"
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had paid for wood before and was wondering if i could use the same one to get something cut since i didnt take it yet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "288B6A50-7EDE-4FBB-A9FF-FFF844C61C41"
+    },
+    {
+        "client_msg_id": "A6AFBDB6-A5C5-4F63-8F8A-FA5C64889055",
+        "type": "message",
+        "text": "Nolop is closed for the summer, check back in September 1st!",
+        "user": "UUX9LS8AW",
+        "ts": "1621355364.002700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUX9LS8AW",
+            "ts": "1621355465.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9zrW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nolop is closed for the summer, check back in September 1st!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617395264.092700",
+        "parent_user_id": "U01831XEWLW",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UUX7FNR7U"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

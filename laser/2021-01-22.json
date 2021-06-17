@@ -1,0 +1,161 @@
+[
+    {
+        "client_msg_id": "897e4fc0-abfe-4a18-9cbe-5271440c2ced",
+        "type": "message",
+        "text": "And the best! :slightly_smiling_face:",
+        "user": "U01B5AS972R",
+        "ts": "1611326828.005600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "a00d0c8b4a78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1618681760848_a00d0c8b4a7856003f00_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert White",
+            "display_name": "Robert White",
+            "team": "TUX7FNQ8J",
+            "name": "r.white",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ICI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And the best! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610577753.024900",
+        "parent_user_id": "U01B5AS972R"
+    },
+    {
+        "client_msg_id": "e89a78d9-9932-41b8-b464-eb55a4f53ad8",
+        "type": "message",
+        "text": "hi nolop! will there be someone there tmrw to laser cut? - nvm, read in <#CVA17CKC0|everything> that its opening monday",
+        "user": "U01KV40P82D",
+        "ts": "1611349078.006900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g76e269d10f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/76e269d10f2c22649a00cf8eaad21b95.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Alex Maleno",
+            "display_name": "Alex Maleno",
+            "team": "TUX7FNQ8J",
+            "name": "alex.maleno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01KV40P82D",
+            "ts": "1611349138.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvxG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi nolop! will there be someone there tmrw to laser cut? - nvm, read in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVA17CKC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that its opening monday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611349078.006900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1611349142.007600",
+        "reply_users": [
+            "UUX7FNR7U"
+        ],
+        "replies": [
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1611349142.007600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1611349142.007600"
+    },
+    {
+        "client_msg_id": "9481DA62-5988-4CA0-A67C-DA5C66C0DF38",
+        "type": "message",
+        "text": "Sorry, closed until Monday.",
+        "user": "UUX7FNR7U",
+        "ts": "1611349142.007600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iNO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, closed until Monday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611349078.006900",
+        "parent_user_id": "U01KV40P82D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KV40P82D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

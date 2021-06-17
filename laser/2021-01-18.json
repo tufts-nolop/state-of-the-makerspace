@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "447978f1-2252-4f3e-9254-af4c96d96bba",
+        "type": "message",
+        "text": "Hello everyone, Nolop will be open till 5pm EST today for requests! :turtle:",
+        "user": "U017Q918SV6",
+        "ts": "1610990118.018000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga1bf36509c7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1bf36509c77194ace235486893e7847.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jared Jaramillo",
+            "display_name": "Jared Jaramillo",
+            "team": "TUX7FNQ8J",
+            "name": "jared.jaramillo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UKOk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, Nolop will be open till 5pm EST today for requests! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "turtle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

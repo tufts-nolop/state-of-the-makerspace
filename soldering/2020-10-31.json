@@ -1,0 +1,1070 @@
+[
+    {
+        "client_msg_id": "3825d50a-99c9-4be7-8931-746ff59c201f",
+        "type": "message",
+        "text": "Hi I dropped off 2 PCBs on the table, would someone be able to solder them? All the parts should be there except for some pins for the voltage regulator",
+        "user": "U01D87F1SN6",
+        "ts": "1604173496.198700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga3f8158056d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3f8158056df169c6b233a92f9948d69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Stephanie Bentley",
+            "display_name": "Stephanie Bentley",
+            "team": "TUX7FNQ8J",
+            "name": "stephanie.bentley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01D87F1SN6",
+            "ts": "1604173728.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JJrm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi I dropped off 2 PCBs on the table, would someone be able to solder them? All the parts should be there except for some pins for the voltage regulator"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "reply_count": 16,
+        "reply_users_count": 2,
+        "latest_reply": "1604185204.208300",
+        "reply_users": [
+            "U01D87F1SN6",
+            "UV1ANS7GR"
+        ],
+        "replies": [
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604173623.198800"
+            },
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604173648.199200"
+            },
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604173712.199600"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1604178463.203700"
+            },
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604178680.204100"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1604181308.205900"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1604181355.206100"
+            },
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604181365.206300"
+            },
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604181367.206500"
+            },
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604181506.206900"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1604182280.207300"
+            },
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604182343.207500"
+            },
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604182367.207700"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1604182922.207900"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1604185094.208100"
+            },
+            {
+                "user": "U01D87F1SN6",
+                "ts": "1604185204.208300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Voltage Regulator: (except with the pins down)",
+        "files": [
+            {
+                "id": "F01EFR8NWUQ",
+                "created": 1604173537,
+                "timestamp": 1604173537,
+                "name": "P1_PCB.sch",
+                "title": "P1_PCB.sch",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01D87F1SN6",
+                "editable": true,
+                "size": 7496,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01EFR8NWUQ\/p1_pcb.sch?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01EFR8NWUQ\/download\/p1_pcb.sch?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01D87F1SN6\/F01EFR8NWUQ\/p1_pcb.sch",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01EFR8NWUQ-230e8726b6",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01D87F1SN6\/F01EFR8NWUQ\/p1_pcb.sch\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGkX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voltage Regulator: (except with the pins down)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01D87F1SN6",
+        "display_as_bot": false,
+        "ts": "1604173623.198800",
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DNTAT77F",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01D87F1SN6",
+        "display_as_bot": false,
+        "ts": "1604173648.199200",
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "type": "message",
+        "text": "For the Hbridge:",
+        "files": [
+            {
+                "id": "F01E4K1E97B",
+                "created": 1604173685,
+                "timestamp": 1604173685,
+                "name": "P2_PCB.sch",
+                "title": "P2_PCB.sch",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01D87F1SN6",
+                "editable": true,
+                "size": 11796,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E4K1E97B\/p2_pcb.sch?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E4K1E97B\/download\/p2_pcb.sch?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01D87F1SN6\/F01E4K1E97B\/p2_pcb.sch",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01E4K1E97B-65959388eb",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01D87F1SN6\/F01E4K1E97B\/p2_pcb.sch\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01DK8F2H2S",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrn6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the Hbridge:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01D87F1SN6",
+        "ts": "1604173712.199600",
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "0ddd2544-1d10-409e-a54c-387e48908c49",
+        "type": "message",
+        "text": "Hey <@U01C20FKN5A>! I'm soldering your voltage regulator PCB and it looks like the mosfets do not fit into the holes you designated for them. would you like me to keep soldering the other parts?",
+        "user": "UV1ANS7GR",
+        "ts": "1604176835.200300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01C20FKN5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I'm soldering your voltage regulator PCB and it looks like the mosfets do not fit into the holes you designated for them. would you like me to keep soldering the other parts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604086945.197100",
+        "parent_user_id": "U01C20FKN5A"
+    },
+    {
+        "client_msg_id": "7A4049ED-0221-469E-8079-E345AC2121F0",
+        "type": "message",
+        "text": "Oh ya they provided us with the wrong schematic for the regulators. Professor Wendell said that it could still be soldered but they would be sticking out. Is that possible?",
+        "user": "U01C20FKN5A",
+        "ts": "1604177022.203500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gc10af757950",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c10af7579500acc469265f04b6b87e0a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Nicole Russo",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "nicole.russo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SfxaA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh ya they provided us with the wrong schematic for the regulators. Professor Wendell said that it could still be soldered but they would be sticking out. Is that possible?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604086945.197100",
+        "parent_user_id": "U01C20FKN5A"
+    },
+    {
+        "client_msg_id": "606fcca7-eea7-4c55-a6cb-2b71cd2f18aa",
+        "type": "message",
+        "text": "Yup, I'll do it after I finish Nicole's!",
+        "user": "UV1ANS7GR",
+        "ts": "1604178463.203700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o90p6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup, I'll do it after I finish Nicole's!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "c3a595bb-61ae-4896-a45c-aebc821c7add",
+        "type": "message",
+        "text": "Alright, I'll try my best",
+        "user": "UV1ANS7GR",
+        "ts": "1604178473.203900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YMG2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright, I'll try my best"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604086945.197100",
+        "parent_user_id": "U01C20FKN5A"
+    },
+    {
+        "client_msg_id": "f2b50364-d8ed-40f1-ba54-887170380118",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U01D87F1SN6",
+        "ts": "1604178680.204100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga3f8158056d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3f8158056df169c6b233a92f9948d69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Stephanie Bentley",
+            "display_name": "Stephanie Bentley",
+            "team": "TUX7FNQ8J",
+            "name": "stephanie.bentley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CT\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "29c242a9-eed4-413f-9725-381a10ed6c29",
+        "type": "message",
+        "text": "<@U01C20FKN5A> which direction do the MOSFETS go&gt;",
+        "user": "UV1ANS7GR",
+        "ts": "1604178929.204300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VUuB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01C20FKN5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which direction do the MOSFETS go>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604086945.197100",
+        "parent_user_id": "U01C20FKN5A"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DY6VDU04",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zTQC+",
+                "elements": []
+            }
+        ],
+        "user": "U01C20FKN5A",
+        "display_as_bot": false,
+        "ts": "1604179231.205300",
+        "client_msg_id": "7CF9AE8B-F313-4A32-9089-21882840C91F",
+        "thread_ts": "1604086945.197100",
+        "parent_user_id": "U01C20FKN5A"
+    },
+    {
+        "client_msg_id": "2c5955dc-54b2-448f-ac85-5c652d6e5c62",
+        "type": "message",
+        "text": "your PCBs are done! I tried my best with the mosfets. Hope they work!",
+        "user": "UV1ANS7GR",
+        "ts": "1604180924.205700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EfNZ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "your PCBs are done! I tried my best with the mosfets. Hope they work!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604086945.197100",
+        "parent_user_id": "U01C20FKN5A"
+    },
+    {
+        "client_msg_id": "dda7c2ac-ef29-4e27-9344-436bb482835f",
+        "type": "message",
+        "text": "<@U01D87F1SN6> can you please send the schematics as a different file type? I can't open those on my computer",
+        "user": "UV1ANS7GR",
+        "ts": "1604181308.205900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jSEcH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01D87F1SN6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you please send the schematics as a different file type? I can't open those on my computer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "62c12b15-e0ea-478b-97c8-ccad97cfac23",
+        "type": "message",
+        "text": "screenshots will also suffice",
+        "user": "UV1ANS7GR",
+        "ts": "1604181355.206100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O23vl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "screenshots will also suffice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "f7c7333e-a947-46a9-9800-2a14745d6031",
+        "type": "message",
+        "text": "Yup! Here's the voltage regulator",
+        "user": "U01D87F1SN6",
+        "ts": "1604181365.206300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga3f8158056d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3f8158056df169c6b233a92f9948d69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Stephanie Bentley",
+            "display_name": "Stephanie Bentley",
+            "team": "TUX7FNQ8J",
+            "name": "stephanie.bentley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ezrsm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup! Here's the voltage regulator"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DBA9HR0X",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01D87F1SN6",
+        "display_as_bot": false,
+        "ts": "1604181367.206500",
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "type": "message",
+        "text": "There's the hbridge",
+        "files": [
+            {
+                "id": "F01DY7EEJ7N",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ck1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's the hbridge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01D87F1SN6",
+        "display_as_bot": false,
+        "ts": "1604181506.206900",
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "dfce388a-1504-47d5-a7fb-240aacd57fcb",
+        "type": "message",
+        "text": "<@U01D87F1SN6> thanks! I can't tell the difference between C1, C2, and C3 for the voltage regulator. It looks like there are 2 different types of capacitors. Can you clarify which one goes where?",
+        "user": "UV1ANS7GR",
+        "ts": "1604182280.207300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JCXcO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01D87F1SN6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks! I can't tell the difference between C1, C2, and C3 for the voltage regulator. It looks like there are 2 different types of capacitors. Can you clarify which one goes where?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "8bb74fb6-c04d-4470-abbe-5ced12972230",
+        "type": "message",
+        "text": "I've been using them interchangeably I think it shouldn't matter",
+        "user": "U01D87F1SN6",
+        "ts": "1604182343.207500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga3f8158056d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3f8158056df169c6b233a92f9948d69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Stephanie Bentley",
+            "display_name": "Stephanie Bentley",
+            "team": "TUX7FNQ8J",
+            "name": "stephanie.bentley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzhaZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've been using them interchangeably I think it shouldn't matter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "c6e52694-745a-4de5-8ed6-501de395168f",
+        "type": "message",
+        "text": "But maybe C1?",
+        "user": "U01D87F1SN6",
+        "ts": "1604182367.207700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga3f8158056d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3f8158056df169c6b233a92f9948d69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Stephanie Bentley",
+            "display_name": "Stephanie Bentley",
+            "team": "TUX7FNQ8J",
+            "name": "stephanie.bentley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H03oo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But maybe C1?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "33b690ae-dc23-4948-bf27-d004b2e0fd2f",
+        "type": "message",
+        "text": "ok, thanks",
+        "user": "UV1ANS7GR",
+        "ts": "1604182922.207900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oZtkP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "52652144-0423-4797-909d-aae60d125e5c",
+        "type": "message",
+        "text": "<@U01D87F1SN6> your PCBs are done!",
+        "user": "UV1ANS7GR",
+        "ts": "1604185094.208100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vo\/G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01D87F1SN6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your PCBs are done!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "985baa72-4400-4946-bf01-a31276fbf110",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U01D87F1SN6",
+        "ts": "1604185204.208300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga3f8158056d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3f8158056df169c6b233a92f9948d69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Stephanie Bentley",
+            "display_name": "Stephanie Bentley",
+            "team": "TUX7FNQ8J",
+            "name": "stephanie.bentley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kwqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604173496.198700",
+        "parent_user_id": "U01D87F1SN6"
+    },
+    {
+        "client_msg_id": "95f66e69-72a3-4d93-b1af-81e4bcf9eeb8",
+        "type": "message",
+        "text": "<!channel> I believe that, at this point, everyone's soldering requests have been fulfilled. If not, please create a new thread below!",
+        "user": "UV1ANS7GR",
+        "ts": "1604185280.209100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I believe that, at this point, everyone's soldering requests have been fulfilled. If not, please create a new thread below!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B064A7C3-037D-45EF-9261-70553AB48FD9",
+        "type": "message",
+        "text": "Thank you so much!!!",
+        "user": "U01C20FKN5A",
+        "ts": "1604186203.209400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gc10af757950",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c10af7579500acc469265f04b6b87e0a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Nicole Russo",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "nicole.russo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aYAQd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604086945.197100",
+        "parent_user_id": "U01C20FKN5A"
+    }
+]

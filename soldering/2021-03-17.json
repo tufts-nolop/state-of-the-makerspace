@@ -1,0 +1,769 @@
+[
+    {
+        "client_msg_id": "5F643A79-325A-477B-BB07-A2C25B848AA4",
+        "type": "message",
+        "text": "<@U01E66UJ1PZ> we found your pcb outside of nolop and have a few questions!",
+        "user": "UUX9LS8AW",
+        "ts": "1615986845.000900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UrE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01E66UJ1PZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we found your pcb outside of nolop and have a few questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "reply_count": 15,
+        "reply_users_count": 4,
+        "latest_reply": "1616006042.007300",
+        "reply_users": [
+            "UUX9LS8AW",
+            "U01E66UJ1PZ",
+            "UVA4Q0DM3",
+            "U01ADHK39FH"
+        ],
+        "replies": [
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1615986895.002000"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1615987044.002900"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1615991781.003200"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1615991895.003400"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1615992024.003600"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1615992026.004000"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1615993491.004200"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1615993500.004400"
+            },
+            {
+                "user": "UVA4Q0DM3",
+                "ts": "1615994045.005000"
+            },
+            {
+                "user": "UVA4Q0DM3",
+                "ts": "1615994084.005600"
+            },
+            {
+                "user": "U01ADHK39FH",
+                "ts": "1615996455.005800"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1615996628.006000"
+            },
+            {
+                "user": "U01E66UJ1PZ",
+                "ts": "1615996629.006200"
+            },
+            {
+                "user": "U01ADHK39FH",
+                "ts": "1615999810.006700"
+            },
+            {
+                "user": "UVA4Q0DM3",
+                "ts": "1616006042.007300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "B3E966E4-BB5D-45E4-A985-0315AECC1E9A",
+        "type": "message",
+        "text": "Would you like the pico soldered directly to the board, or would you like female headers soldered so the pico can be plugged in?",
+        "user": "UUX9LS8AW",
+        "ts": "1615986895.002000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W0OG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like the pico soldered directly to the board, or would you like female headers soldered so the pico can be plugged in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "F1A7541C-BA75-4E16-9C47-FD053E956D77",
+        "type": "message",
+        "text": "could you be more specific about what youd like soldered for the rotary encoder? with a picture?",
+        "user": "UUX9LS8AW",
+        "ts": "1615987044.002900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bwAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "could you be more specific about what youd like soldered for the rotary encoder? with a picture?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "b7806a71-fc2f-45ec-adce-e95927e8b59b",
+        "type": "message",
+        "text": "if you guys have female headers that would be awesome!",
+        "user": "U01E66UJ1PZ",
+        "ts": "1615991781.003200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uB4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you guys have female headers that would be awesome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "b066f06c-a5e2-449b-9eae-c5d2656d1d4e",
+        "type": "message",
+        "text": "Yes, will solder female headers on!",
+        "user": "UUX9LS8AW",
+        "ts": "1615991895.003400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RRaW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, will solder female headers on!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "type": "message",
+        "text": "Yea i guess i should have been more specific, I meant this type of encoder, like the one with the switch.  just wanted t ocheck if you guys had one laying around.  If not I can just buy one on amazon and bring the board back, not vital to it workin",
+        "files": [
+            {
+                "id": "F01RCDXDZHU",
+                "created": 1615991927,
+                "timestamp": 1615991927,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01E66UJ1PZ",
+                "editable": false,
+                "size": 813860,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01RCDXDZHU\/image.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01RCDXDZHU\/download\/image.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01RCDXDZHU-3572ab634b\/image_64.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01RCDXDZHU-3572ab634b\/image_80.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01RCDXDZHU-3572ab634b\/image_360.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01RCDXDZHU-3572ab634b\/image_480.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01RCDXDZHU-3572ab634b\/image_160.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01RCDXDZHU-3572ab634b\/image_720.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01RCDXDZHU-3572ab634b\/image_800.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01RCDXDZHU-3572ab634b\/image_960.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01RCDXDZHU-3572ab634b\/image_1024.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCf+zo\/77Uh0+IDJdsVNdSNGgI6Z5NRROZ2A5AHvTsA0WMJGd7+nagWERP3nq4QAuAKFIpAVBp8WeHeg6fH6v8ApVsYz1P50BFUkgYJ60AKwDKQeQaZHEsZyigZrMa7nBP7w\/lQl3Oesh\/IUAaz9KaOo6Vnm4lJxvNRm5mDcSGgDUDHP3T1p3asn7VP\/wA9DQLufP8ArDQB\/9k=",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01E66UJ1PZ\/F01RCDXDZHU\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01RCDXDZHU-9b72d1645a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xe9pJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea i guess i should have been more specific, I meant this type of encoder, like the one with the switch.  just wanted t ocheck if you guys had one laying around.  If not I can just buy one on amazon and bring the board back, not vital to it workin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01E66UJ1PZ",
+        "display_as_bot": false,
+        "ts": "1615992024.003600",
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "279e8103-48c4-44b6-bf8e-9e20848d5556",
+        "type": "message",
+        "text": "ty!",
+        "user": "U01E66UJ1PZ",
+        "ts": "1615992026.004000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7DD6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ty!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "5cc17d6e-31a8-410e-93ce-967460066c04",
+        "type": "message",
+        "text": "I dont think we have any, sorry :disappointed:",
+        "user": "UUX9LS8AW",
+        "ts": "1615993491.004200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "49WM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I dont think we have any, sorry "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "582d9ce3-d45c-4246-b4b5-f6951fe957b0",
+        "type": "message",
+        "text": "everything else is soldered and outside nolop though",
+        "user": "UUX9LS8AW",
+        "ts": "1615993500.004400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jliZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "everything else is soldered and outside nolop though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "3AE20E5D-A0C1-46FC-A0D9-23340732E304",
+        "type": "message",
+        "text": "I’m pretty sure we have those encoders in the store. ",
+        "user": "UVA4Q0DM3",
+        "ts": "1615994045.005000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d7a36236da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d7a36236da60328b0524d2cc31523e6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jake Sorscher",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "j.sorscher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m pretty sure we have those encoders in the store. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "CF9C18F4-3840-4B9E-9B8E-222D2126ADBC",
+        "type": "message",
+        "text": "They’re attached to a breakout board already though",
+        "user": "UVA4Q0DM3",
+        "ts": "1615994084.005600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d7a36236da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d7a36236da60328b0524d2cc31523e6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jake Sorscher",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "j.sorscher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HA\/N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They’re attached to a breakout board already though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "18e1ba0c-9107-410f-a83c-d9bb5488e642",
+        "type": "message",
+        "text": "<@U01E66UJ1PZ> I made a similar pcb and bought a pack of 5 rotary encoder switches, I can leave one outside Nolop for you if youd like",
+        "user": "U01ADHK39FH",
+        "ts": "1615996455.005800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01E66UJ1PZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I made a similar pcb and bought a pack of 5 rotary encoder switches, I can leave one outside Nolop for you if youd like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "e611d677-932b-4c64-8b65-ab0656b18fb5",
+        "type": "message",
+        "text": "<@U01ADHK39FH> that would be absolutely fantastic my friend",
+        "user": "U01E66UJ1PZ",
+        "ts": "1615996628.006000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0iFuc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01ADHK39FH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that would be absolutely fantastic my friend"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "939c0863-7077-4230-bf44-a1677be72b43",
+        "type": "message",
+        "text": "bless",
+        "user": "U01E66UJ1PZ",
+        "ts": "1615996629.006200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qrP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bless"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "03C9FCA6-0982-44DA-9C13-83C920A43B3C",
+        "type": "message",
+        "text": "Just put one on top of your board ",
+        "user": "U01ADHK39FH",
+        "ts": "1615999810.006700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FSWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just put one on top of your board "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    },
+    {
+        "client_msg_id": "F2420414-DCEB-433B-BB04-9AF620146B9C",
+        "type": "message",
+        "text": "The encoder is now soldered on ",
+        "user": "UVA4Q0DM3",
+        "ts": "1616006042.007300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d7a36236da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d7a36236da60328b0524d2cc31523e6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jake Sorscher",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "j.sorscher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oNf5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The encoder is now soldered on "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615986845.000900",
+        "parent_user_id": "UUX9LS8AW"
+    }
+]

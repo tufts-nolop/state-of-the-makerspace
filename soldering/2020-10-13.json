@@ -1,0 +1,554 @@
+[
+    {
+        "client_msg_id": "1a4489d7-8639-4064-86ed-ed92d09d435d",
+        "type": "message",
+        "text": "Hi, I dropped off my voltage regulator PCB (in a brown paper bag), it has a small issue that I can explain if you want to reach out.  Thanks so much!",
+        "user": "U01CPE4EQTW",
+        "ts": "1602602726.044800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g23176e6be75",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23176e6be758b6f7e194c6aef37a98f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Niki Alden",
+            "display_name": "Niki Alden",
+            "team": "TUX7FNQ8J",
+            "name": "nicole.alden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hW\/wJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I dropped off my voltage regulator PCB (in a brown paper bag), it has a small issue that I can explain if you want to reach out.  Thanks so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "reply_count": 16,
+        "reply_users_count": 2,
+        "latest_reply": "1602780063.052200",
+        "reply_users": [
+            "UUXLKS2F4",
+            "U01CPE4EQTW"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602605312.045900"
+            },
+            {
+                "user": "U01CPE4EQTW",
+                "ts": "1602607000.046100"
+            },
+            {
+                "user": "U01CPE4EQTW",
+                "ts": "1602607051.046300"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602607547.046500"
+            },
+            {
+                "user": "U01CPE4EQTW",
+                "ts": "1602607738.046700"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602607853.047600"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602608619.048900"
+            },
+            {
+                "user": "U01CPE4EQTW",
+                "ts": "1602610500.049100"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602610544.049500"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602613792.050200"
+            },
+            {
+                "user": "U01CPE4EQTW",
+                "ts": "1602633449.050400"
+            },
+            {
+                "user": "U01CPE4EQTW",
+                "ts": "1602776137.050600"
+            },
+            {
+                "user": "U01CPE4EQTW",
+                "ts": "1602776150.050800"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602778687.051000"
+            },
+            {
+                "user": "U01CPE4EQTW",
+                "ts": "1602780015.051200"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602780063.052200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1E57F4AD-9713-48FC-BCF5-6C2A2B2DEEB3",
+        "type": "message",
+        "text": "Hi Niki, I will be soldering your board now. What’s the issue you mentioned and could you provide a diagram\/image to help me solder?",
+        "user": "UUXLKS2F4",
+        "ts": "1602605312.045900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRq3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Niki, I will be soldering your board now. What’s the issue you mentioned and could you provide a diagram\/image to help me solder?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "client_msg_id": "3084893a-258c-4baf-94c3-8560a99c4942",
+        "type": "message",
+        "text": "I made it 1\/10 of an inch too small, so the edge pins if they go straight down will not fit in a bread board",
+        "user": "U01CPE4EQTW",
+        "ts": "1602607000.046100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g23176e6be75",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23176e6be758b6f7e194c6aef37a98f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Niki Alden",
+            "display_name": "Niki Alden",
+            "team": "TUX7FNQ8J",
+            "name": "nicole.alden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5NW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I made it 1\/10 of an inch too small, so the edge pins if they go straight down will not fit in a bread board"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "client_msg_id": "a3e62008-9909-468d-b482-1e52d2d51bb3",
+        "type": "message",
+        "text": "Not entirely sure what I should do about that, but it is an issue, if you can just make one side of edge pins bendable underneath or something that works for me. Sorry",
+        "user": "U01CPE4EQTW",
+        "ts": "1602607051.046300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g23176e6be75",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23176e6be758b6f7e194c6aef37a98f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Niki Alden",
+            "display_name": "Niki Alden",
+            "team": "TUX7FNQ8J",
+            "name": "nicole.alden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jf2Ld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not entirely sure what I should do about that, but it is an issue, if you can just make one side of edge pins bendable underneath or something that works for me. Sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "client_msg_id": "788ce057-45ad-49b5-8792-f9ba6806367c",
+        "type": "message",
+        "text": "Sounds good. I'll figure something out :slightly_smiling_face:",
+        "user": "UUXLKS2F4",
+        "ts": "1602607547.046500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ml02J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good. I'll figure something out "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "client_msg_id": "5d4eca88-ff89-4b00-99dc-026e07fd35c5",
+        "type": "message",
+        "text": "thanks",
+        "user": "U01CPE4EQTW",
+        "ts": "1602607738.046700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g23176e6be75",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23176e6be758b6f7e194c6aef37a98f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Niki Alden",
+            "display_name": "Niki Alden",
+            "team": "TUX7FNQ8J",
+            "name": "nicole.alden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5AV\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "type": "message",
+        "text": "What components would you like on J6? Just male pin headers like J2-J4?",
+        "files": [
+            {
+                "id": "F01CARAJUBG",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yiJdK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What components would you like on J6? Just male pin headers like J2-J4?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UUXLKS2F4",
+        "display_as_bot": false,
+        "ts": "1602607853.047600",
+        "client_msg_id": "BBBE69F5-EAA0-41DA-BD3E-EE84F6388F7D",
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "client_msg_id": "E23D298E-55C4-4B39-949A-44A3022B8ABB",
+        "type": "message",
+        "text": "Also, what’s the orientation of the two voltage regulators? I could figure it out by the traces but I thought it would be easier to just ask you",
+        "user": "UUXLKS2F4",
+        "ts": "1602608619.048900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQe0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, what’s the orientation of the two voltage regulators? I could figure it out by the traces but I thought it would be easier to just ask you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "client_msg_id": "45dee442-5f6d-4349-b480-e98268a1a429",
+        "type": "message",
+        "text": "J6 can just be a pin, it is just supposed to be an easy spot to measure voltage. also I do not remember which way the voltage regulators go, but I can figure it out if you would like",
+        "user": "U01CPE4EQTW",
+        "ts": "1602610500.049100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g23176e6be75",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23176e6be758b6f7e194c6aef37a98f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Niki Alden",
+            "display_name": "Niki Alden",
+            "team": "TUX7FNQ8J",
+            "name": "nicole.alden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gKHwN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J6 can just be a pin, it is just supposed to be an easy spot to measure voltage. also I do not remember which way the voltage regulators go, but I can figure it out if you would like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "client_msg_id": "26C2D4FD-AF50-46F7-A70D-C6331F10A733",
+        "type": "message",
+        "text": "Yup that would be great",
+        "user": "UUXLKS2F4",
+        "ts": "1602610544.049500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oX\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup that would be great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "client_msg_id": "1A05A7FB-D0A8-46AC-9519-60AF78B42B73",
+        "type": "message",
+        "text": "I think I’ve figured that out... your board is ready for pickup!",
+        "user": "UUXLKS2F4",
+        "ts": "1602613792.050200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "50g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think I’ve figured that out... your board is ready for pickup!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    },
+    {
+        "client_msg_id": "d540cebf-c3cc-4c5f-9558-c8c74418b674",
+        "type": "message",
+        "text": "Sorry, life came up. Thanks so much",
+        "user": "U01CPE4EQTW",
+        "ts": "1602633449.050400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g23176e6be75",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23176e6be758b6f7e194c6aef37a98f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Niki Alden",
+            "display_name": "Niki Alden",
+            "team": "TUX7FNQ8J",
+            "name": "nicole.alden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MGNm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, life came up. Thanks so much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602602726.044800",
+        "parent_user_id": "U01CPE4EQTW"
+    }
+]

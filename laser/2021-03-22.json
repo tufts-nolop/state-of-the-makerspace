@@ -1,0 +1,456 @@
+[
+    {
+        "client_msg_id": "0c144fb0-a284-47ef-ac87-d87d7d13a774",
+        "type": "message",
+        "text": "Hi, can I laser cut something?",
+        "user": "U01E0CNFBDG",
+        "ts": "1616444358.029300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6d012e10a8b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d012e10a8b0688fe0a5a092a3041e96.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Barrett Roman",
+            "display_name": "Barrett Roman",
+            "team": "TUX7FNQ8J",
+            "name": "barrett.roman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w=X5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, can I laser cut something?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616444358.029300",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1616445489.031200",
+        "reply_users": [
+            "UVCATTNCW",
+            "U01E0CNFBDG"
+        ],
+        "replies": [
+            {
+                "user": "UVCATTNCW",
+                "ts": "1616444377.029400"
+            },
+            {
+                "user": "U01E0CNFBDG",
+                "ts": "1616444407.029600"
+            },
+            {
+                "user": "U01E0CNFBDG",
+                "ts": "1616444411.029800"
+            },
+            {
+                "user": "U01E0CNFBDG",
+                "ts": "1616444419.030000"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1616444512.030400"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1616445269.030600"
+            },
+            {
+                "user": "U01E0CNFBDG",
+                "ts": "1616445464.030800"
+            },
+            {
+                "user": "U01E0CNFBDG",
+                "ts": "1616445481.031000"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1616445489.031200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6d51d2f2-880d-456b-9d33-adf75dcf481e",
+        "type": "message",
+        "text": "Sure barrett what material",
+        "user": "UVCATTNCW",
+        "ts": "1616444377.029400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure barrett what material"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616444358.029300",
+        "parent_user_id": "U01E0CNFBDG"
+    },
+    {
+        "client_msg_id": "67a95b89-872e-4c60-b91a-28e0bb66fc98",
+        "type": "message",
+        "text": "1\/8 inch acrylic, any color.",
+        "user": "U01E0CNFBDG",
+        "ts": "1616444407.029600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6d012e10a8b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d012e10a8b0688fe0a5a092a3041e96.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Barrett Roman",
+            "display_name": "Barrett Roman",
+            "team": "TUX7FNQ8J",
+            "name": "barrett.roman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQSfL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1\/8 inch acrylic, any color."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616444358.029300",
+        "parent_user_id": "U01E0CNFBDG"
+    },
+    {
+        "client_msg_id": "7e909bca-c217-4310-ab50-5e7aa01d1842",
+        "type": "message",
+        "text": "Can I get 2 of these",
+        "user": "U01E0CNFBDG",
+        "ts": "1616444411.029800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6d012e10a8b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d012e10a8b0688fe0a5a092a3041e96.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Barrett Roman",
+            "display_name": "Barrett Roman",
+            "team": "TUX7FNQ8J",
+            "name": "barrett.roman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Klg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I get 2 of these"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616444358.029300",
+        "parent_user_id": "U01E0CNFBDG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01RZTSPCMT",
+                "created": 1616444417,
+                "timestamp": 1616444417,
+                "name": "Backplate.dxf",
+                "title": "Backplate.dxf",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01E0CNFBDG",
+                "editable": true,
+                "size": 73287,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01RZTSPCMT\/backplate.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01RZTSPCMT\/download\/backplate.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01E0CNFBDG\/F01RZTSPCMT\/backplate.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01RZTSPCMT-53be512b1d",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01E0CNFBDG\/F01RZTSPCMT\/backplate.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01E0CNFBDG",
+        "display_as_bot": false,
+        "ts": "1616444419.030000",
+        "thread_ts": "1616444358.029300",
+        "parent_user_id": "U01E0CNFBDG"
+    },
+    {
+        "client_msg_id": "96a7c211-3d19-481e-b396-9ffd1d07f925",
+        "type": "message",
+        "text": "yep",
+        "user": "UVCATTNCW",
+        "ts": "1616444512.030400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVNP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616444358.029300",
+        "parent_user_id": "U01E0CNFBDG"
+    },
+    {
+        "client_msg_id": "959c4581-1a51-44a0-aa99-ae42d0660632",
+        "type": "message",
+        "text": "all done and waiting for pickup",
+        "user": "UVCATTNCW",
+        "ts": "1616445269.030600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "all done and waiting for pickup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616444358.029300",
+        "parent_user_id": "U01E0CNFBDG"
+    },
+    {
+        "client_msg_id": "c1d605f3-69af-4a99-97ce-6aafec16d190",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U01E0CNFBDG",
+        "ts": "1616445464.030800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6d012e10a8b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d012e10a8b0688fe0a5a092a3041e96.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Barrett Roman",
+            "display_name": "Barrett Roman",
+            "team": "TUX7FNQ8J",
+            "name": "barrett.roman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BqLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616444358.029300",
+        "parent_user_id": "U01E0CNFBDG"
+    },
+    {
+        "client_msg_id": "d280ddc9-746b-4df4-9988-933c6cbc7056",
+        "type": "message",
+        "text": "Can this be charged to chris's tab?",
+        "user": "U01E0CNFBDG",
+        "ts": "1616445481.031000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6d012e10a8b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d012e10a8b0688fe0a5a092a3041e96.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Barrett Roman",
+            "display_name": "Barrett Roman",
+            "team": "TUX7FNQ8J",
+            "name": "barrett.roman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can this be charged to chris's tab?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616444358.029300",
+        "parent_user_id": "U01E0CNFBDG"
+    },
+    {
+        "client_msg_id": "de0729fe-9d0a-4f41-a8c1-0f68fc065a76",
+        "type": "message",
+        "text": "it was free, I used scrap",
+        "user": "UVCATTNCW",
+        "ts": "1616445489.031200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bzK\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it was free, I used scrap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616444358.029300",
+        "parent_user_id": "U01E0CNFBDG",
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U01E0CNFBDG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

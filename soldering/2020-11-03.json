@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "557C5E12-5A69-4893-87B0-47B8DA2422DC",
+        "type": "message",
+        "text": "Hi, I dropped off an arduino nano outside. Can you please solder the vusb on the back of the board? I left a diagram that should help. Thanks!",
+        "user": "U01DV8PRTRQ",
+        "ts": "1604444098.217200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g567251a6aab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/567251a6aab21f7294e1910f068684e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Mike Kourkoulakos",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "michael.kourkoulakos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RLh3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I dropped off an arduino nano outside. Can you please solder the vusb on the back of the board? I left a diagram that should help. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604444098.217200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1604524351.217700",
+        "reply_users": [
+            "UVCATTNCW",
+            "U01DV8PRTRQ"
+        ],
+        "replies": [
+            {
+                "user": "UVCATTNCW",
+                "ts": "1604517115.217300"
+            },
+            {
+                "user": "U01DV8PRTRQ",
+                "ts": "1604524351.217700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

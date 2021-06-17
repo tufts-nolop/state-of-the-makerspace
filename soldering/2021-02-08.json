@@ -1,0 +1,330 @@
+[
+    {
+        "client_msg_id": "8935CB71-AC37-4E99-8F34-402AECAD251C",
+        "type": "message",
+        "text": "Hello, I dropped off a small bag with a Raspberry Pi Pico and 2 1x10 pin headers. Could you please solder the pin headers to the Pico?",
+        "user": "U010Q0U24CU",
+        "ts": "1612794666.003600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g40c41982912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/40c4198291256150cc5ab2f12022c993.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Adan Leos",
+            "display_name": "Adan Leos",
+            "team": "TUX7FNQ8J",
+            "name": "adan.leos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkhnK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, I dropped off a small bag with a Raspberry Pi Pico and 2 1x10 pin headers. Could you please solder the pin headers to the Pico?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612794666.003600",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1612798722.007000",
+        "reply_users": [
+            "UUX9LS8AW",
+            "UUXLKS2F4",
+            "U010Q0U24CU"
+        ],
+        "replies": [
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1612794678.003700"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1612794844.004800"
+            },
+            {
+                "user": "U010Q0U24CU",
+                "ts": "1612795053.006500"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1612795564.006800"
+            },
+            {
+                "user": "U010Q0U24CU",
+                "ts": "1612798722.007000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2e72b67c-fb5f-4095-afd1-f2497394f7b1",
+        "type": "message",
+        "text": "Yup!",
+        "user": "UUX9LS8AW",
+        "ts": "1612794678.003700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "261k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612794666.003600",
+        "parent_user_id": "U010Q0U24CU"
+    },
+    {
+        "type": "message",
+        "text": "Would you like us to solder headers to the 3 debug pins at the lower part as well? <@U010Q0U24CU> ",
+        "files": [
+            {
+                "id": "F01MC455RM0",
+                "created": 1612794769,
+                "timestamp": 1612794769,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UUXLKS2F4",
+                "editable": false,
+                "size": 907823,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01MC455RM0\/image_from_ios.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01MC455RM0\/download\/image_from_ios.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MC455RM0-3848a89092\/image_from_ios_64.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MC455RM0-3848a89092\/image_from_ios_80.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MC455RM0-3848a89092\/image_from_ios_360.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MC455RM0-3848a89092\/image_from_ios_480.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MC455RM0-3848a89092\/image_from_ios_160.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MC455RM0-3848a89092\/image_from_ios_720.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MC455RM0-3848a89092\/image_from_ios_800.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MC455RM0-3848a89092\/image_from_ios_960.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MC455RM0-3848a89092\/image_from_ios_1024.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACRVaGIYTH0UZo830SQ\/hingBVwBignntTMyMy\/7Dj6ik81T0OPTIo80ZzkccY9aXcHGQCR2zRcGheTyAcUfP6GoygB4GPoaTaP8tTJJ8jBqJiX4UcDrT\/XkVEVYA7TkVLLI1VizAnOamGAB6UKAoHH1oGckHgCmhNigheCDRuX+61MJDclsGjC\/36ZI88OfrQD1oYgNnHekDHdjp24pFAQSOePrSNgAc8n0oAyTnpjJpDyDn60xCHaD0P50ZHp+tKCuORR8lAj\/2Q==",
+                "permalink": "https:\/\/nolop.slack.com\/files\/UUXLKS2F4\/F01MC455RM0\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01MC455RM0-bc888808ba",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like us to solder headers to the 3 debug pins at the lower part as well? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010Q0U24CU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UUXLKS2F4",
+        "display_as_bot": false,
+        "ts": "1612794844.004800",
+        "client_msg_id": "7A01C712-23F3-4721-8743-263BF7FFC226",
+        "thread_ts": "1612794666.003600",
+        "parent_user_id": "U010Q0U24CU"
+    },
+    {
+        "client_msg_id": "F4945C67-DD34-4E2F-800D-CF04E47186AF",
+        "type": "message",
+        "text": "I don’t know how to use that just yet so I don’t think it is necessary. Thank you for asking though.",
+        "user": "U010Q0U24CU",
+        "ts": "1612795053.006500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g40c41982912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/40c4198291256150cc5ab2f12022c993.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Adan Leos",
+            "display_name": "Adan Leos",
+            "team": "TUX7FNQ8J",
+            "name": "adan.leos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yO+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t know how to use that just yet so I don’t think it is necessary. Thank you for asking though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612794666.003600",
+        "parent_user_id": "U010Q0U24CU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUXLKS2F4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80c8a03c-8ca5-435c-8e3e-40e44d7f2827",
+        "type": "message",
+        "text": "Done and outside nolop!",
+        "user": "UUX9LS8AW",
+        "ts": "1612795564.006800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBC4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done and outside nolop!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612794666.003600",
+        "parent_user_id": "U010Q0U24CU"
+    },
+    {
+        "client_msg_id": "73a728c5-58a8-4b4e-a10b-728f334f1829",
+        "type": "message",
+        "text": "Thank you.",
+        "user": "U010Q0U24CU",
+        "ts": "1612798722.007000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g40c41982912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/40c4198291256150cc5ab2f12022c993.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Adan Leos",
+            "display_name": "Adan Leos",
+            "team": "TUX7FNQ8J",
+            "name": "adan.leos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jCA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612794666.003600",
+        "parent_user_id": "U010Q0U24CU"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "c683b7c2-e82f-417d-bf6f-aa6d8eb32bad",
+        "type": "message",
+        "text": "<@U01D9RA354J> your soldering is done and outside!",
+        "user": "UUYJ7QWNP",
+        "ts": "1619198070.090900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tv9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01D9RA354J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your soldering is done and outside!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01D9RA354J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "3c5472a0-887a-40b1-9f11-38c032e6f515",
+        "type": "message",
+        "text": ":nolop: Nolop will close at 6 PM today (Friday, May 14, 2021). :nolop:\nPlease submit your last laser cuts by 5 PM. There is a bit of a queue right now. We'll try to get everything done, but no guarantees at this point.",
+        "user": "UUX7FNR7U",
+        "ts": "1621016054.002900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQQ=t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "nolop"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nolop will close at 6 PM today (Friday, May 14, 2021). "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nolop"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlease submit your last laser cuts by 5 PM. There is a bit of a queue right now. We'll try to get everything done, but no guarantees at this point."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f55db72-c981-4bda-bd6d-3b2fbf8728d1",
+        "type": "message",
+        "text": ":boom: Nolop is now closed. See you in September! :boom:",
+        "user": "UUX7FNR7U",
+        "ts": "1621030030.003100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUX7FNR7U",
+            "ts": "1621030045.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MFuf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "boom"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nolop is now closed. See you in September! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

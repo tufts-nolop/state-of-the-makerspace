@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "2DF02D6D-8EC5-4865-BD1B-B2C0DDD953F7",
+        "type": "message",
+        "text": "<@U01AC1T0RKN> the pcb is sitting on the table outside nolop",
+        "user": "UUYJ7QWNP",
+        "ts": "1601830572.033200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1by",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AC1T0RKN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the pcb is sitting on the table outside nolop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601757049.030600",
+        "parent_user_id": "U01AC1T0RKN"
+    },
+    {
+        "client_msg_id": "08b63c7a-8925-40b4-81d5-32cbdea2b8bd",
+        "type": "message",
+        "text": "Awesome, thank you!!",
+        "user": "U01AC1T0RKN",
+        "ts": "1601830640.033400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g688c3639518",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/688c3639518d0ee21b9670063bed9828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Natalie Sheehan",
+            "display_name": "Natalie Sheehan",
+            "team": "TUX7FNQ8J",
+            "name": "natalie.sheehan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=lT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, thank you!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601757049.030600",
+        "parent_user_id": "U01AC1T0RKN"
+    }
+]

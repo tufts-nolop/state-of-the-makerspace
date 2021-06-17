@@ -1,0 +1,256 @@
+[
+    {
+        "client_msg_id": "a287a3cc-d198-4abe-a784-ac0a31cfbde1",
+        "type": "message",
+        "text": "Hi Nolop, may I laser cut something?",
+        "user": "U01CLTYK4C8",
+        "ts": "1616344262.027900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g9abdad91f4e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9abdad91f4e3f3c3f7b44bf335f9f8a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Tue",
+            "real_name": "Tue Nguyen",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "tue.nguyen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QT3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Nolop, may I laser cut something?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616344262.027900",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1616346327.028800",
+        "reply_users": [
+            "UV00RGM5F",
+            "U01CLTYK4C8"
+        ],
+        "replies": [
+            {
+                "user": "UV00RGM5F",
+                "ts": "1616344291.028000"
+            },
+            {
+                "user": "U01CLTYK4C8",
+                "ts": "1616344298.028200"
+            },
+            {
+                "user": "U01CLTYK4C8",
+                "ts": "1616344330.028600"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1616346327.028800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a05019c3-7eb8-4c54-907f-54f96a19bfc6",
+        "type": "message",
+        "text": "Ofc!",
+        "user": "UV00RGM5F",
+        "ts": "1616344291.028000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XN0f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ofc!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616344262.027900",
+        "parent_user_id": "U01CLTYK4C8"
+    },
+    {
+        "type": "message",
+        "text": "Dimensions are in mm and 1\/4\" birch wood preferably!",
+        "files": [
+            {
+                "id": "F01RW0D2VK7",
+                "created": 1616344278,
+                "timestamp": 1616344278,
+                "name": "peel_riser.svg",
+                "title": "peel_riser.svg",
+                "mimetype": "image\/svg+xml",
+                "filetype": "svg",
+                "pretty_type": "SVG",
+                "user": "U01CLTYK4C8",
+                "editable": false,
+                "size": 8497,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01RW0D2VK7\/peel_riser.svg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01RW0D2VK7\/download\/peel_riser.svg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01CLTYK4C8\/F01RW0D2VK7\/peel_riser.svg",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01RW0D2VK7-0f656cdf2d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S25",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dimensions are in mm and 1\/4\" birch wood preferably!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01CLTYK4C8",
+        "display_as_bot": false,
+        "ts": "1616344298.028200",
+        "thread_ts": "1616344262.027900",
+        "parent_user_id": "U01CLTYK4C8"
+    },
+    {
+        "client_msg_id": "d50e6671-daa7-415a-bb5f-e2ac40dee0b3",
+        "type": "message",
+        "text": "Preferably a new piece of wood that's not warped",
+        "user": "U01CLTYK4C8",
+        "ts": "1616344330.028600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g9abdad91f4e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9abdad91f4e3f3c3f7b44bf335f9f8a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Tue",
+            "real_name": "Tue Nguyen",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "tue.nguyen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s4hN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Preferably a new piece of wood that's not warped"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616344262.027900",
+        "parent_user_id": "U01CLTYK4C8"
+    },
+    {
+        "client_msg_id": "4e5afcbf-34cb-4875-ac41-cfed86badd05",
+        "type": "message",
+        "text": "<@U01CLTYK4C8> just finished",
+        "user": "UV00RGM5F",
+        "ts": "1616346327.028800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01CLTYK4C8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just finished"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616344262.027900",
+        "parent_user_id": "U01CLTYK4C8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01CLTYK4C8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

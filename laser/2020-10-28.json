@@ -1,0 +1,3491 @@
+[
+    {
+        "client_msg_id": "917369ac-e1ba-4f45-a99c-28e9a368193b",
+        "type": "message",
+        "text": "Hi! I would like to have something laser cut. Thank you!",
+        "user": "U01E66A8FKJ",
+        "ts": "1603897271.290700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g3eb87ef879d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3eb87ef879de9efabafb461bf83a6c1d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Rose Kitz",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "rose.kitz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/tJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I would like to have something laser cut. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603897271.290700",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1603900596.293200",
+        "reply_users": [
+            "UUYJ7QWNP",
+            "U01E66A8FKJ",
+            "UVA4Q0DM3"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1603897309.290800"
+            },
+            {
+                "user": "U01E66A8FKJ",
+                "ts": "1603897569.291000"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1603898050.291600"
+            },
+            {
+                "user": "U01E66A8FKJ",
+                "ts": "1603898256.291800"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1603898360.292000"
+            },
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1603898368.292200"
+            },
+            {
+                "user": "U01E66A8FKJ",
+                "ts": "1603898401.292400"
+            },
+            {
+                "user": "UVA4Q0DM3",
+                "ts": "1603900550.293000"
+            },
+            {
+                "user": "U01E66A8FKJ",
+                "ts": "1603900596.293200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "70763a46-4c91-425e-8a90-8ed31714cf60",
+        "type": "message",
+        "text": "Hey Rose! Would you be able to upload your files, and let us know what material \/ thickness you would like?",
+        "user": "UUYJ7QWNP",
+        "ts": "1603897309.290800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j9tIq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Rose! Would you be able to upload your files, and let us know what material \/ thickness you would like?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603897271.290700",
+        "parent_user_id": "U01E66A8FKJ"
+    },
+    {
+        "type": "message",
+        "text": "Yes, here are my files. I would like 1\/4inch Baltic Birch Plywood if that is available!",
+        "files": [
+            {
+                "id": "F01DHQHR3KM",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F01D2S2MJR5",
+                "created": 1603897398,
+                "timestamp": 1603897398,
+                "name": "Trick-o-Plinko Side Board.dxf",
+                "title": "Trick-o-Plinko Side Board.dxf",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01E66A8FKJ",
+                "editable": true,
+                "size": 51052,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D2S2MJR5\/trick-o-plinko_side_board.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D2S2MJR5\/download\/trick-o-plinko_side_board.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01E66A8FKJ\/F01D2S2MJR5\/trick-o-plinko_side_board.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01D2S2MJR5-3bdc73dfe3",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01E66A8FKJ\/F01D2S2MJR5\/trick-o-plinko_side_board.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWdal",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, here are my files. I would like 1\/4inch Baltic Birch Plywood if that is available!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01E66A8FKJ",
+        "ts": "1603897569.291000",
+        "thread_ts": "1603897271.290700",
+        "parent_user_id": "U01E66A8FKJ"
+    },
+    {
+        "client_msg_id": "d0b1822b-8a86-42fc-b179-5dcd2189207a",
+        "type": "message",
+        "text": "Ok!",
+        "user": "UUYJ7QWNP",
+        "ts": "1603898050.291600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/0E3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603897271.290700",
+        "parent_user_id": "U01E66A8FKJ"
+    },
+    {
+        "client_msg_id": "4623a80e-7a35-4ece-9008-44cbe78c1629",
+        "type": "message",
+        "text": "Just to confirm, I would like the Side Board laser cut twice with the rectangles in the center cut all the way through as slots. For the center piece the drawing in the middle is an etch and the outline can be cut all the way through.",
+        "user": "U01E66A8FKJ",
+        "ts": "1603898256.291800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g3eb87ef879d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3eb87ef879de9efabafb461bf83a6c1d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Rose Kitz",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "rose.kitz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8boUA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just to confirm, I would like the Side Board laser cut twice with the rectangles in the center cut all the way through as slots. For the center piece the drawing in the middle is an etch and the outline can be cut all the way through."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603897271.290700",
+        "parent_user_id": "U01E66A8FKJ"
+    },
+    {
+        "client_msg_id": "2bbb9836-cc77-41bc-a2e5-5c48d7ecf15d",
+        "type": "message",
+        "text": "Sounds good :+1:\nThe side pieces just finished cutting",
+        "user": "UUYJ7QWNP",
+        "ts": "1603898360.292000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VRC\/c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThe side pieces just finished cutting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603897271.290700",
+        "parent_user_id": "U01E66A8FKJ"
+    },
+    {
+        "client_msg_id": "bb4d9778-1580-42f4-8490-749b3dd13650",
+        "type": "message",
+        "text": "About to get started on the center piece",
+        "user": "UUYJ7QWNP",
+        "ts": "1603898368.292200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DRCJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "About to get started on the center piece"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603897271.290700",
+        "parent_user_id": "U01E66A8FKJ"
+    },
+    {
+        "client_msg_id": "89718208-72ab-47a2-be22-f290f044f771",
+        "type": "message",
+        "text": "Ok great! Thank you!",
+        "user": "U01E66A8FKJ",
+        "ts": "1603898401.292400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g3eb87ef879d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3eb87ef879de9efabafb461bf83a6c1d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Rose Kitz",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "rose.kitz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sLjO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok great! Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603897271.290700",
+        "parent_user_id": "U01E66A8FKJ"
+    },
+    {
+        "client_msg_id": "3A92F4BC-7A96-4420-A3C3-D84F5B7473CD",
+        "type": "message",
+        "text": "<@U01E66A8FKJ> it is done and on the table outside of Nolop",
+        "user": "UVA4Q0DM3",
+        "ts": "1603900550.293000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d7a36236da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d7a36236da60328b0524d2cc31523e6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jake Sorscher",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "j.sorscher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ghN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01E66A8FKJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it is done and on the table outside of Nolop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603897271.290700",
+        "parent_user_id": "U01E66A8FKJ"
+    },
+    {
+        "client_msg_id": "22786494-787d-429c-be4e-21c3f8e323c1",
+        "type": "message",
+        "text": "Ok, sounds good, thank you!",
+        "user": "U01E66A8FKJ",
+        "ts": "1603900596.293200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g3eb87ef879d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3eb87ef879de9efabafb461bf83a6c1d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Rose Kitz",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "rose.kitz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gGji8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, sounds good, thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603897271.290700",
+        "parent_user_id": "U01E66A8FKJ"
+    },
+    {
+        "client_msg_id": "10b66a0e-ae91-4fac-a6d5-48737cdec13a",
+        "type": "message",
+        "text": "Question - is it possible to laser cut to engrave a a plastic model?",
+        "user": "U01831XEWLW",
+        "ts": "1603921109.294200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WAC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question - is it possible to laser cut to engrave a a plastic model?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603921109.294200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1603923588.302400",
+        "reply_users": [
+            "UVCATTNCW",
+            "U01831XEWLW"
+        ],
+        "replies": [
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603921147.294300"
+            },
+            {
+                "user": "U01831XEWLW",
+                "ts": "1603923588.302400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5daf671d-dceb-421f-a44a-4433bbe9c478",
+        "type": "message",
+        "text": "I don't think we'd put other plastic besides acrylic in the laser cutter",
+        "user": "UVCATTNCW",
+        "ts": "1603921147.294300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cRqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think we'd put other plastic besides acrylic in the laser cutter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603921109.294200",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "7D69F904-CF1A-4B61-8708-BE3B29A966E4",
+        "type": "message",
+        "text": "Hi! I have a few small pieces to laser cut! ",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603922290.295000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8QLKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I have a few small pieces to laser cut! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "reply_count": 36,
+        "reply_users_count": 2,
+        "latest_reply": "1603926312.307900",
+        "reply_users": [
+            "UVCATTNCW",
+            "U01BWJ8KGKU"
+        ],
+        "replies": [
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603922450.295100"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922647.295300"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922680.295700"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922686.296100"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922690.296500"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922694.296900"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922715.297300"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922718.297700"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922721.298100"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922849.298500"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922853.298900"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922855.299300"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922858.299700"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603922895.300100"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603923108.300300"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603923126.300500"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603923165.300700"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603923174.300900"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603923181.301100"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603923183.301300"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603923406.301500"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603923462.301700"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603923492.302000"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603923532.302200"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603923654.302600"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603923919.303600"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603924348.303800"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603924410.304000"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603924857.304200"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603924870.304400"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603924891.304600"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603924942.304900"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603924947.305500"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603925998.305900"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603926010.306400"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1603926312.307900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bd334a4e-673b-4353-afd4-4adaef95308a",
+        "type": "message",
+        "text": "awesome! do you have dxfs?",
+        "user": "UVCATTNCW",
+        "ts": "1603922450.295100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCH20",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awesome! do you have dxfs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01E8MP9SHW",
+                "created": 1603922646,
+                "timestamp": 1603922646,
+                "name": "1.DXF",
+                "title": "1.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 23427,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E8MP9SHW\/1.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E8MP9SHW\/download\/1.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01E8MP9SHW\/1.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01E8MP9SHW-1069cc2397",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01E8MP9SHW\/1.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922647.295300",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DR1Q0NE8",
+                "created": 1603922678,
+                "timestamp": 1603922678,
+                "name": "2 (1).DXF",
+                "title": "2 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 27053,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR1Q0NE8\/2__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR1Q0NE8\/download\/2__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR1Q0NE8\/2__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DR1Q0NE8-3cc130653d",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR1Q0NE8\/2__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922680.295700",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01E8MQPHRN",
+                "created": 1603922684,
+                "timestamp": 1603922684,
+                "name": "3 (1).DXF",
+                "title": "3 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 30097,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E8MQPHRN\/3__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E8MQPHRN\/download\/3__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01E8MQPHRN\/3__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01E8MQPHRN-0b69ce6d50",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01E8MQPHRN\/3__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922686.296100",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DK3199TM",
+                "created": 1603922689,
+                "timestamp": 1603922689,
+                "name": "4 (1).DXF",
+                "title": "4 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 24119,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DK3199TM\/4__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DK3199TM\/download\/4__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DK3199TM\/4__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DK3199TM-5bb8a7b270",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DK3199TM\/4__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922690.296500",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DR1QGXSQ",
+                "created": 1603922692,
+                "timestamp": 1603922692,
+                "name": "5.DXF",
+                "title": "5.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 28086,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR1QGXSQ\/5.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR1QGXSQ\/download\/5.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR1QGXSQ\/5.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DR1QGXSQ-a7633e976b",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR1QGXSQ\/5.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922694.296900",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DK3268R1",
+                "created": 1603922714,
+                "timestamp": 1603922714,
+                "name": "6.DXF",
+                "title": "6.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 28320,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DK3268R1\/6.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DK3268R1\/download\/6.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DK3268R1\/6.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DK3268R1-07b9f23ec2",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DK3268R1\/6.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922715.297300",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DR1RDC0L",
+                "created": 1603922717,
+                "timestamp": 1603922717,
+                "name": "7.DXF",
+                "title": "7.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 23426,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR1RDC0L\/7.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR1RDC0L\/download\/7.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR1RDC0L\/7.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DR1RDC0L-47414783b4",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR1RDC0L\/7.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922718.297700",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DJSDEH8S",
+                "created": 1603922720,
+                "timestamp": 1603922720,
+                "name": "8.DXF",
+                "title": "8.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 32603,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DJSDEH8S\/8.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DJSDEH8S\/download\/8.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DJSDEH8S\/8.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DJSDEH8S-09f777fd80",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DJSDEH8S\/8.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922721.298100",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01D44RLZRD",
+                "created": 1603922848,
+                "timestamp": 1603922848,
+                "name": "9 (1).DXF",
+                "title": "9 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 28270,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D44RLZRD\/9__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D44RLZRD\/download\/9__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01D44RLZRD\/9__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01D44RLZRD-a353ff173d",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01D44RLZRD\/9__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922849.298500",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DJSJ2BMG",
+                "created": 1603922852,
+                "timestamp": 1603922852,
+                "name": "10 (1).DXF",
+                "title": "10 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 31076,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DJSJ2BMG\/10__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DJSJ2BMG\/download\/10__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DJSJ2BMG\/10__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DJSJ2BMG-ff5a6f5ba4",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DJSJ2BMG\/10__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922853.298900",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DR1W6TV2",
+                "created": 1603922854,
+                "timestamp": 1603922854,
+                "name": "11 (1).DXF",
+                "title": "11 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 24037,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR1W6TV2\/11__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR1W6TV2\/download\/11__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR1W6TV2\/11__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DR1W6TV2-8d416440e8",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR1W6TV2\/11__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922855.299300",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DFPXPZJ9",
+                "created": 1603922857,
+                "timestamp": 1603922857,
+                "name": "12.DXF",
+                "title": "12.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 27805,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DFPXPZJ9\/12.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DFPXPZJ9\/download\/12.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DFPXPZJ9\/12.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DFPXPZJ9-248e31a6b0",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DFPXPZJ9\/12.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603922858.299700",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "f4012d96-5ade-4acf-b923-d4b34b907edc",
+        "type": "message",
+        "text": "what color acrlic is available?",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603922895.300100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Qm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what color acrlic is available?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "7b1bf8eb-baaf-4a8a-902e-1494e0f4ad0e",
+        "type": "message",
+        "text": "lemme check for you",
+        "user": "UVCATTNCW",
+        "ts": "1603923108.300300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/re=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lemme check for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "009c5464-9845-4cdd-89cd-44b2d81c9323",
+        "type": "message",
+        "text": "do you want 1\/8in or 1\/4?",
+        "user": "UVCATTNCW",
+        "ts": "1603923126.300500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3oJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you want 1\/8in or 1\/4?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "df974f03-d50f-4436-a5be-bc388d1c96e1",
+        "type": "message",
+        "text": "preferably 1\/4 but if colors are better in 1\/8 that would be fine too",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603923165.300700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jc+Lr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "preferably 1\/4 but if colors are better in 1\/8 that would be fine too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "f143437a-8484-4daf-a67b-650f2cc4f343",
+        "type": "message",
+        "text": "we have black in 1\/8",
+        "user": "UVCATTNCW",
+        "ts": "1603923174.300900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "epI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we have black in 1\/8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "2bbf177d-b142-45b9-897b-d5d68b06062a",
+        "type": "message",
+        "text": "which is what I think you wanted",
+        "user": "UVCATTNCW",
+        "ts": "1603923181.301100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NjC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "which is what I think you wanted"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "09a571de-a7b1-431d-980c-de46a8c6448a",
+        "type": "message",
+        "text": "perfect thank you!",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603923183.301300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lW2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perfect thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "f95f88b9-a874-4f05-b257-82a3ea901b6c",
+        "type": "message",
+        "text": "ok!",
+        "user": "UVCATTNCW",
+        "ts": "1603923406.301500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "0716e8ca-05f4-4ad4-976d-17b4f58528ba",
+        "type": "message",
+        "text": "<@U01BWJ8KGKU> what units are these DXFs in?",
+        "user": "UVCATTNCW",
+        "ts": "1603923462.301700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pvgH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BWJ8KGKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what units are these DXFs in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "ED549E73-7362-4106-BE68-091318F59F43",
+        "type": "message",
+        "text": "Inches",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603923492.302000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "spII",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Inches"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "28cb6b18-50cc-4c3e-855a-5b32eddfde28",
+        "type": "message",
+        "text": "ok",
+        "user": "UVCATTNCW",
+        "ts": "1603923532.302200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SeoXD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "317079c0-e899-45f5-8f26-11dbf3106588",
+        "type": "message",
+        "text": "gotcha, thanks!",
+        "user": "U01831XEWLW",
+        "ts": "1603923588.302400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v3G1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gotcha, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603921109.294200",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "type": "message",
+        "text": "when open the first dxf this is all I see",
+        "files": [
+            {
+                "id": "F01DJT9J4CA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SEybC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when open the first dxf this is all I see"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UVCATTNCW",
+        "display_as_bot": false,
+        "ts": "1603923654.302600",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "DC70BCB9-C5C1-4346-92D9-06BBB0159CAA",
+        "type": "message",
+        "text": "It’s supposed to be the small 1 above the text I’m not sure why that is appearing",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603923919.303600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eLp7G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s supposed to be the small 1 above the text I’m not sure why that is appearing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "d847d498-f114-4af5-9484-4cdcad4fa4ee",
+        "type": "message",
+        "text": "the super skewed 1?",
+        "user": "UVCATTNCW",
+        "ts": "1603924348.303800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IAgS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the super skewed 1?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "104c55d3-a6a7-4ff9-b00f-a88997b20da2",
+        "type": "message",
+        "text": "ok",
+        "user": "UVCATTNCW",
+        "ts": "1603924410.304000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "255e7585-786e-4121-9510-9b40d1e67f06",
+        "type": "message",
+        "text": "ok <@U01BWJ8KGKU> I'm cutting them now",
+        "user": "UVCATTNCW",
+        "ts": "1603924857.304200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Soc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BWJ8KGKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm cutting them now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "286d07c3-6d3d-4f54-9c75-db8a2b130883",
+        "type": "message",
+        "text": "they're reallllly small though and I'm worried they'll fall through the laser cutter",
+        "user": "UVCATTNCW",
+        "ts": "1603924870.304400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nIvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they're reallllly small though and I'm worried they'll fall through the laser cutter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "1eb32c1f-e0be-42f6-a995-d4f0f7359890",
+        "type": "message",
+        "text": "they're honestly so small that I don't think they're thick enough to even use",
+        "user": "UVCATTNCW",
+        "ts": "1603924891.304600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/iNpm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they're honestly so small that I don't think they're thick enough to even use"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01E8PUKSE4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XiJx",
+                "elements": []
+            }
+        ],
+        "user": "UVCATTNCW",
+        "display_as_bot": false,
+        "ts": "1603924942.304900",
+        "client_msg_id": "EC1F8407-687C-434C-9D34-2DAFBC1BF44D",
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "2DF6D542-ED24-4027-8C97-029EC12B32E6",
+        "type": "message",
+        "text": "The cutter just destroyed them basically ",
+        "user": "UVCATTNCW",
+        "ts": "1603924947.305500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "be6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The cutter just destroyed them basically "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "58ea3f16-3337-4563-89e7-9791e8dc1ab7",
+        "type": "message",
+        "text": "I'm going off shift now but <@U01AXLEU7NG> will be here in a bit if you need help!",
+        "user": "UVCATTNCW",
+        "ts": "1603925998.305900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRdLC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going off shift now but "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AXLEU7NG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will be here in a bit if you need help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "23FC4811-62DC-4AE9-BC90-AF7AE365BE88",
+        "type": "message",
+        "text": "Yeah doesn’t look great can you still leave them on the table and I can come take a look?",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603926010.306400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah doesn’t look great can you still leave them on the table and I can come take a look?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "ACED9AE2-2517-4935-8E7A-6E5E3A6CF279",
+        "type": "message",
+        "text": "If I’m being honest the smaller letters didn’t even cut, they’re basically gone — that being said when Madison gets to nolop maybe she can grab what’s left",
+        "user": "UVCATTNCW",
+        "ts": "1603926312.307900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rb9SK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I’m being honest the smaller letters didn’t even cut, they’re basically gone — that being said when Madison gets to nolop maybe she can grab what’s left"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603922290.295000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "6252BA6A-2464-47F8-8004-17E4F7537A8E",
+        "type": "message",
+        "text": "Hi! there was a problem with my first laser cute but I adjusted my files. Is anyone available to cut them on 1\/8 black acrylic? ",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603929694.309100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! there was a problem with my first laser cute but I adjusted my files. Is anyone available to cut them on 1\/8 black acrylic? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb2d668e-bd30-44df-8d79-4b39cc135f04",
+        "type": "message",
+        "text": "<@U01BWJ8KGKU> hey! was just about to message you to say that it really didn't work that first time haha, im trying to get them out rn and i can't. it looks like we actually grabbed you a dark red acrylic instead of black so i'll see if we have black",
+        "user": "U01AXLEU7NG",
+        "ts": "1603930011.310200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8\/TK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BWJ8KGKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hey! was just about to message you to say that it really didn't work that first time haha, im trying to get them out rn and i can't. it looks like we actually grabbed you a dark red acrylic instead of black so i'll see if we have black"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db6ce54d-99e5-434e-950f-c50a16826a89",
+        "type": "message",
+        "text": "also what class is this for? do you have a tab to charge the acrylic on or are you paying individually?",
+        "user": "U01AXLEU7NG",
+        "ts": "1603930039.310700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LK==i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also what class is this for? do you have a tab to charge the acrylic on or are you paying individually?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930039.310700",
+        "reply_count": 14,
+        "reply_users_count": 2,
+        "latest_reply": "1603930430.316600",
+        "reply_users": [
+            "U01BWJ8KGKU",
+            "U01AXLEU7NG"
+        ],
+        "replies": [
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930067.311100"
+            },
+            {
+                "user": "U01AXLEU7NG",
+                "ts": "1603930204.311300"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930301.311800"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930304.312200"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930307.312600"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930310.313000"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930313.313400"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930380.313800"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930383.314200"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930386.314600"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930421.315200"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930424.315700"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930427.316100"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930430.316600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D71A8744-EBBB-48D8-945E-BBB25216E3EC",
+        "type": "message",
+        "text": "It’s for me30!",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603930067.311100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oOwB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s for me30!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "client_msg_id": "0405ee10-c8b9-490f-8c8d-e97ed4fa9472",
+        "type": "message",
+        "text": "cool!",
+        "user": "U01AXLEU7NG",
+        "ts": "1603930204.311300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XpV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "client_msg_id": "77ccc5a6-3a1f-47ba-be98-f1f2593dbd92",
+        "type": "message",
+        "text": "can you send over the new files?",
+        "user": "U01AXLEU7NG",
+        "ts": "1603930212.311500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ch1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can you send over the new files?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01D4B69MPH",
+                "created": 1603930300,
+                "timestamp": 1603930300,
+                "name": "1 (2).DXF",
+                "title": "1 (2).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 23392,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D4B69MPH\/1__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D4B69MPH\/download\/1__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01D4B69MPH\/1__2_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01D4B69MPH-5a7794ab35",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01D4B69MPH\/1__2_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930301.311800",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DR8ALWKE",
+                "created": 1603930303,
+                "timestamp": 1603930303,
+                "name": "2 (2).DXF",
+                "title": "2 (2).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 27066,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR8ALWKE\/2__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR8ALWKE\/download\/2__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR8ALWKE\/2__2_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DR8ALWKE-eb845a04a9",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR8ALWKE\/2__2_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930304.312200",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DR8ANWF6",
+                "created": 1603930306,
+                "timestamp": 1603930306,
+                "name": "3 (2).DXF",
+                "title": "3 (2).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 30209,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR8ANWF6\/3__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR8ANWF6\/download\/3__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR8ANWF6\/3__2_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DR8ANWF6-4373dcec6d",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR8ANWF6\/3__2_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930307.312600",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01E8UBBFS4",
+                "created": 1603930309,
+                "timestamp": 1603930309,
+                "name": "4 (2).DXF",
+                "title": "4 (2).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 24104,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E8UBBFS4\/4__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E8UBBFS4\/download\/4__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01E8UBBFS4\/4__2_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01E8UBBFS4-cfc2969185",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01E8UBBFS4\/4__2_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930310.313000",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01D4B6HVFH",
+                "created": 1603930312,
+                "timestamp": 1603930312,
+                "name": "5 (1).DXF",
+                "title": "5 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 28161,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D4B6HVFH\/5__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D4B6HVFH\/download\/5__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01D4B6HVFH\/5__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01D4B6HVFH-f4dfb0a3d7",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01D4B6HVFH\/5__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930313.313400",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DR8CJJ5S",
+                "created": 1603930379,
+                "timestamp": 1603930379,
+                "name": "6 (1).DXF",
+                "title": "6 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 28367,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR8CJJ5S\/6__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DR8CJJ5S\/download\/6__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR8CJJ5S\/6__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DR8CJJ5S-e28ae601b5",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DR8CJJ5S\/6__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930380.313800",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DK3LJVT4",
+                "created": 1603930382,
+                "timestamp": 1603930382,
+                "name": "7 (1).DXF",
+                "title": "7 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 23384,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DK3LJVT4\/7__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DK3LJVT4\/download\/7__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DK3LJVT4\/7__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DK3LJVT4-037c1c0ec3",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DK3LJVT4\/7__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930383.314200",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DG107U05",
+                "created": 1603930384,
+                "timestamp": 1603930384,
+                "name": "8 (1).DXF",
+                "title": "8 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 32664,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DG107U05\/8__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DG107U05\/download\/8__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DG107U05\/8__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DG107U05-5921480984",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DG107U05\/8__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930386.314600",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DG114DNH",
+                "created": 1603930419,
+                "timestamp": 1603930419,
+                "name": "9 (2).DXF",
+                "title": "9 (2).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 28361,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DG114DNH\/9__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DG114DNH\/download\/9__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DG114DNH\/9__2_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DG114DNH-62f3c37756",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DG114DNH\/9__2_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930421.315200",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DK9QHYR1",
+                "created": 1603930423,
+                "timestamp": 1603930423,
+                "name": "10 (2).DXF",
+                "title": "10 (2).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 31059,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DK9QHYR1\/10__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DK9QHYR1\/download\/10__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DK9QHYR1\/10__2_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DK9QHYR1-a70e865c85",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DK9QHYR1\/10__2_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930424.315700",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DCBJSG78",
+                "created": 1603930426,
+                "timestamp": 1603930426,
+                "name": "11 (2).DXF",
+                "title": "11 (2).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 24000,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DCBJSG78\/11__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DCBJSG78\/download\/11__2_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DCBJSG78\/11__2_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DCBJSG78-4c728c4890",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01DCBJSG78\/11__2_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930427.316100",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01E8UEC9BJ",
+                "created": 1603930429,
+                "timestamp": 1603930429,
+                "name": "12 (1).DXF",
+                "title": "12 (1).DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BWJ8KGKU",
+                "editable": true,
+                "size": 27880,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E8UEC9BJ\/12__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01E8UEC9BJ\/download\/12__1_.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01E8UEC9BJ\/12__1_.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01E8UEC9BJ-278c7a16ae",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BWJ8KGKU\/F01E8UEC9BJ\/12__1_.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01BWJ8KGKU",
+        "display_as_bot": false,
+        "ts": "1603930430.316600",
+        "thread_ts": "1603930039.310700",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "client_msg_id": "9c23f15e-d5fe-4fb4-a8cc-861ac3e5c1c9",
+        "type": "message",
+        "text": "i cant find any solid black 1\/8 – we have one that's sorta transparent (a little more grey) – are you cool sticking with the dark red or do you want the greyish one?",
+        "user": "U01AXLEU7NG",
+        "ts": "1603930447.317300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M4jMm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i cant find any solid black 1\/8 – we have one that's sorta transparent (a little more grey) – are you cool sticking with the dark red or do you want the greyish one?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930447.317300",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1603931715.318600",
+        "reply_users": [
+            "U01BWJ8KGKU",
+            "U01AXLEU7NG"
+        ],
+        "replies": [
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930518.317800"
+            },
+            {
+                "user": "U01AXLEU7NG",
+                "ts": "1603930756.318000"
+            },
+            {
+                "user": "U01AXLEU7NG",
+                "ts": "1603930770.318200"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603930782.318400"
+            },
+            {
+                "user": "U01AXLEU7NG",
+                "ts": "1603931715.318600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A3225321-DB86-486B-84C1-14A60B5247A1",
+        "type": "message",
+        "text": "Is the grey very light? ",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603930518.317800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mh2YO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the grey very light? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930447.317300",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "client_msg_id": "15bb1917-f8e4-4acb-a64e-a1f8862e7fc3",
+        "type": "message",
+        "text": "not super, id say if solid black was a 10 its like a 6?",
+        "user": "U01AXLEU7NG",
+        "ts": "1603930756.318000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Llmw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not super, id say if solid black was a 10 its like a 6?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930447.317300",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "client_msg_id": "b47ba969-b27f-422b-9663-4280a7fa90d8",
+        "type": "message",
+        "text": "7 i guess hahaha",
+        "user": "U01AXLEU7NG",
+        "ts": "1603930770.318200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QuJL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7 i guess hahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930447.317300",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "client_msg_id": "5a96d902-dd65-493e-aed1-c518feb9a1f9",
+        "type": "message",
+        "text": "okay haha ill go with that then! thanks",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603930782.318400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C4pF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay haha ill go with that then! thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930447.317300",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "client_msg_id": "244806da-ac9f-4394-8757-7c52c67c4b5c",
+        "type": "message",
+        "text": "cool! i'll get started in like 15 min, will lyk when its done",
+        "user": "U01AXLEU7NG",
+        "ts": "1603931715.318600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+tS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool! i'll get started in like 15 min, will lyk when its done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930447.317300",
+        "parent_user_id": "U01AXLEU7NG"
+    },
+    {
+        "client_msg_id": "2ec6e544-fe39-43fb-b0d2-09a5911e4097",
+        "type": "message",
+        "text": "<@U01BWJ8KGKU> letters on the table!",
+        "user": "U01AXLEU7NG",
+        "ts": "1603934936.319200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3sH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BWJ8KGKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " letters on the table!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10e7274f-ab21-41bd-a3e8-7eaa44f494a0",
+        "type": "message",
+        "text": "numbers** <@U01BWJ8KGKU>",
+        "user": "U01AXLEU7NG",
+        "ts": "1603934945.319500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "numbers** "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BWJ8KGKU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7aaedb75-a634-40a9-9f49-9680cdaf1ffb",
+        "type": "message",
+        "text": "forgot to say the back papers need to be peeled off of each",
+        "user": "U01AXLEU7NG",
+        "ts": "1603936105.319900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8d32298c8a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d32298c8a609e90e9bb9e0dd6c90b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Madison Reid",
+            "display_name": "Madison Reid",
+            "team": "TUX7FNQ8J",
+            "name": "madison.reid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YTa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "forgot to say the back papers need to be peeled off of each"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DCHTRE9L",
+                "created": 1603939823,
+                "timestamp": 1603939823,
+                "name": "Base.DXF",
+                "title": "Base.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UV1ANS7GR",
+                "editable": true,
+                "size": 23399,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DCHTRE9L\/base.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DCHTRE9L\/download\/base.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/UV1ANS7GR\/F01DCHTRE9L\/base.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DCHTRE9L-5287d3e0fd",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/UV1ANS7GR\/F01DCHTRE9L\/base.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01DRENPELC",
+                "created": 1603939824,
+                "timestamp": 1603939824,
+                "name": "cam1.DXF",
+                "title": "cam1.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UV1ANS7GR",
+                "editable": true,
+                "size": 23250,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DRENPELC\/cam1.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01DRENPELC\/download\/cam1.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/UV1ANS7GR\/F01DRENPELC\/cam1.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01DRENPELC-660f83f1ca",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/UV1ANS7GR\/F01DRENPELC\/cam1.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01D4HJEJLF",
+                "created": 1603939825,
+                "timestamp": 1603939825,
+                "name": "Circle.DXF",
+                "title": "Circle.DXF",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UV1ANS7GR",
+                "editable": true,
+                "size": 22662,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D4HJEJLF\/circle.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01D4HJEJLF\/download\/circle.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/UV1ANS7GR\/F01D4HJEJLF\/circle.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01D4HJEJLF-119f4bb028",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/UV1ANS7GR\/F01D4HJEJLF\/circle.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UV1ANS7GR",
+        "ts": "1603939828.320000"
+    }
+]

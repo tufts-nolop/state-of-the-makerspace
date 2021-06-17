@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "579fd893-a49d-4a47-a612-f1d6201acf9b",
+        "type": "message",
+        "text": "<@U01D9RA354J> If that was you that handed me the pressure sensitive resistors and pico earlier, they're done and in a baggie on the table outside",
+        "user": "U010SQKCPGR",
+        "ts": "1615931587.001300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "d47e61607918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-09\/1740263872916_d47e616079183867111b_72.png",
+            "first_name": "Jeffrey",
+            "real_name": "Jeffrey Blitt",
+            "display_name": "Jeff",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.blitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9erh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01D9RA354J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If that was you that handed me the pressure sensitive resistors and pico earlier, they're done and in a baggie on the table outside"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615931587.001300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1615933061.001700",
+        "reply_users": [
+            "U01D9RA354J"
+        ],
+        "replies": [
+            {
+                "user": "U01D9RA354J",
+                "ts": "1615933061.001700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1AA6A52D-9FA8-4AC0-8D5F-84248707C45F",
+        "type": "message",
+        "text": "Yes! Thank you <@U010SQKCPGR> ",
+        "user": "U01D9RA354J",
+        "ts": "1615933061.001700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb7858b6b062",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7858b6b062989e31c7acc2df79843e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Travis",
+            "display_name": "Travis",
+            "team": "TUX7FNQ8J",
+            "name": "travis.clauson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0PW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010SQKCPGR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615931587.001300",
+        "parent_user_id": "U010SQKCPGR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010SQKCPGR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

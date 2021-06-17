@@ -1,0 +1,741 @@
+[
+    {
+        "client_msg_id": "4F288D4B-0911-45ED-9456-9568C9EFBE57",
+        "type": "message",
+        "text": "Is my PCB ready to be picked up? ",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603470062.113300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5a2jE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is my PCB ready to be picked up? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603300240.095700",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "c1c98d60-b052-4ccc-934c-00dd8f24748d",
+        "type": "message",
+        "text": "Hello. Can I drop off my PCB for soldering? Do I need to bring in my own components with it?",
+        "user": "U01D7SYHZTM",
+        "ts": "1603472193.114200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g88f5e6f56af",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88f5e6f56afdb896459d45000d9efaef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Olif Hordofa",
+            "display_name": "Olif Hordofa",
+            "team": "TUX7FNQ8J",
+            "name": "olif.hordofa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lb8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello. Can I drop off my PCB for soldering? Do I need to bring in my own components with it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603472193.114200",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1603472507.114800",
+        "reply_users": [
+            "UUX9LS8AW",
+            "UUX7FNR7U",
+            "U01D7SYHZTM"
+        ],
+        "replies": [
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1603472202.114300"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1603472337.114600"
+            },
+            {
+                "user": "U01D7SYHZTM",
+                "ts": "1603472507.114800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1603472507.114800"
+    },
+    {
+        "client_msg_id": "8ef87dfe-1ed7-4444-bbed-7a53744ff0f0",
+        "type": "message",
+        "text": "Yes and yes",
+        "user": "UUX9LS8AW",
+        "ts": "1603472202.114300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bZs9r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes and yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603472193.114200",
+        "parent_user_id": "U01D7SYHZTM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01D7SYHZTM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbfe4bbd-ef21-4e7d-a8bd-4094b096da49",
+        "type": "message",
+        "text": "We have some extra components on the table outside Nolop if you're short on anything.",
+        "user": "UUX7FNR7U",
+        "ts": "1603472337.114600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ytTz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have some extra components on the table outside Nolop if you're short on anything."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603472193.114200",
+        "parent_user_id": "U01D7SYHZTM"
+    },
+    {
+        "client_msg_id": "7cbd7e6d-5e93-49d5-979b-3d643223dbc1",
+        "type": "message",
+        "text": "I am just short on BJTs and P-channels. Thanks.",
+        "user": "U01D7SYHZTM",
+        "ts": "1603472507.114800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g88f5e6f56af",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88f5e6f56afdb896459d45000d9efaef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Olif Hordofa",
+            "display_name": "Olif Hordofa",
+            "team": "TUX7FNQ8J",
+            "name": "olif.hordofa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am just short on BJTs and P-channels. Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603472193.114200",
+        "parent_user_id": "U01D7SYHZTM"
+    },
+    {
+        "client_msg_id": "577450a4-4185-4263-9f23-e0b808911296",
+        "type": "message",
+        "text": "Hi, I have my IMU on the table outside nolop. Might I be able to get it soldered with the pins up?",
+        "user": "U01B6L5FB8F",
+        "ts": "1603475465.115700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "91738a058928",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-09\/1442916613792_91738a0589286728fc25_72.jpg",
+            "first_name": "Olivier",
+            "real_name": "Olivier Ng'weno Kigotho",
+            "display_name": "Olivier (he\/him\/his)",
+            "team": "TUX7FNQ8J",
+            "name": "olivier.kigotho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uyeY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I have my IMU on the table outside nolop. Might I be able to get it soldered with the pins up?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FBF78F07-76F0-4AAE-9619-5623E387E683",
+        "type": "message",
+        "text": "<@U01DRE7AJJU>  I can’t really tell from the diagram; can you tell me which of Q1, Q2, Q5, and Q5 are N channel and P channel?",
+        "user": "UUYJ7QWNP",
+        "ts": "1603475954.117000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J7V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01DRE7AJJU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  I can’t really tell from the diagram; can you tell me which of Q1, Q2, Q5, and Q5 are N channel and P channel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603293219.088600",
+        "parent_user_id": "U01DRE7AJJU"
+    },
+    {
+        "client_msg_id": "88f4a61b-6a1e-48e7-b436-343f15de3498",
+        "type": "message",
+        "text": "Do you know any websites i can use to find the .ai files? My chip packaging is 10-MSOP but ive been struggling to find a file",
+        "user": "U01831XEWLW",
+        "ts": "1603476182.118700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2tPo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you know any websites i can use to find the .ai files? My chip packaging is 10-MSOP but ive been struggling to find a file"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603237904.076300",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "B5D2126B-D66B-4734-BC3C-E67ED210B2D6",
+        "type": "message",
+        "text": "Hey! I dropped off my PCB on Thursday to be soldered and was wondering if there was any update on it? No worries if it hasn’t been done yet! ",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603476770.119000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=jvGF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! I dropped off my PCB on Thursday to be soldered and was wondering if there was any update on it? No worries if it hasn’t been done yet! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603476770.119000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1603478238.120000",
+        "reply_users": [
+            "UUYJ7QWNP",
+            "U01BWJ8KGKU"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1603476853.119500"
+            },
+            {
+                "user": "U01BWJ8KGKU",
+                "ts": "1603478238.120000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4301DCE8-285D-4B18-BB09-BCF9706FDCAF",
+        "type": "message",
+        "text": "Yup! It should be on the table outside nolop",
+        "user": "UUYJ7QWNP",
+        "ts": "1603476853.119500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup! It should be on the table outside nolop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603476770.119000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "client_msg_id": "829A105B-ABA0-4F42-80D4-0AEAC1191047",
+        "type": "message",
+        "text": "Got it! Thanks! ",
+        "user": "U01BWJ8KGKU",
+        "ts": "1603478238.120000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g2dcc2b95b3d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2dcc2b95b3d97463720d214961a1c344.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Alanna levitt",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alanna.levitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I2LzK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it! Thanks! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603476770.119000",
+        "parent_user_id": "U01BWJ8KGKU"
+    },
+    {
+        "type": "message",
+        "text": "A quick search gave me the dimensions for the layout. What you can do is use Adobe Illustrator to create the shapes following the PCB pad layout. If you do not have access to illustrator, you can use any CAD software you'd like to make the geometry and export it as .svg or .dxf and we can convert it to .ai at our side. If you are not sure of how to CAD at all, I can help you create the file so long as you supply us with the film.",
+        "files": [
+            {
+                "id": "F01D88G0DQT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cUz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A quick search gave me the dimensions for the layout. What you can do is use Adobe Illustrator to create the shapes following the PCB pad layout. If you do not have access to illustrator, you can use any CAD software you'd like to make the geometry and export it as .svg or .dxf and we can convert it to .ai at our side. If you are not sure of how to CAD at all, I can help you create the file so long as you supply us with the film."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UUXLKS2F4",
+        "display_as_bot": false,
+        "ts": "1603478412.120200",
+        "thread_ts": "1603237904.076300",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "8AC1B034-5F88-4FD3-B4CA-4F40413B3993",
+        "type": "message",
+        "text": "Hi I dropped my imu on the table. Can someone please solder it? Thank you! (It is in an antistatic bag with my name on it) ",
+        "user": "U01BGSPEY0H",
+        "ts": "1603481532.121600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gf2bfad5af36",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2bfad5af36c9628a5ec4977c28eab16.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Max Kratzok",
+            "display_name": "Max Kratzok",
+            "team": "TUX7FNQ8J",
+            "name": "max.kratzok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VH8J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi I dropped my imu on the table. Can someone please solder it? Thank you! (It is in an antistatic bag with my name on it) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603481532.121600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1603482009.121700",
+        "reply_users": [
+            "UUYJ7QWNP"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1603482009.121700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "94d14e2e-6c9b-4587-b8d0-b0dcce72591c",
+        "type": "message",
+        "text": "I'll do it now! Do you have a preference if the pins are facing up or down?",
+        "user": "UUYJ7QWNP",
+        "ts": "1603482009.121700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=i5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll do it now! Do you have a preference if the pins are facing up or down?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603481532.121600",
+        "parent_user_id": "U01BGSPEY0H"
+    },
+    {
+        "client_msg_id": "DE3FC36B-D4B0-4EDC-B24B-29DAA5158CE1",
+        "type": "message",
+        "text": "I know how to cad but not necessarily that well, would it be possible for you to help me with the file? I have the film ready!",
+        "user": "U01831XEWLW",
+        "ts": "1603482390.122500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4ef",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know how to cad but not necessarily that well, would it be possible for you to help me with the file? I have the film ready!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603237904.076300",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "9fb0c882-4abc-400c-a33e-60f7bf553131",
+        "type": "message",
+        "text": "I had left the film and parts right outside on the no lop table. I was wondering if it was possible to get them soldered? The smaller bag has a adaptor and the microchips. The bigger bag has two of the adapters  with a chip soldered  on (but idk if they are salvageable). If they are - would you also be able to solder to more chips to them?",
+        "user": "U01831XEWLW",
+        "ts": "1603502200.122800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CmyT6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had left the film and parts right outside on the no lop table. I was wondering if it was possible to get them soldered? The smaller bag has a adaptor and the microchips. The bigger bag has two of the adapters  with a chip soldered  on (but idk if they are salvageable). If they are - would you also be able to solder to more chips to them?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603237904.076300",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "aad5442f-ef4f-46d6-8ad6-f1dbbfba2f15",
+        "type": "message",
+        "text": "Q1 and Q2 are the p channels and Q5 and Q6 are n channel sorry for not responding more quickly",
+        "user": "U01DRE7AJJU",
+        "ts": "1603505812.123000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gf4362d809ed",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f4362d809ed545b9d9332e4f6fbfc158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Shruti Krishnamachari",
+            "display_name": "Shruti Krishnamachari",
+            "team": "TUX7FNQ8J",
+            "name": "shruti.krishnamachari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+N0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Q1 and Q2 are the p channels and Q5 and Q6 are n channel sorry for not responding more quickly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603293219.088600",
+        "parent_user_id": "U01DRE7AJJU"
+    }
+]

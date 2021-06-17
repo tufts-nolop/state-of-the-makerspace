@@ -1,0 +1,180 @@
+[
+    {
+        "client_msg_id": "e0d49686-c1ef-4d81-918c-45689d50e380",
+        "type": "message",
+        "text": "Hey, I just dropped of a blue JLCPCB box with a PCB that I need soldered. There is a note with the parts needed and where they go. I will need quite a bit of female header connectors so let me know if that is a problem. Thanks.",
+        "user": "U010Q0U24CU",
+        "ts": "1618332350.068900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g40c41982912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/40c4198291256150cc5ab2f12022c993.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Adan Leos",
+            "display_name": "Adan Leos",
+            "team": "TUX7FNQ8J",
+            "name": "adan.leos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gs6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, I just dropped of a blue JLCPCB box with a PCB that I need soldered. There is a note with the parts needed and where they go. I will need quite a bit of female header connectors so let me know if that is a problem. Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618332350.068900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1618336216.069900",
+        "reply_users": [
+            "UUYJ7QWNP",
+            "U010Q0U24CU"
+        ],
+        "replies": [
+            {
+                "user": "UUYJ7QWNP",
+                "ts": "1618336031.069500"
+            },
+            {
+                "user": "U010Q0U24CU",
+                "ts": "1618336216.069900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "This is done and outside for you! The diagram you gave was really good; thanks!",
+        "files": [
+            {
+                "id": "F01TZLTNBPY",
+                "created": 1618336017,
+                "timestamp": 1618336017,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UUYJ7QWNP",
+                "editable": false,
+                "size": 737658,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01TZLTNBPY\/image_from_ios.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01TZLTNBPY\/download\/image_from_ios.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01TZLTNBPY-e2e5dc22a0\/image_from_ios_64.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01TZLTNBPY-e2e5dc22a0\/image_from_ios_80.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01TZLTNBPY-e2e5dc22a0\/image_from_ios_360.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01TZLTNBPY-e2e5dc22a0\/image_from_ios_480.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01TZLTNBPY-e2e5dc22a0\/image_from_ios_160.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01TZLTNBPY-e2e5dc22a0\/image_from_ios_720.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01TZLTNBPY-e2e5dc22a0\/image_from_ios_800.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01TZLTNBPY-e2e5dc22a0\/image_from_ios_960.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01TZLTNBPY-e2e5dc22a0\/image_from_ios_1024.jpg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACTOq3aQ8eYe\/Sq0YBYbs7e+KvLcRDjlfTik07DTVxTboTk0CBlIwx2\/yo85sZRA4\/2Tmliud0gVlxn3pcsrXHzIiktZGbI2t7037JL\/AHV\/OtEYxS0uZhyoy3i8mNFP3jyaj8qRgWCEgdcDpVm8BDqO+KjUy5BXfkdMZrZK8TNuzK4yDwcYqZZXK5Y5weCetWArSg+bDu\/2uhpGtmyBGDt9yM0ktdQb0LiuHUNtPNLx\/dP5VDayAQhWIBU4qfzE9RWTVmaJlW63Lcb9hPHBzUfmSs2Qv61LG7YAYVOjgHkH8KvmJ5Stifr8o9SBS4mYjDn61cZwVwDmowvNJy7DUSt9lJ5LHJo+yH+8avBOKXZS5pBZH\/\/Z",
+                "permalink": "https:\/\/nolop.slack.com\/files\/UUYJ7QWNP\/F01TZLTNBPY\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01TZLTNBPY-a48b81e46b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hbrEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is done and outside for you! The diagram you gave was really good; thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UUYJ7QWNP",
+        "display_as_bot": false,
+        "ts": "1618336031.069500",
+        "client_msg_id": "9534503C-F808-48D4-94E4-8B2618E8EBA7",
+        "thread_ts": "1618332350.068900",
+        "parent_user_id": "U010Q0U24CU"
+    },
+    {
+        "client_msg_id": "64754d18-a41b-4ca3-b566-6f7fe98675ea",
+        "type": "message",
+        "text": "Awesome, thank you so much",
+        "user": "U010Q0U24CU",
+        "ts": "1618336216.069900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g40c41982912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/40c4198291256150cc5ab2f12022c993.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Adan Leos",
+            "display_name": "Adan Leos",
+            "team": "TUX7FNQ8J",
+            "name": "adan.leos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, thank you so much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618332350.068900",
+        "parent_user_id": "U010Q0U24CU"
+    }
+]

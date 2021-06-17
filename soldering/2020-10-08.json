@@ -1,0 +1,310 @@
+[
+    {
+        "client_msg_id": "e47da0d9-2c41-4c7f-8f23-5cb2147cc31c",
+        "type": "message",
+        "text": "Hey, can someone solder my ME30 PCB if I drop it off in the next hour?",
+        "user": "U01BV7ZJT2M",
+        "ts": "1602172069.040000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gbfb5449179f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bfb5449179f7f3230d2355c84de6169f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Gus Brown",
+            "display_name": "Gus Brown",
+            "team": "TUX7FNQ8J",
+            "name": "auguste.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, can someone solder my ME30 PCB if I drop it off in the next hour?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602172069.040000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1602176285.040300",
+        "reply_users": [
+            "UUXLKS2F4",
+            "U01BV7ZJT2M"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602174360.040100"
+            },
+            {
+                "user": "U01BV7ZJT2M",
+                "ts": "1602176285.040300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "44ed6e49-4166-4696-9e52-04ed86423f75",
+        "type": "message",
+        "text": "Hey! Yes I'd be happy to get it soldered",
+        "user": "UUXLKS2F4",
+        "ts": "1602174360.040100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ecC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! Yes I'd be happy to get it soldered"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602172069.040000",
+        "parent_user_id": "U01BV7ZJT2M"
+    },
+    {
+        "client_msg_id": "1b2f9457-e927-4235-8f7d-ca4f85e5ea96",
+        "type": "message",
+        "text": "Thanks! I actually can’t come until around 5, so I’ll swing by then",
+        "user": "U01BV7ZJT2M",
+        "ts": "1602176285.040300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gbfb5449179f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bfb5449179f7f3230d2355c84de6169f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Gus Brown",
+            "display_name": "Gus Brown",
+            "team": "TUX7FNQ8J",
+            "name": "auguste.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! I actually can’t come until around 5, so I’ll swing by then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602172069.040000",
+        "parent_user_id": "U01BV7ZJT2M"
+    },
+    {
+        "client_msg_id": "1B22B460-1C32-4606-B6D1-532FE3E342C6",
+        "type": "message",
+        "text": "My board is on the table out front. It’ll need pin headers and a barrel jack",
+        "user": "U01BV7ZJT2M",
+        "ts": "1602190946.041300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gbfb5449179f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bfb5449179f7f3230d2355c84de6169f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Gus Brown",
+            "display_name": "Gus Brown",
+            "team": "TUX7FNQ8J",
+            "name": "auguste.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iKv6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My board is on the table out front. It’ll need pin headers and a barrel jack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602190946.041300",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1603041162.057800",
+        "reply_users": [
+            "U01BV7ZJT2M",
+            "U010PP3CGUS"
+        ],
+        "replies": [
+            {
+                "user": "U01BV7ZJT2M",
+                "ts": "1602191012.041700"
+            },
+            {
+                "user": "U010PP3CGUS",
+                "ts": "1602205271.041900"
+            },
+            {
+                "user": "U01BV7ZJT2M",
+                "ts": "1602250510.042100"
+            },
+            {
+                "user": "U01BV7ZJT2M",
+                "ts": "1602780227.052400"
+            },
+            {
+                "user": "U010PP3CGUS",
+                "ts": "1602780424.052600"
+            },
+            {
+                "user": "U01BV7ZJT2M",
+                "ts": "1602781305.052800"
+            },
+            {
+                "user": "U01BV7ZJT2M",
+                "ts": "1602858300.056200"
+            },
+            {
+                "user": "U01BV7ZJT2M",
+                "ts": "1603041087.056400"
+            },
+            {
+                "user": "U010PP3CGUS",
+                "ts": "1603041162.057800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9D68C164-54E5-4E27-92F5-F68455D8842D",
+        "type": "message",
+        "text": "Actually I put a barrel jack in the bag",
+        "user": "U01BV7ZJT2M",
+        "ts": "1602191012.041700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gbfb5449179f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bfb5449179f7f3230d2355c84de6169f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Gus Brown",
+            "display_name": "Gus Brown",
+            "team": "TUX7FNQ8J",
+            "name": "auguste.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually I put a barrel jack in the bag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602190946.041300",
+        "parent_user_id": "U01BV7ZJT2M"
+    },
+    {
+        "client_msg_id": "8aa88e47-22fa-4054-b5ae-cad58ba19892",
+        "type": "message",
+        "text": "Done soldering! Out front on the table :slightly_smiling_face:",
+        "user": "U010PP3CGUS",
+        "ts": "1602205271.041900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "8ec3935ee678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-13\/1419795780070_8ec3935ee678c1e29dd8_72.jpg",
+            "first_name": "",
+            "real_name": "Harry Steinberg",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "harrymsteinberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zfl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done soldering! Out front on the table "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602190946.041300",
+        "parent_user_id": "U01BV7ZJT2M"
+    }
+]

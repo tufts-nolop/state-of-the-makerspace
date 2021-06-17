@@ -1,0 +1,938 @@
+[
+    {
+        "client_msg_id": "089b32aa-137d-46d8-84f7-f08081397653",
+        "type": "message",
+        "text": "Hi, I have a 10uH inductor that popped off the board in my speaker, could that be soldered back onto it?  Inductor is not broken just moved off the board after a fall",
+        "user": "U01NC3W5HQU",
+        "ts": "1613419879.008200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I have a 10uH inductor that popped off the board in my speaker, could that be soldered back onto it?  Inductor is not broken just moved off the board after a fall"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "reply_count": 16,
+        "reply_users_count": 3,
+        "latest_reply": "1613445546.012500",
+        "reply_users": [
+            "UUXLKS2F4",
+            "U01NC3W5HQU",
+            "UUX7FNR7U"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1613420175.008300"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613420345.008500"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613420351.008700"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613420518.008900"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613420544.009500"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613420602.009700"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613420621.010100"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1613420974.010300"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613421297.010500"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613421325.010700"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1613421766.010900"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613422041.011100"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1613422113.011300"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613422300.011500"
+            },
+            {
+                "user": "U01NC3W5HQU",
+                "ts": "1613427530.011700"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1613445546.012500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1613445546.012500"
+    },
+    {
+        "client_msg_id": "31f90a06-647b-4b4f-a731-7f29534b1850",
+        "type": "message",
+        "text": "Hmm, we could certainly try, but it depends on how challenging it would be :slightly_smiling_face: do you have a picture to show the condition?",
+        "user": "UUXLKS2F4",
+        "ts": "1613420175.008300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H0J9b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm, we could certainly try, but it depends on how challenging it would be "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have a picture to show the condition?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "19688953-0787-4fa5-bb44-928420c9224c",
+        "type": "message",
+        "text": "I'll take some right now and see if I can explain the situation",
+        "user": "U01NC3W5HQU",
+        "ts": "1613420345.008500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nEUF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll take some right now and see if I can explain the situation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "e97d2483-aaa5-4577-ae12-88dc09698c8d",
+        "type": "message",
+        "text": "Can I send a video along with it?",
+        "user": "U01NC3W5HQU",
+        "ts": "1613420351.008700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6f0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I send a video along with it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "type": "message",
+        "text": "Not sure if ill need the vid.  That little square with the 100 is the piece that needs soldering",
+        "files": [
+            {
+                "id": "F01N65VAKFV",
+                "created": 1613420494,
+                "timestamp": 1613420494,
+                "name": "IMG_9256.heic",
+                "title": "IMG_9256.heic",
+                "mimetype": "image\/heic",
+                "filetype": "heic",
+                "pretty_type": "High Efficiency Image File",
+                "user": "U01NC3W5HQU",
+                "editable": false,
+                "size": 1146489,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01N65VAKFV\/img_9256.heic?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01N65VAKFV\/download\/img_9256.heic?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01N65VAKFV-3fdfb790e9\/img_9256_64.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01N65VAKFV-3fdfb790e9\/img_9256_80.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01N65VAKFV-3fdfb790e9\/img_9256_360.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01N65VAKFV-3fdfb790e9\/img_9256_480.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01N65VAKFV-3fdfb790e9\/img_9256_160.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01N65VAKFV-3fdfb790e9\/img_9256_720.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01N65VAKFV-3fdfb790e9\/img_9256_800.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01N65VAKFV-3fdfb790e9\/img_9256_960.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01N65VAKFV-3fdfb790e9\/img_9256_1024.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01NC3W5HQU\/F01N65VAKFV\/img_9256.heic",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01N65VAKFV-cb9fcad47c",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01NJJB52MP",
+                "created": 1613420500,
+                "timestamp": 1613420500,
+                "name": "IMG_9257.heic",
+                "title": "IMG_9257.heic",
+                "mimetype": "image\/heic",
+                "filetype": "heic",
+                "pretty_type": "High Efficiency Image File",
+                "user": "U01NC3W5HQU",
+                "editable": false,
+                "size": 1148326,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01NJJB52MP\/img_9257.heic?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01NJJB52MP\/download\/img_9257.heic?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01NJJB52MP-c88887ef88\/img_9257_64.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01NJJB52MP-c88887ef88\/img_9257_80.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01NJJB52MP-c88887ef88\/img_9257_360.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01NJJB52MP-c88887ef88\/img_9257_480.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01NJJB52MP-c88887ef88\/img_9257_160.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01NJJB52MP-c88887ef88\/img_9257_720.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01NJJB52MP-c88887ef88\/img_9257_800.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01NJJB52MP-c88887ef88\/img_9257_960.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01NJJB52MP-c88887ef88\/img_9257_1024.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01NC3W5HQU\/F01NJJB52MP\/img_9257.heic",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01NJJB52MP-5db9624748",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lwtw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure if ill need the vid.  That little square with the 100 is the piece that needs soldering"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01NC3W5HQU",
+        "ts": "1613420518.008900",
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "87aef959-49af-4fa8-9423-d913e4936624",
+        "type": "message",
+        "text": "Im not even sure if it needs soldering vs just superglue because the piece itself is not entirely metal on the bottom",
+        "user": "U01NC3W5HQU",
+        "ts": "1613420544.009500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+4dV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im not even sure if it needs soldering vs just superglue because the piece itself is not entirely metal on the bottom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "type": "message",
+        "text": "this is the underside of the piece",
+        "files": [
+            {
+                "id": "F01MR6MJDJB",
+                "created": 1613420592,
+                "timestamp": 1613420592,
+                "name": "IMG_9259.heic",
+                "title": "IMG_9259.heic",
+                "mimetype": "image\/heic",
+                "filetype": "heic",
+                "pretty_type": "High Efficiency Image File",
+                "user": "U01NC3W5HQU",
+                "editable": false,
+                "size": 2270428,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01MR6MJDJB\/img_9259.heic?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01MR6MJDJB\/download\/img_9259.heic?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MR6MJDJB-a8852425f6\/img_9259_64.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MR6MJDJB-a8852425f6\/img_9259_80.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MR6MJDJB-a8852425f6\/img_9259_360.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MR6MJDJB-a8852425f6\/img_9259_480.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MR6MJDJB-a8852425f6\/img_9259_160.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MR6MJDJB-a8852425f6\/img_9259_720.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MR6MJDJB-a8852425f6\/img_9259_800.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MR6MJDJB-a8852425f6\/img_9259_960.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01MR6MJDJB-a8852425f6\/img_9259_1024.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01NC3W5HQU\/F01MR6MJDJB\/img_9259.heic",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01MR6MJDJB-85b8af3f83",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is the underside of the piece"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01NC3W5HQU",
+        "display_as_bot": false,
+        "ts": "1613420602.009700",
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "2db5c5ec-d9b4-4317-afda-1e6d400d3461",
+        "type": "message",
+        "text": "those little metal tabs just lay on top of the exposed metal tabs on the motherboard",
+        "user": "U01NC3W5HQU",
+        "ts": "1613420621.010100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wF=8d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "those little metal tabs just lay on top of the exposed metal tabs on the motherboard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "2d7b68b6-9485-47bc-bc51-2274c0ec5d4f",
+        "type": "message",
+        "text": "Hmm, it would be difficult to solder it with the board inside the plastic housing. Can we disassemble it a little so that we can stick the soldering iron in?",
+        "user": "UUXLKS2F4",
+        "ts": "1613420974.010300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5IKx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm, it would be difficult to solder it with the board inside the plastic housing. Can we disassemble it a little so that we can stick the soldering iron in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "8c7e4fa9-bc03-4adf-8fd0-4900a57be2df",
+        "type": "message",
+        "text": "If you know how to go for it! I'm not sure how to remove the board without breaking everything",
+        "user": "U01NC3W5HQU",
+        "ts": "1613421297.010500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dMS+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you know how to go for it! I'm not sure how to remove the board without breaking everything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "9e2f1207-3901-4025-8585-fc5e72fe5d32",
+        "type": "message",
+        "text": "I'm not familiar at all electronics and motherboards so I don't want to accidentally unplug things I can't reconnect",
+        "user": "U01NC3W5HQU",
+        "ts": "1613421325.010700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F56y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not familiar at all electronics and motherboards so I don't want to accidentally unplug things I can't reconnect"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "1a22d5c1-db60-4885-854d-d4b01e3adf42",
+        "type": "message",
+        "text": "Okay, I could try to help you disassemble, solder, and put things back in, but I can't guarantee that I won't mess up something... (sorry, not trained specifically to fix audio electronics :slightly_smiling_face: ) If you are okay with that, feel free to drop it off our pickup table and I can help you take a look.",
+        "user": "UUXLKS2F4",
+        "ts": "1613421766.010900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rOADs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, I could try to help you disassemble, solder, and put things back in, but I can't guarantee that I won't mess up something... (sorry, not trained specifically to fix audio electronics "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) If you are okay with that, feel free to drop it off our pickup table and I can help you take a look."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "30d3faed-9ecd-41c0-883c-3d254cb89361",
+        "type": "message",
+        "text": "Great does today work?",
+        "user": "U01NC3W5HQU",
+        "ts": "1613422041.011100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1yv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great does today work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "7faeb2f4-abe6-4357-ac98-a3568f62b3fe",
+        "type": "message",
+        "text": "I work until 5, and I'm here again tomorrow at 9am. So if I don't finish by today it should be done tomorrow!",
+        "user": "UUXLKS2F4",
+        "ts": "1613422113.011300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o8J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I work until 5, and I'm here again tomorrow at 9am. So if I don't finish by today it should be done tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "979439e3-df06-40e0-b879-5a83256d2a8d",
+        "type": "message",
+        "text": "Great i'll try to stop by soon!",
+        "user": "U01NC3W5HQU",
+        "ts": "1613422300.011500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f18",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great i'll try to stop by soon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU"
+    },
+    {
+        "client_msg_id": "8aa3e7e2-6614-4b2c-a0fe-b10ab0396c5b",
+        "type": "message",
+        "text": "Thank you so much! Very happy to have a working speaker again",
+        "user": "U01NC3W5HQU",
+        "ts": "1613427530.011700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gd1d197968ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1d197968ef565d2bf0510349aed7ad3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jackson Deysine",
+            "display_name": "Jackson Deysine",
+            "team": "TUX7FNQ8J",
+            "name": "jackson.deysine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lV\/+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much! Very happy to have a working speaker again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "UUXLKS2F4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UUX7FNR7U"
+                ],
+                "count": 1
+            },
+            {
+                "name": "nolop",
+                "users": [
+                    "UUX7FNR7U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1135C8D1-0219-4643-A22E-E956B9C909A8",
+        "type": "message",
+        "text": "Wait, it worked?!!? Well done, <@UUXLKS2F4> !",
+        "user": "UUX7FNR7U",
+        "ts": "1613445546.012500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6mZFL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait, it worked?!!? Well done, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613419879.008200",
+        "parent_user_id": "U01NC3W5HQU",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "UUXLKS2F4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

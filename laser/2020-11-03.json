@@ -1,0 +1,1285 @@
+[
+    {
+        "type": "message",
+        "text": "Hi! Can I get this printed with 1\/8 plywood, the units are in inches.",
+        "files": [
+            {
+                "id": "F01ELUDL71N",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Can I get this printed with 1\/8 plywood, the units are in inches."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01DLH31PKP",
+        "display_as_bot": false,
+        "ts": "1604409955.442500"
+    },
+    {
+        "client_msg_id": "6bc0fb47-2de3-4628-9918-bd1b1b90de16",
+        "type": "message",
+        "text": "Yes, for sure",
+        "user": "UVC8Q8RAS",
+        "ts": "1604413923.442900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MSugb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, for sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc24c65d-fb02-48ae-b74d-847330a8d88e",
+        "type": "message",
+        "text": "<@U01DLH31PKP> How big is each piece?",
+        "user": "UVC8Q8RAS",
+        "ts": "1604415422.443300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E56q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01DLH31PKP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " How big is each piece?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e512b2f-babd-40fd-bdde-7334adbd2779",
+        "type": "message",
+        "text": "Is the largest piece about 8.5 in width?",
+        "user": "UVC8Q8RAS",
+        "ts": "1604415470.443800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJRbk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the largest piece about 8.5 in width?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1604443317.454500",
+        "reply_users": [
+            "UVC8Q8RAS",
+            "U01DLH31PKP"
+        ],
+        "replies": [
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1604415615.443900"
+            },
+            {
+                "user": "U01DLH31PKP",
+                "ts": "1604416598.444100"
+            },
+            {
+                "user": "U01DLH31PKP",
+                "ts": "1604417123.444300"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1604428456.448000"
+            },
+            {
+                "user": "U01DLH31PKP",
+                "ts": "1604428743.448200"
+            },
+            {
+                "user": "U01DLH31PKP",
+                "ts": "1604435141.451900"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1604435584.452100"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1604437890.452400"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1604440865.454300"
+            },
+            {
+                "user": "U01DLH31PKP",
+                "ts": "1604443317.454500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ca519d75-8011-4d00-a793-2f01fe01a56e",
+        "type": "message",
+        "text": "also, do you need the frame printed for each piece?",
+        "user": "UVC8Q8RAS",
+        "ts": "1604415615.443900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2J9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also, do you need the frame printed for each piece?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "7fcc94c1-e69f-4428-9272-6cedf617630d",
+        "type": "message",
+        "text": "I have that the biggest piece is 8 in.. but I can send a different file it that one is different for some reason. Also can you cut each piece but engrave the tags?",
+        "user": "U01DLH31PKP",
+        "ts": "1604416598.444100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ge571709d0fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e571709d0fdb3ace0ed2454cac0f746b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Delaney Sinko",
+            "display_name": "Delaney Sinko",
+            "team": "TUX7FNQ8J",
+            "name": "delaney.sinko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0S74",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have that the biggest piece is 8 in.. but I can send a different file it that one is different for some reason. Also can you cut each piece but engrave the tags?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "49e1efed-fd1d-4fdd-8777-4140b06bd1fc",
+        "type": "message",
+        "text": "ohhh also Im in BME 66 so I think you can charge it to the class.",
+        "user": "U01DLH31PKP",
+        "ts": "1604417123.444300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ge571709d0fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e571709d0fdb3ace0ed2454cac0f746b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Delaney Sinko",
+            "display_name": "Delaney Sinko",
+            "team": "TUX7FNQ8J",
+            "name": "delaney.sinko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/g4Qe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ohhh also Im in BME 66 so I think you can charge it to the class."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "type": "message",
+        "text": "Hi! Can I please get this cut with 1\/8\" plywood, the units are in inches. It is for ME30.",
+        "files": [
+            {
+                "id": "F01EADL87SM",
+                "created": 1604423278,
+                "timestamp": 1604423278,
+                "name": "me30gameBox.dxf",
+                "title": "me30gameBox.dxf",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01BJ98H5KP",
+                "editable": true,
+                "size": 121303,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01EADL87SM\/me30gamebox.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01EADL87SM\/download\/me30gamebox.dxf?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BJ98H5KP\/F01EADL87SM\/me30gamebox.dxf",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01EADL87SM-4a93db5aa6",
+                "edit_link": "https:\/\/nolop.slack.com\/files\/U01BJ98H5KP\/F01EADL87SM\/me30gamebox.dxf\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "98+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Can I please get this cut with 1\/8\" plywood, the units are in inches. It is for ME30."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01BJ98H5KP",
+        "display_as_bot": false,
+        "ts": "1604423308.445600",
+        "thread_ts": "1604423308.445600",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1604426117.447800",
+        "reply_users": [
+            "UUXLKS2F4",
+            "U01BJ98H5KP"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1604423891.445900"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1604424632.446100"
+            },
+            {
+                "user": "U01BJ98H5KP",
+                "ts": "1604425326.446300"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1604425496.446800"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1604425513.447000"
+            },
+            {
+                "user": "U01BJ98H5KP",
+                "ts": "1604425593.447400"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1604425638.447600"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1604426117.447800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01DK4N8LD8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aeb7fa84-da98-41a5-a9d9-efd93982cfae",
+        "type": "message",
+        "text": "U got it - working on it now",
+        "user": "UUXLKS2F4",
+        "ts": "1604423891.445900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "16BM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "U got it - working on it now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604423308.445600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "7b749405-5eb8-437c-9039-4553d5a826d2",
+        "type": "message",
+        "text": "<@U01BJ98H5KP> Did you generate the design with MakerCase? Could you re-export the design as an .svg file?",
+        "user": "UUXLKS2F4",
+        "ts": "1604424632.446100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BJ98H5KP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Did you generate the design with MakerCase? Could you re-export the design as an .svg file?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604423308.445600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "type": "message",
+        "text": "Yes I did, here is the svg file, <@UUXLKS2F4>",
+        "files": [
+            {
+                "id": "F01E42WUK28",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0=ZLg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes I did, here is the svg file, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01BJ98H5KP",
+        "display_as_bot": false,
+        "ts": "1604425326.446300",
+        "edited": {
+            "user": "U01BJ98H5KP",
+            "ts": "1604425349.000000"
+        },
+        "thread_ts": "1604423308.445600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "99e86f62-f815-4a78-b006-6620e9d0b5be",
+        "type": "message",
+        "text": "Works now! Would you like to keep the texts (\"top, bottom\" etc) or are you okay to remove them? engraving the texts takes more time\\",
+        "user": "UUXLKS2F4",
+        "ts": "1604425496.446800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cr4y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Works now! Would you like to keep the texts (\"top, bottom\" etc) or are you okay to remove them? engraving the texts takes more time\\"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604423308.445600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DH61G031",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "UUXLKS2F4",
+        "display_as_bot": false,
+        "ts": "1604425513.447000",
+        "thread_ts": "1604423308.445600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "ee46f217-d787-4490-a4cf-40306634587c",
+        "type": "message",
+        "text": "Please remove them, sorry for the hassle I've never laser cut before, thank you for you help!",
+        "user": "U01BJ98H5KP",
+        "ts": "1604425593.447400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g5bf87266fc7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5bf87266fc77619259d88484a4b6feb4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Sawyer Paccione",
+            "display_name": "Sawyer Paccione",
+            "team": "TUX7FNQ8J",
+            "name": "sawyer.paccione",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bG0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please remove them, sorry for the hassle I've never laser cut before, thank you for you help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604423308.445600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "fc19a930-f259-4524-ab85-d4506f635317",
+        "type": "message",
+        "text": "No worries! Sounds good",
+        "user": "UUXLKS2F4",
+        "ts": "1604425638.447600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QhNr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries! Sounds good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604423308.445600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "0c1315ae-f263-4617-b304-e6324e337a76",
+        "type": "message",
+        "text": "Ready for pickup!",
+        "user": "UUXLKS2F4",
+        "ts": "1604426117.447800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7pi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ready for pickup!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604423308.445600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "7cd63f0f-ed2b-4ad2-a52e-ee408a138d81",
+        "type": "message",
+        "text": "Do you want to cut all 8 files?",
+        "user": "UVC8Q8RAS",
+        "ts": "1604428456.448000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vi3ch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you want to cut all 8 files?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "cdc7cc33-50db-4a95-8df7-99286e64f436",
+        "type": "message",
+        "text": "Ideally yes but if that takes too long I can make a new file with less pieces.",
+        "user": "U01DLH31PKP",
+        "ts": "1604428743.448200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ge571709d0fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e571709d0fdb3ace0ed2454cac0f746b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Delaney Sinko",
+            "display_name": "Delaney Sinko",
+            "team": "TUX7FNQ8J",
+            "name": "delaney.sinko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fl\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ideally yes but if that takes too long I can make a new file with less pieces."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "type": "message",
+        "text": "Hello! I have a model that needs to get cut twice, once with wood and once with acrylic! I have black acrylic that I will drop off at nolop in a women in tech tote bag and if there is any scrap wood (1\/4\") that I can also cut it on that would be great. There is two files, one is the front and the other file should be etched on the back of the first file.",
+        "files": [
+            {
+                "id": "F01DY97MGHG",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F01DY982N3U",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nOQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! I have a model that needs to get cut twice, once with wood and once with acrylic! I have black acrylic that I will drop off at nolop in a women in tech tote bag and if there is any scrap wood (1\/4\") that I can also cut it on that would be great. There is two files, one is the front and the other file should be etched on the back of the first file."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01DP6GDD3J",
+        "ts": "1604433658.450400"
+    },
+    {
+        "type": "message",
+        "text": "Hi, Could I get this laser cut in 1\/8 plywood? (for BME-66)",
+        "files": [
+            {
+                "id": "F01EAUL94SD",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AwIS+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, Could I get this laser cut in 1\/8 plywood? (for BME-66)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01E7T9Q9H7",
+        "display_as_bot": false,
+        "ts": "1604434137.451600"
+    },
+    {
+        "client_msg_id": "407f7f65-9f4c-4726-8158-da63ba2bc4cd",
+        "type": "message",
+        "text": "how will I know when it is done?",
+        "user": "U01DLH31PKP",
+        "ts": "1604435141.451900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ge571709d0fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e571709d0fdb3ace0ed2454cac0f746b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Delaney Sinko",
+            "display_name": "Delaney Sinko",
+            "team": "TUX7FNQ8J",
+            "name": "delaney.sinko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "02du",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how will I know when it is done?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "2c04c2b5-9bdb-49ae-b6e7-1906b8a2f40a",
+        "type": "message",
+        "text": "I am on shift in Nolop in 30 minutes. I'll cut it as soon as I'm on shift",
+        "user": "UVC8Q8RAS",
+        "ts": "1604435584.452100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3doC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am on shift in Nolop in 30 minutes. I'll cut it as soon as I'm on shift"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01DLH31PKP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e27cc0a0-3456-4d2f-9786-5557a0e8e708",
+        "type": "message",
+        "text": "I expect the cuts will be done around 5, they are quite long",
+        "user": "UVC8Q8RAS",
+        "ts": "1604437890.452400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pky8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I expect the cuts will be done around 5, they are quite long"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "13d8c94b-761b-4347-a933-a1cb858d64fe",
+        "type": "message",
+        "text": "Hello hello! Yes, I can cut these both out. We have another cut that will last a long time, so I expect we can get both your cuts done in the next few hours <@U01E7T9Q9H7> and <@U01DP6GDD3J>",
+        "user": "UVC8Q8RAS",
+        "ts": "1604438076.453600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jP=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello hello! Yes, I can cut these both out. We have another cut that will last a long time, so I expect we can get both your cuts done in the next few hours "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01E7T9Q9H7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01DP6GDD3J"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604438076.453600",
+        "reply_count": 13,
+        "reply_users_count": 4,
+        "latest_reply": "1604604231.496300",
+        "reply_users": [
+            "U01DP6GDD3J",
+            "U01E7T9Q9H7",
+            "UVC8Q8RAS",
+            "UUXLKS2F4"
+        ],
+        "replies": [
+            {
+                "user": "U01DP6GDD3J",
+                "ts": "1604438450.454100"
+            },
+            {
+                "user": "U01E7T9Q9H7",
+                "ts": "1604452549.454700"
+            },
+            {
+                "user": "U01DP6GDD3J",
+                "ts": "1604501107.456600"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1604509788.461300"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1604509794.461500"
+            },
+            {
+                "user": "U01DP6GDD3J",
+                "ts": "1604510110.462100"
+            },
+            {
+                "user": "U01DP6GDD3J",
+                "ts": "1604510176.463000"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1604525448.474000"
+            },
+            {
+                "user": "U01E7T9Q9H7",
+                "ts": "1604602376.493800"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1604602556.494300"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1604602870.495300"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1604602873.495500"
+            },
+            {
+                "user": "U01E7T9Q9H7",
+                "ts": "1604604231.496300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "24A82891-ED1E-4B4B-BCDC-C8D3958B63F3",
+        "type": "message",
+        "text": "Thank you!!!!!",
+        "user": "U01DP6GDD3J",
+        "ts": "1604438450.454100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "a3b93197d16d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1434651064518_a3b93197d16d68371fa9_72.jpg",
+            "first_name": "",
+            "real_name": "Morgan Burke",
+            "display_name": "Morgan Burke",
+            "team": "TUX7FNQ8J",
+            "name": "morgan.burke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jgwAG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604438076.453600",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "15037854-f990-42e5-8158-062d3c9cf895",
+        "type": "message",
+        "text": "Your cuts are on the table outside!",
+        "user": "UVC8Q8RAS",
+        "ts": "1604440865.454300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JqlTu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your cuts are on the table outside!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "574e7680-9c82-4c26-97a6-de1d863673f3",
+        "type": "message",
+        "text": "thank you so much!!",
+        "user": "U01DLH31PKP",
+        "ts": "1604443317.454500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ge571709d0fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e571709d0fdb3ace0ed2454cac0f746b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Delaney Sinko",
+            "display_name": "Delaney Sinko",
+            "team": "TUX7FNQ8J",
+            "name": "delaney.sinko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XggL=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you so much!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604415470.443800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "3551e3f1-a40a-4e41-af9d-dc901e66b187",
+        "type": "message",
+        "text": "Thank You <@UVC8Q8RAS>",
+        "user": "U01E7T9Q9H7",
+        "ts": "1604452549.454700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gf1c78e04ac6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f1c78e04ac6a9a1873dee800095f2550.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Amma Agyei",
+            "display_name": "Amma Agyei",
+            "team": "TUX7FNQ8J",
+            "name": "amma.agyei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rg56K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank You "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVC8Q8RAS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604438076.453600",
+        "parent_user_id": "UVC8Q8RAS"
+    }
+]

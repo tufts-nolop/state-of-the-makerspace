@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "4b593531-280a-4fa3-8c1c-fecc7b2385f2",
+        "type": "message",
+        "text": "Hi Gabriel, your PCB is outside Nolop! A few things, the footprint you chose for the pin headers does not fit them, so I could not solder them on. Also, I couldn’t find any 3.3V regulators, so I couldnt solder that either. Everything else is on!",
+        "user": "UUX9LS8AW",
+        "ts": "1602350346.043000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gTpPj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Gabriel, your PCB is outside Nolop! A few things, the footprint you chose for the pin headers does not fit them, so I could not solder them on. Also, I couldn’t find any 3.3V regulators, so I couldnt solder that either. Everything else is on!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602281507.042900",
+        "parent_user_id": "U01BTNV4F2T"
+    }
+]

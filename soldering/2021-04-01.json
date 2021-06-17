@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "54af3465-594d-4ae9-8845-e5e1e7834967",
+        "type": "message",
+        "text": "That's okay. We should be able to make it work. I'm so sorry this is taking so long! Do you need it back by a specific date, or just asap?",
+        "user": "U010SQKCPGR",
+        "ts": "1617314905.048300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "d47e61607918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-09\/1740263872916_d47e616079183867111b_72.png",
+            "first_name": "Jeffrey",
+            "real_name": "Jeffrey Blitt",
+            "display_name": "Jeff",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.blitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=61",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's okay. We should be able to make it work. I'm so sorry this is taking so long! Do you need it back by a specific date, or just asap?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617053496.044300",
+        "parent_user_id": "U01BRDMSYRH"
+    }
+]

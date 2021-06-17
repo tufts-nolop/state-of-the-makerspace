@@ -1,0 +1,1327 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600789864.000400",
+        "user": "UUXPGJQEN",
+        "text": "<@UUXPGJQEN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600791256.000600",
+        "user": "UUX9RJS66",
+        "text": "<@UUX9RJS66> has joined the channel"
+    },
+    {
+        "client_msg_id": "2D5088CF-1A75-45CD-9139-4A0D42557C91",
+        "type": "message",
+        "text": "Hi I dropped off a raspberry pi to be soldered. It’s in a little bag with my name on it  ",
+        "user": "U01BGSPEY0H",
+        "ts": "1600798436.001400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gf2bfad5af36",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2bfad5af36c9628a5ec4977c28eab16.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Max Kratzok",
+            "display_name": "Max Kratzok",
+            "team": "TUX7FNQ8J",
+            "name": "max.kratzok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M9r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi I dropped off a raspberry pi to be soldered. It’s in a little bag with my name on it  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53fbfeb6-eec6-4024-97a3-947348f248cd",
+        "type": "message",
+        "text": "Sounds good. I'll get on it this afternoon",
+        "user": "UVC8Q8RAS",
+        "ts": "1600798463.001800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7Koj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good. I'll get on it this afternoon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600798463.001800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1600798969.002600",
+        "reply_users": [
+            "UUXLKS2F4",
+            "UVC8Q8RAS"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1600798951.002400"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1600798969.002600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U01BGSPEY0H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CE7C058C-FADA-4C16-83C6-0D095FA879BE",
+        "type": "message",
+        "text": "Hey I’m gonna help Max solder if you don’t mind!",
+        "user": "UUXLKS2F4",
+        "ts": "1600798951.002400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h58",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey I’m gonna help Max solder if you don’t mind!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600798463.001800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "ab9f4470-bdf5-4e08-a8c9-5bdbbe2a8980",
+        "type": "message",
+        "text": "I certainly dont",
+        "user": "UVC8Q8RAS",
+        "ts": "1600798969.002600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XMk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I certainly dont"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600798463.001800",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "5AA6679E-F993-4D6A-AC16-43262787DA42",
+        "type": "message",
+        "text": "Hey <@U01BGSPEY0H> I just finished soldering your pi and it’s back at the pickup table!",
+        "user": "UUXLKS2F4",
+        "ts": "1600799423.003600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxwP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BGSPEY0H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I just finished soldering your pi and it’s back at the pickup table!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600799423.003600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1600804870.006000",
+        "reply_users": [
+            "U01BGSPEY0H"
+        ],
+        "replies": [
+            {
+                "user": "U01BGSPEY0H",
+                "ts": "1600804870.006000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e2849f60-a579-4256-94e0-95d4c7889b1b",
+        "type": "message",
+        "text": "<@UVC8Q8RAS> just dropped off my part&amp;wires in a bag w my name",
+        "user": "UV00RGM5F",
+        "ts": "1600802003.004300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jIQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVC8Q8RAS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just dropped off my part&wires in a bag w my name"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44c3af34-e501-4a3a-9ef1-be39022d8cee",
+        "type": "message",
+        "text": "Awesome",
+        "user": "UVC8Q8RAS",
+        "ts": "1600802106.004500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4enG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "804d1b2a-1936-4a8d-a2d8-7b4736dbebb0",
+        "type": "message",
+        "text": "<@UV00RGM5F> I know you gave me breadboard wires to use, but would it be better to solder female sockets onto the imu?",
+        "user": "UVC8Q8RAS",
+        "ts": "1600804031.005400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZA6u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV00RGM5F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I know you gave me breadboard wires to use, but would it be better to solder female sockets onto the imu?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600804031.005400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1600807921.006500",
+        "reply_users": [
+            "UV00RGM5F",
+            "UVC8Q8RAS"
+        ],
+        "replies": [
+            {
+                "user": "UV00RGM5F",
+                "ts": "1600804469.005800"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1600806468.006300"
+            },
+            {
+                "user": "UVC8Q8RAS",
+                "ts": "1600807921.006500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8f308572-1240-4d60-bcaa-5f5c59eadfdf",
+        "type": "message",
+        "text": "That works if we have some!!",
+        "user": "UV00RGM5F",
+        "ts": "1600804469.005800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g150efc15e94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/150efc15e940102534a5b35d2f7ea83e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Alyssa Robichaud",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "alyssa.robichaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8y8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That works if we have some!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600804031.005400",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "A6A456BF-13D5-454A-809E-D26A06D4CB98",
+        "type": "message",
+        "text": "Looks gorgeous! Thanks ",
+        "user": "U01BGSPEY0H",
+        "ts": "1600804870.006000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gf2bfad5af36",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2bfad5af36c9628a5ec4977c28eab16.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Max Kratzok",
+            "display_name": "Max Kratzok",
+            "team": "TUX7FNQ8J",
+            "name": "max.kratzok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nYvq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks gorgeous! Thanks "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600799423.003600",
+        "parent_user_id": "UUXLKS2F4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUXLKS2F4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "695d034d-dad6-45ec-8cb3-1e900fc083ad",
+        "type": "message",
+        "text": "ok",
+        "user": "UVC8Q8RAS",
+        "ts": "1600806468.006300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qx8i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600804031.005400",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "client_msg_id": "8f94dbac-099b-4198-a048-d4451381de2a",
+        "type": "message",
+        "text": "youre all set",
+        "user": "UVC8Q8RAS",
+        "ts": "1600807921.006500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "e3c3faac0d7e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-13\/1360292843378_e3c3faac0d7e07a498c9_72.jpg",
+            "first_name": "Walker",
+            "real_name": "Walker Wind",
+            "display_name": "Walker Wind",
+            "team": "TUX7FNQ8J",
+            "name": "walkerwind98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/TI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "youre all set"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600804031.005400",
+        "parent_user_id": "UVC8Q8RAS"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01BCSDHB2Q",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RS9gg",
+                "elements": []
+            }
+        ],
+        "user": "U01831XEWLW",
+        "display_as_bot": false,
+        "ts": "1600809098.006800",
+        "client_msg_id": "2FC039E1-9F55-40D7-83BD-4499547835DE"
+    },
+    {
+        "client_msg_id": "74C0A6DD-9615-4B79-9ABD-8420F47377D3",
+        "type": "message",
+        "text": "By any chance can anyone solder something like thisv",
+        "user": "U01831XEWLW",
+        "ts": "1600809142.007500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FAWmA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "By any chance can anyone solder something like thisv"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809142.007500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1600809502.008800",
+        "reply_users": [
+            "U01831XEWLW"
+        ],
+        "replies": [
+            {
+                "user": "U01831XEWLW",
+                "ts": "1600809502.008800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01B6SX0R2P",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IPF",
+                "elements": []
+            }
+        ],
+        "user": "U01831XEWLW",
+        "display_as_bot": false,
+        "ts": "1600809159.007600",
+        "client_msg_id": "18F90C04-F5EB-41DA-A32F-932FCF86A3DD"
+    },
+    {
+        "client_msg_id": "91A49482-AE5B-4F09-9A1F-0C2444BE93BC",
+        "type": "message",
+        "text": "Are those surface mounts?",
+        "user": "UUX9LS8AW",
+        "ts": "1600809172.008100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wfqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are those surface mounts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A68E253E-EA9E-4B3B-AAFB-004C1EBC47A1",
+        "type": "message",
+        "text": "I dont think so? Am not sure",
+        "user": "U01831XEWLW",
+        "ts": "1600809471.008400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tXsi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I dont think so? Am not sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809471.008400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1600809583.010700",
+        "reply_users": [
+            "UUX9LS8AW",
+            "UUX7FNR7U"
+        ],
+        "replies": [
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1600809538.009700"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1600809583.010700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1600809583.010700"
+    },
+    {
+        "client_msg_id": "56290332-3F7F-4994-9644-3734C6139709",
+        "type": "message",
+        "text": "<@UUXLKS2F4>  Walker said you might be about to do this",
+        "user": "U01831XEWLW",
+        "ts": "1600809502.008800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KUC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Walker said you might be about to do this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809142.007500",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "1AF060B4-9BA9-412C-B739-355800ECBF2F",
+        "type": "message",
+        "text": "<@UUX7FNR7U> correct me if I’m wrong, but those look like surface mount parts, yes?",
+        "user": "UUX9LS8AW",
+        "ts": "1600809538.009700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g81",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUX7FNR7U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " correct me if I’m wrong, but those look like surface mount parts, yes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809471.008400",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "d0263875-7485-402a-b06d-11572a26f4e1",
+        "type": "message",
+        "text": "Yes, they are. They would be difficult to solder by hand.",
+        "user": "UUX7FNR7U",
+        "ts": "1600809583.010700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G1V2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, they are. They would be difficult to solder by hand."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809471.008400",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "462382AF-503B-4ED1-B843-2FA4811D00F3",
+        "type": "message",
+        "text": ". <@UUX7FNR7U>  do I have your permission to use the reflow oven? I can also try it with a heat gun? If so, happy to help out! <@U01831XEWLW> ",
+        "user": "UUXLKS2F4",
+        "ts": "1600809627.011600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXLKS2F4",
+            "ts": "1600809666.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pcc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUX7FNR7U"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  do I have your permission to use the reflow oven? I can also try it with a heat gun? If so, happy to help out! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01831XEWLW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809627.011600",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1600811804.013800",
+        "reply_users": [
+            "U01831XEWLW",
+            "UUX7FNR7U",
+            "UUXLKS2F4"
+        ],
+        "replies": [
+            {
+                "user": "U01831XEWLW",
+                "ts": "1600809923.012000"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1600810401.012300"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1600810435.012500"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1600810451.012700"
+            },
+            {
+                "user": "U01831XEWLW",
+                "ts": "1600811699.013200"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1600811732.013400"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1600811781.013600"
+            },
+            {
+                "user": "UUX7FNR7U",
+                "ts": "1600811804.013800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1600811804.013800"
+    },
+    {
+        "client_msg_id": "5AADC701-F1D9-4778-BB37-A47D4D90E045",
+        "type": "message",
+        "text": "We would love your help!!!",
+        "user": "U01831XEWLW",
+        "ts": "1600809923.012000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3By",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We would love your help!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809627.011600",
+        "parent_user_id": "UUXLKS2F4"
+    },
+    {
+        "client_msg_id": "40f905de-e02c-4a9a-8ec9-c7d2be306df2",
+        "type": "message",
+        "text": "You are welcome to try, but please bring the oven to the 3D printer side of Nolop.",
+        "user": "UUX7FNR7U",
+        "ts": "1600810401.012300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hW0os",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are welcome to try, but please bring the oven to the 3D printer side of Nolop."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809627.011600",
+        "parent_user_id": "UUXLKS2F4"
+    },
+    {
+        "client_msg_id": "2e6dff2c-e67b-4e67-ad01-cec8b87080a1",
+        "type": "message",
+        "text": "How will you dispense solder paste? A syringe?",
+        "user": "UUX7FNR7U",
+        "ts": "1600810435.012500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j11",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How will you dispense solder paste? A syringe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809627.011600",
+        "parent_user_id": "UUXLKS2F4"
+    },
+    {
+        "client_msg_id": "5cf81b9f-d869-426c-879f-0f3ea2cfba8d",
+        "type": "message",
+        "text": "Also, are you sure the chip isn't available presoldered somehow?",
+        "user": "UUX7FNR7U",
+        "ts": "1600810451.012700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6NV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, are you sure the chip isn't available presoldered somehow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809627.011600",
+        "parent_user_id": "UUXLKS2F4"
+    },
+    {
+        "client_msg_id": "9E7D388B-BAE1-4CAD-A811-97FB4E445D8F",
+        "type": "message",
+        "text": "Yeah i dont think the chip is pre soldered :(",
+        "user": "U01831XEWLW",
+        "ts": "1600811699.013200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Rli",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah i dont think the chip is pre soldered :("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809627.011600",
+        "parent_user_id": "UUXLKS2F4"
+    },
+    {
+        "client_msg_id": "df9af3f7-0a79-4642-aa9c-08c9baeac49d",
+        "type": "message",
+        "text": "What chip is it?",
+        "user": "UUX7FNR7U",
+        "ts": "1600811732.013400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AjjK8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What chip is it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809627.011600",
+        "parent_user_id": "UUXLKS2F4"
+    },
+    {
+        "client_msg_id": "db497558-5fb1-4a51-bd90-fb6fa8873b79",
+        "type": "message",
+        "text": "<@UUX7FNR7U> I can try with a lasercut sheet of paper as a cheap stencil?",
+        "user": "UUXLKS2F4",
+        "ts": "1600811781.013600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l89m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUX7FNR7U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can try with a lasercut sheet of paper as a cheap stencil?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809627.011600",
+        "parent_user_id": "UUXLKS2F4"
+    },
+    {
+        "client_msg_id": "1a7da528-f7de-459f-8fff-b16c91f5f4c9",
+        "type": "message",
+        "text": "Yes, that could work.",
+        "user": "UUX7FNR7U",
+        "ts": "1600811804.013800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "4b53b4e32812",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200698526919_4b53b4e3281217f7a12a_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Stafford",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "brandon.stafford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2MI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, that could work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600809627.011600",
+        "parent_user_id": "UUXLKS2F4"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "c4d57c78-cd6c-4336-9eb0-3849ad4bab07",
+        "type": "message",
+        "text": "<@UVA4Q0DM3> and I are here until 11 for your laser cutting desires!",
+        "user": "UV1ANS7GR",
+        "ts": "1602544679.197100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "grpZ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVA4Q0DM3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are here until 11 for your laser cutting desires!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11dadce5-8e6f-4668-98d4-5419f3e947ca",
+        "type": "message",
+        "text": "Hey there, would it be possible to engrave parts to certain depths on the lazer cutter in specific dimensions? I am looking to engrave some small (0.25 to 1mm deep, 0.25 to 1mm wide) channels on acrylic. Also, do we know what resolution engravings on the lazer cutter can reach?",
+        "user": "U01CG30DD7D",
+        "ts": "1602558646.199000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g51c0d83c52a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/51c0d83c52a81ba5e7a64272c5b6a14f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Aiden Lewis",
+            "display_name": "Aiden Lewis",
+            "team": "TUX7FNQ8J",
+            "name": "aiden.lewis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PeN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey there, would it be possible to engrave parts to certain depths on the lazer cutter in specific dimensions? I am looking to engrave some small (0.25 to 1mm deep, 0.25 to 1mm wide) channels on acrylic. Also, do we know what resolution engravings on the lazer cutter can reach?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602558646.199000",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1602605580.201800",
+        "reply_users": [
+            "UUXLKS2F4",
+            "U01CG30DD7D"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602595409.201000"
+            },
+            {
+                "user": "U01CG30DD7D",
+                "ts": "1602599224.201200"
+            },
+            {
+                "user": "U01CG30DD7D",
+                "ts": "1602599225.201400"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602605580.201800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

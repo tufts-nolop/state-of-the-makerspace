@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "8a2b91d7-109c-4712-9e90-ccefe102e488",
+        "type": "message",
+        "text": "Any updates on this?",
+        "user": "U01BV7ZJT2M",
+        "ts": "1603041087.056400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gbfb5449179f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bfb5449179f7f3230d2355c84de6169f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Gus Brown",
+            "display_name": "Gus Brown",
+            "team": "TUX7FNQ8J",
+            "name": "auguste.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTNO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any updates on this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602190946.041300",
+        "parent_user_id": "U01BV7ZJT2M"
+    },
+    {
+        "client_msg_id": "7ACC3595-A6BA-47A0-AB86-D0785794CF83",
+        "type": "message",
+        "text": "Ah Normally these messages in a thread don’t get notifications sent to all the staff. Can you repost this to the main soldering channel? My bad I should have mentioned that earlier",
+        "user": "U010PP3CGUS",
+        "ts": "1603041162.057800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "8ec3935ee678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-13\/1419795780070_8ec3935ee678c1e29dd8_72.jpg",
+            "first_name": "",
+            "real_name": "Harry Steinberg",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "harrymsteinberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/bm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah Normally these messages in a thread don’t get notifications sent to all the staff. Can you repost this to the main soldering channel? My bad I should have mentioned that earlier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602190946.041300",
+        "parent_user_id": "U01BV7ZJT2M"
+    },
+    {
+        "client_msg_id": "7E0A2D28-2EDC-4496-81B7-CBD1EB049DF6",
+        "type": "message",
+        "text": "My board is out front on the table. It just needs pin 2 of the 3.3 V regulator to be resoldered!",
+        "user": "U01BV7ZJT2M",
+        "ts": "1603064484.058000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gbfb5449179f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bfb5449179f7f3230d2355c84de6169f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Gus Brown",
+            "display_name": "Gus Brown",
+            "team": "TUX7FNQ8J",
+            "name": "auguste.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zwGV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My board is out front on the table. It just needs pin 2 of the 3.3 V regulator to be resoldered!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603064484.058000",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1603135660.058800",
+        "reply_users": [
+            "UV00RGM5F",
+            "UUX9LS8AW",
+            "U01BV7ZJT2M"
+        ],
+        "replies": [
+            {
+                "user": "UV00RGM5F",
+                "ts": "1603130606.058100"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1603130620.058400"
+            },
+            {
+                "user": "UV00RGM5F",
+                "ts": "1603131477.058600"
+            },
+            {
+                "user": "U01BV7ZJT2M",
+                "ts": "1603135660.058800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

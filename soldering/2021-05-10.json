@@ -1,0 +1,501 @@
+[
+    {
+        "client_msg_id": "35F040C8-E2E2-4944-93EC-C78D88CA5AEA",
+        "type": "message",
+        "text": "Hi I have an PCB I’d like soldered. It’s a bit involved but there’s a detailed assembly video to guide the process. It would be great to talk it over when I hand it off",
+        "user": "U01ADHK39FH",
+        "ts": "1620663639.097400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WcJuW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi I have an PCB I’d like soldered. It’s a bit involved but there’s a detailed assembly video to guide the process. It would be great to talk it over when I hand it off"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620663639.097400",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1620668973.098200",
+        "reply_users": [
+            "UUX9LS8AW",
+            "U01ADHK39FH"
+        ],
+        "replies": [
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1620663657.097500"
+            },
+            {
+                "user": "U01ADHK39FH",
+                "ts": "1620663738.097700"
+            },
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1620668341.098000"
+            },
+            {
+                "user": "U01ADHK39FH",
+                "ts": "1620668973.098200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0791cab8-1985-417b-a82e-b3f42b54ca0f",
+        "type": "message",
+        "text": "sure, bring it by",
+        "user": "UUX9LS8AW",
+        "ts": "1620663657.097500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hU9Mh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure, bring it by"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620663639.097400",
+        "parent_user_id": "U01ADHK39FH"
+    },
+    {
+        "client_msg_id": "90dd28c4-6370-4832-b0ba-6ab765a4d015",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=VmKuWdmhPtM&amp;t=1s>",
+        "user": "U01ADHK39FH",
+        "ts": "1620663738.097700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How to assemble the split-flap controller PCB",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=VmKuWdmhPtM&amp;t=1s",
+                "author_name": "scottbez1",
+                "author_link": "https:\/\/www.youtube.com\/user\/scottbez1",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VmKuWdmhPtM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How to assemble the split-flap controller PCB",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VmKuWdmhPtM?feature=oembed&start=1&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=VmKuWdmhPtM&amp;t=1s",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=VmKuWdmhPtM&amp;t=1s"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QIATt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=VmKuWdmhPtM&t=1s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620663639.097400",
+        "parent_user_id": "U01ADHK39FH"
+    },
+    {
+        "client_msg_id": "b8bdb138-98dd-48aa-a0dc-ec1e29512225",
+        "type": "message",
+        "text": "done and outside nolop!",
+        "user": "UUX9LS8AW",
+        "ts": "1620668341.098000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g6fc4699b533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6fc4699b533f260ca020a271c9ca06c1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Libby Albanese",
+            "display_name": "Libby Albanese",
+            "team": "TUX7FNQ8J",
+            "name": "libby.albanese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gxlp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "done and outside nolop!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620663639.097400",
+        "parent_user_id": "U01ADHK39FH"
+    },
+    {
+        "client_msg_id": "4126bedc-d0ca-4df7-9542-558fb2af3350",
+        "type": "message",
+        "text": "Great thanksQ!",
+        "user": "U01ADHK39FH",
+        "ts": "1620668973.098200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "blORI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great thanksQ!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620663639.097400",
+        "parent_user_id": "U01ADHK39FH"
+    },
+    {
+        "client_msg_id": "aed2aa56-c94b-49e8-a82b-9728ed7efe7e",
+        "type": "message",
+        "text": "I have another job, this is a much simpler board that I would like 4x copies of. I dropped the parts outside and will attach the assembly guide",
+        "user": "U01ADHK39FH",
+        "ts": "1620670145.099500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZxcG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have another job, this is a much simpler board that I would like 4x copies of. I dropped the parts outside and will attach the assembly guide"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620670145.099500",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1620671553.100300",
+        "reply_users": [
+            "U01ADHK39FH",
+            "U017Q918SV6",
+            "UUXLKS2F4"
+        ],
+        "replies": [
+            {
+                "user": "U01ADHK39FH",
+                "ts": "1620670150.099600"
+            },
+            {
+                "user": "U017Q918SV6",
+                "ts": "1620670188.099900"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1620671541.100100"
+            },
+            {
+                "user": "U01ADHK39FH",
+                "ts": "1620671553.100300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dc001bf0-976d-466e-a051-3fff47d25b28",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=vQMnWK6PwJ0&amp;t=1s>",
+        "user": "U01ADHK39FH",
+        "ts": "1620670150.099600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How to assemble a split-flap sensor module",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=vQMnWK6PwJ0&amp;t=1s",
+                "author_name": "scottbez1",
+                "author_link": "https:\/\/www.youtube.com\/user\/scottbez1",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/vQMnWK6PwJ0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How to assemble a split-flap sensor module",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vQMnWK6PwJ0?feature=oembed&start=1&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=vQMnWK6PwJ0&amp;t=1s",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=vQMnWK6PwJ0&amp;t=1s"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/KztO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=vQMnWK6PwJ0&t=1s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620670145.099500",
+        "parent_user_id": "U01ADHK39FH"
+    },
+    {
+        "client_msg_id": "174fcb83-21a9-45a1-8a3b-d3c4509fc6c5",
+        "type": "message",
+        "text": "Got it",
+        "user": "U017Q918SV6",
+        "ts": "1620670188.099900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga1bf36509c7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1bf36509c77194ace235486893e7847.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jared Jaramillo",
+            "display_name": "Jared Jaramillo",
+            "team": "TUX7FNQ8J",
+            "name": "jared.jaramillo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZHNI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620670145.099500",
+        "parent_user_id": "U01ADHK39FH"
+    },
+    {
+        "client_msg_id": "49db4310-5977-49ff-a1e8-23113458ebd7",
+        "type": "message",
+        "text": "<@U01ADHK39FH> Your parts are done and on the table. Your laser cut is as well",
+        "user": "UUXLKS2F4",
+        "ts": "1620671541.100100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u7LDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01ADHK39FH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Your parts are done and on the table. Your laser cut is as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620670145.099500",
+        "parent_user_id": "U01ADHK39FH"
+    },
+    {
+        "client_msg_id": "58248599-1220-4062-aa3c-7ced8d598582",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U01ADHK39FH",
+        "ts": "1620671553.100300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620670145.099500",
+        "parent_user_id": "U01ADHK39FH"
+    }
+]

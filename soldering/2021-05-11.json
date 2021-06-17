@@ -1,0 +1,201 @@
+[
+    {
+        "client_msg_id": "ADC8064E-2BCF-4A92-8D2F-A6EAD14E0586",
+        "type": "message",
+        "text": "Hey, could I get some headers soldered onto my pico today?",
+        "user": "U01AXEK5NUE",
+        "ts": "1620738286.000700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "6234b51bd150",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-23\/1406797551328_6234b51bd150b7bd71df_72.png",
+            "first_name": "Spencer",
+            "real_name": "Spencer Schmid",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "edward.schmid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, could I get some headers soldered onto my pico today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620738286.000700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1620743514.001500",
+        "reply_users": [
+            "UV0AV32DQ",
+            "U01AXEK5NUE"
+        ],
+        "replies": [
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1620738397.000800"
+            },
+            {
+                "user": "UV0AV32DQ",
+                "ts": "1620743291.001200"
+            },
+            {
+                "user": "U01AXEK5NUE",
+                "ts": "1620743514.001500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3bc2c0a6-e8bc-45ef-9a11-755d6555f44e",
+        "type": "message",
+        "text": "Yeah! Come by and drop it off whenever",
+        "user": "UV0AV32DQ",
+        "ts": "1620738397.000800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gbe86416a397",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be86416a39752c8e1a32e33212dd8076.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Isobel Bohmer",
+            "display_name": "Isobel Bohmer",
+            "team": "TUX7FNQ8J",
+            "name": "isobel.bohmer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/=\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah! Come by and drop it off whenever"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620738286.000700",
+        "parent_user_id": "U01AXEK5NUE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AXEK5NUE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d3f3cfa-9c22-46b2-aa58-40841ae3ad4a",
+        "type": "message",
+        "text": "Hi <@U01AXEK5NUE> your pico is outside!",
+        "user": "UV0AV32DQ",
+        "ts": "1620743291.001200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gbe86416a397",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/be86416a39752c8e1a32e33212dd8076.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Isobel Bohmer",
+            "display_name": "Isobel Bohmer",
+            "team": "TUX7FNQ8J",
+            "name": "isobel.bohmer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qEm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AXEK5NUE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your pico is outside!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620738286.000700",
+        "parent_user_id": "U01AXEK5NUE"
+    },
+    {
+        "client_msg_id": "07AA8804-9268-43CE-A5EE-5EF2CF8CCF44",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U01AXEK5NUE",
+        "ts": "1620743514.001500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "6234b51bd150",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-23\/1406797551328_6234b51bd150b7bd71df_72.png",
+            "first_name": "Spencer",
+            "real_name": "Spencer Schmid",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "edward.schmid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+1xZ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620738286.000700",
+        "parent_user_id": "U01AXEK5NUE"
+    }
+]

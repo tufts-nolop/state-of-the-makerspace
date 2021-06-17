@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "965182dc-8fed-4ad5-8ac9-44e8802b781b",
+        "type": "message",
+        "text": "Laser cutting is open today as well!",
+        "user": "U017Q918SV6",
+        "ts": "1611681339.018900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "ga1bf36509c7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1bf36509c77194ace235486893e7847.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jared Jaramillo",
+            "display_name": "Jared Jaramillo",
+            "team": "TUX7FNQ8J",
+            "name": "jared.jaramillo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Weq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Laser cutting is open today as well!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

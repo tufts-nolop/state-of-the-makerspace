@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "0d56ca71-be36-4d79-a709-1419e501560a",
+        "type": "message",
+        "text": "I ended up not being able to stop by yesterday!  are you guys open today?",
+        "user": "U01E66UJ1PZ",
+        "ts": "1612628504.001300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d3f1a9b557",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d3f1a9b557c067f4dec25f372b0c156.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Bailey Halbreich",
+            "display_name": "Bailey Halbreich",
+            "team": "TUX7FNQ8J",
+            "name": "bhalbr01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I ended up not being able to stop by yesterday!  are you guys open today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612557389.001000",
+        "parent_user_id": "U01E66UJ1PZ"
+    }
+]

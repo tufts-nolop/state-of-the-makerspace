@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "6d5c38c0-b58d-4e39-9a73-289257386f94",
+        "type": "message",
+        "text": "Thanks Harry!",
+        "user": "U01BV7ZJT2M",
+        "ts": "1602250510.042100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gbfb5449179f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bfb5449179f7f3230d2355c84de6169f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Gus Brown",
+            "display_name": "Gus Brown",
+            "team": "TUX7FNQ8J",
+            "name": "auguste.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Harry!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602190946.041300",
+        "parent_user_id": "U01BV7ZJT2M"
+    },
+    {
+        "client_msg_id": "436244d1-17d5-4a30-afc9-8c9517ba7011",
+        "type": "message",
+        "text": "I dropped my PCB off yesterday, can someone let me know when it's good? You guys are the best thank you!",
+        "user": "U01BTNV4F2T",
+        "ts": "1602281507.042900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g630f39d188e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/630f39d188e8da115b31417448adfe4f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Gabriel De Brito",
+            "display_name": "Gabriel De Brito",
+            "team": "TUX7FNQ8J",
+            "name": "joao_gabriel.de_brito",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XOte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I dropped my PCB off yesterday, can someone let me know when it's good? You guys are the best thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602281507.042900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1602428052.043200",
+        "reply_users": [
+            "UUX9LS8AW",
+            "U01BTNV4F2T"
+        ],
+        "replies": [
+            {
+                "user": "UUX9LS8AW",
+                "ts": "1602350346.043000"
+            },
+            {
+                "user": "U01BTNV4F2T",
+                "ts": "1602428052.043200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

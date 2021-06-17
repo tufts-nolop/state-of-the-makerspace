@@ -1,0 +1,326 @@
+[
+    {
+        "type": "message",
+        "text": "Hi! can you please laser cut this on ply wood? - Can you make sure that the emojis and words are engraved in the sides of the box.",
+        "files": [
+            {
+                "id": "F01FB3QFKKJ",
+                "created": 1605202178,
+                "timestamp": 1605202178,
+                "name": "untitled (9).svg",
+                "title": "untitled (9).svg",
+                "mimetype": "image\/svg+xml",
+                "filetype": "svg",
+                "pretty_type": "SVG",
+                "user": "U01BUPMLYUV",
+                "editable": false,
+                "size": 800761,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01FB3QFKKJ\/untitled__9_.svg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01FB3QFKKJ\/download\/untitled__9_.svg?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "permalink": "https:\/\/nolop.slack.com\/files\/U01BUPMLYUV\/F01FB3QFKKJ\/untitled__9_.svg",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01FB3QFKKJ-a020b17a4f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TTq3j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! can you please laser cut this on ply wood? - Can you make sure that the emojis and words are engraved in the sides of the box."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01BUPMLYUV",
+        "display_as_bot": false,
+        "ts": "1605202234.218600",
+        "thread_ts": "1605202234.218600",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1605210255.219900",
+        "reply_users": [
+            "UUXLKS2F4",
+            "U01BUPMLYUV"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1605202571.218900"
+            },
+            {
+                "user": "U01BUPMLYUV",
+                "ts": "1605202618.219100"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1605207219.219300"
+            },
+            {
+                "user": "U01BUPMLYUV",
+                "ts": "1605207259.219700"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1605210255.219900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aa9e49ba-41a5-49d8-8e9a-29da4533a383",
+        "type": "message",
+        "text": "Hi! What thickness would you like this to be cut in?",
+        "user": "UUXLKS2F4",
+        "ts": "1605202571.218900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "weblc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! What thickness would you like this to be cut in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605202234.218600",
+        "parent_user_id": "U01BUPMLYUV"
+    },
+    {
+        "client_msg_id": "121b4417-2fa8-4b66-a7e2-80282693c34f",
+        "type": "message",
+        "text": "1\/8\" please",
+        "user": "U01BUPMLYUV",
+        "ts": "1605202618.219100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g02c8ef510f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02c8ef510f2922b2b1832f600a4efd2c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Julie Katz",
+            "display_name": "Julie Katz",
+            "team": "TUX7FNQ8J",
+            "name": "julie.katz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1\/8\" please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605202234.218600",
+        "parent_user_id": "U01BUPMLYUV"
+    },
+    {
+        "type": "message",
+        "text": "Sorry for the delay! Was working on something else for someone. the file was having trouble to be converted to Adobe Illustrator and the letters were a little off. I have tried to restore them to the right position, but could you confirm if this looks like what you want? Black will be rastered and red is cut",
+        "files": [
+            {
+                "id": "F01ETLU1FT6",
+                "created": 1605207131,
+                "timestamp": 1605207131,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UUXLKS2F4",
+                "editable": false,
+                "size": 272246,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01ETLU1FT6\/image.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TUX7FNQ8J-F01ETLU1FT6\/download\/image.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01ETLU1FT6-47d62ed333\/image_64.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01ETLU1FT6-47d62ed333\/image_80.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01ETLU1FT6-47d62ed333\/image_360.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_360_w": 360,
+                "thumb_360_h": 195,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01ETLU1FT6-47d62ed333\/image_480.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_480_w": 480,
+                "thumb_480_h": 261,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01ETLU1FT6-47d62ed333\/image_160.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01ETLU1FT6-47d62ed333\/image_720.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_720_w": 720,
+                "thumb_720_h": 391,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01ETLU1FT6-47d62ed333\/image_800.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_800_w": 800,
+                "thumb_800_h": 434,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01ETLU1FT6-47d62ed333\/image_960.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_960_w": 960,
+                "thumb_960_h": 521,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TUX7FNQ8J-F01ETLU1FT6-47d62ed333\/image_1024.png?t=xoxe-983253772290-2149110858599-2149110995431-b5629c6a695d295d1d8ead2fb2036bba",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 556,
+                "original_w": 1623,
+                "original_h": 881,
+                "thumb_tiny": "AwAaADDTwKaTj+HNOpkig4ySOe1ADm4GcZoPAzjNI+Md\/wAKGxtwc\/gKAFHIzjFLgUiYC4GfxpaACmspOMHFRbm9T+dG5vU\/nQBK6llwDg0pB24BqHc3qfzo3N6n86AJgMDFLUG5vU\/nRub1P50Af\/\/Z",
+                "permalink": "https:\/\/nolop.slack.com\/files\/UUXLKS2F4\/F01ETLU1FT6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TUX7FNQ8J-F01ETLU1FT6-8375e06813",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QsJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry for the delay! Was working on something else for someone. the file was having trouble to be converted to Adobe Illustrator and the letters were a little off. I have tried to restore them to the right position, but could you confirm if this looks like what you want? Black will be rastered and red is cut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UUXLKS2F4",
+        "display_as_bot": false,
+        "ts": "1605207219.219300",
+        "thread_ts": "1605202234.218600",
+        "parent_user_id": "U01BUPMLYUV"
+    },
+    {
+        "client_msg_id": "53a6bb4f-e7f9-42e3-99d2-aff6d89aac80",
+        "type": "message",
+        "text": "Yes that looks good! Thank You!",
+        "user": "U01BUPMLYUV",
+        "ts": "1605207259.219700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g02c8ef510f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02c8ef510f2922b2b1832f600a4efd2c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Julie Katz",
+            "display_name": "Julie Katz",
+            "team": "TUX7FNQ8J",
+            "name": "julie.katz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jd=h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes that looks good! Thank You!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605202234.218600",
+        "parent_user_id": "U01BUPMLYUV"
+    },
+    {
+        "client_msg_id": "a6efd85c-0627-4ae2-a250-fcbd757ee02e",
+        "type": "message",
+        "text": "Ready for pick up!",
+        "user": "UUXLKS2F4",
+        "ts": "1605210255.219900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t8mm+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ready for pick up!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605202234.218600",
+        "parent_user_id": "U01BUPMLYUV"
+    }
+]

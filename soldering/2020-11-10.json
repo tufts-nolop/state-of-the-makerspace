@@ -1,0 +1,184 @@
+[
+    {
+        "client_msg_id": "ABEE690B-8B54-4615-A102-D84B9FC35299",
+        "type": "message",
+        "text": "Hello, I left my pi 0 on the table outside nolop, could someone solder headers to it?",
+        "user": "UUXR5QPV0",
+        "ts": "1605035154.219100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb2bfda636e7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2bfda636e7de019e0229192863b6c6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Giovanni Fava",
+            "display_name": "Giovanni Fava",
+            "team": "TUX7FNQ8J",
+            "name": "gfava98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aLI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, I left my pi 0 on the table outside nolop, could someone solder headers to it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605035154.219100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1605037739.219800",
+        "reply_users": [
+            "UVCATTNCW",
+            "UUXR5QPV0"
+        ],
+        "replies": [
+            {
+                "user": "UVCATTNCW",
+                "ts": "1605035462.219300"
+            },
+            {
+                "user": "UVCATTNCW",
+                "ts": "1605037725.219500"
+            },
+            {
+                "user": "UUXR5QPV0",
+                "ts": "1605037739.219800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ce08f758-eb7b-45de-be4d-f681a5483e6f",
+        "type": "message",
+        "text": "yep!",
+        "user": "UVCATTNCW",
+        "ts": "1605035462.219300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w3A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605035154.219100",
+        "parent_user_id": "UUXR5QPV0"
+    },
+    {
+        "client_msg_id": "a0399acc-01ca-4834-a065-699aac631316",
+        "type": "message",
+        "text": "Your pi is ready for pickup",
+        "user": "UVCATTNCW",
+        "ts": "1605037725.219500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your pi is ready for pickup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605035154.219100",
+        "parent_user_id": "UUXR5QPV0"
+    },
+    {
+        "client_msg_id": "C25F74C5-AA58-486B-B6EB-DEDC61C37917",
+        "type": "message",
+        "text": "Thanks",
+        "user": "UUXR5QPV0",
+        "ts": "1605037739.219800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gb2bfda636e7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2bfda636e7de019e0229192863b6c6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Giovanni Fava",
+            "display_name": "Giovanni Fava",
+            "team": "TUX7FNQ8J",
+            "name": "gfava98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605035154.219100",
+        "parent_user_id": "UUXR5QPV0"
+    }
+]

@@ -1,0 +1,377 @@
+[
+    {
+        "client_msg_id": "69800930-e969-4e14-bbec-2b8300a0b207",
+        "type": "message",
+        "text": "Just dropped off my ME30 Pcb, in addition to the components in the bag can you put headers on the 4 corners",
+        "user": "U01BJ98H5KP",
+        "ts": "1602001226.035600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g5bf87266fc7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5bf87266fc77619259d88484a4b6feb4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Sawyer Paccione",
+            "display_name": "Sawyer Paccione",
+            "team": "TUX7FNQ8J",
+            "name": "sawyer.paccione",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just dropped off my ME30 Pcb, in addition to the components in the bag can you put headers on the 4 corners"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602001226.035600",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1602013188.039300",
+        "reply_users": [
+            "UUXLKS2F4",
+            "U01BJ98H5KP"
+        ],
+        "replies": [
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602001464.035800"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602002142.037200"
+            },
+            {
+                "user": "U01BJ98H5KP",
+                "ts": "1602002418.037500"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602002617.038100"
+            },
+            {
+                "user": "U01BJ98H5KP",
+                "ts": "1602003647.038300"
+            },
+            {
+                "user": "UUXLKS2F4",
+                "ts": "1602005541.039100"
+            },
+            {
+                "user": "U01BJ98H5KP",
+                "ts": "1602013188.039300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUXLKS2F4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a5145b7-329c-489c-b373-441bc3d2cd59",
+        "type": "message",
+        "text": "Will let you know when it's done",
+        "user": "UUXLKS2F4",
+        "ts": "1602001464.035800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bk5=V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will let you know when it's done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602001226.035600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "8A8E28E9-4204-4BAC-A776-9D51366ED572",
+        "type": "message",
+        "text": "<@U01BJ98H5KP> would you be able to provide a circuit diagram for soldering? It’s hard to know the location\/orientations of the components just from the pcb itself",
+        "user": "UUXLKS2F4",
+        "ts": "1602002142.037200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXLKS2F4",
+            "ts": "1602002154.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OqpFF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BJ98H5KP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would you be able to provide a circuit diagram for soldering? It’s hard to know the location\/orientations of the components just from the pcb itself"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602001226.035600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "type": "message",
+        "text": "Sorry about that! Here you go, the pins in the corners should go into the breadboard though. I also labelled the voltage regulators with U1 U2 with tape",
+        "files": [
+            {
+                "id": "F01C2KQQ5C3",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F01C2DMFDJ6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zE1i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry about that! Here you go, the pins in the corners should go into the breadboard though. I also labelled the voltage regulators with U1 U2 with tape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01BJ98H5KP",
+        "ts": "1602002418.037500",
+        "thread_ts": "1602001226.035600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "0b6e2dda-7041-4f85-a7f7-6cdbd3d6cc65",
+        "type": "message",
+        "text": "Thanks! I just noticed that :slightly_smiling_face:",
+        "user": "UUXLKS2F4",
+        "ts": "1602002617.038100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sn4KF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! I just noticed that "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602001226.035600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "93ca2d07-5270-4f98-8f6c-fd6c762d404a",
+        "type": "message",
+        "text": "One other thing I think the led in the circuit diagram is backwards, sorry for any confusion",
+        "user": "U01BJ98H5KP",
+        "ts": "1602003647.038300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g5bf87266fc7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5bf87266fc77619259d88484a4b6feb4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Sawyer Paccione",
+            "display_name": "Sawyer Paccione",
+            "team": "TUX7FNQ8J",
+            "name": "sawyer.paccione",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One other thing I think the led in the circuit diagram is backwards, sorry for any confusion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602001226.035600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "D33BDC46-890C-4D28-9601-9B95EC850A63",
+        "type": "message",
+        "text": "No worries! Your pcb is ready for pickup!",
+        "user": "UUXLKS2F4",
+        "ts": "1602005541.039100",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TN\/8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries! Your pcb is ready for pickup!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602001226.035600",
+        "parent_user_id": "U01BJ98H5KP"
+    },
+    {
+        "client_msg_id": "23c450b5-bad0-4946-ad18-838a95927963",
+        "type": "message",
+        "text": "Thank you very much!",
+        "user": "U01BJ98H5KP",
+        "ts": "1602013188.039300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g5bf87266fc7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5bf87266fc77619259d88484a4b6feb4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Sawyer Paccione",
+            "display_name": "Sawyer Paccione",
+            "team": "TUX7FNQ8J",
+            "name": "sawyer.paccione",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zeaac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you very much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602001226.035600",
+        "parent_user_id": "U01BJ98H5KP"
+    }
+]

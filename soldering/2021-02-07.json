@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "83c80900-882d-4c52-999d-419f748bd91c",
+        "type": "message",
+        "text": "<@U01E66UJ1PZ> your Pico is soldered and outside Nolop for you!",
+        "user": "UUYJ7QWNP",
+        "ts": "1612722706.001500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g271db63bc87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/271db63bc877f6088da0b60330a68b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Jeremy",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "jeremy.kanovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F+zn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01E66UJ1PZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your Pico is soldered and outside Nolop for you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612557389.001000",
+        "parent_user_id": "U01E66UJ1PZ"
+    }
+]

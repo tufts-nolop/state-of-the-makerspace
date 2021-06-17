@@ -1,0 +1,690 @@
+[
+    {
+        "client_msg_id": "f58eebea-f5bf-4620-836b-14f402164670",
+        "type": "message",
+        "text": "I’ll be happy to do it during my bext shift (which is next tuesday) if no one else before that can do it!",
+        "user": "UUXLKS2F4",
+        "ts": "1603549787.124500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sVZHi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll be happy to do it during my bext shift (which is next tuesday) if no one else before that can do it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603237904.076300",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "ae4c675c-0cab-4358-98fd-987e2c313537",
+        "type": "message",
+        "text": "thank you so much! But if there is someone that can do it prior i'd love that too!",
+        "user": "U01831XEWLW",
+        "ts": "1603558988.124700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01831XEWLW",
+            "ts": "1603558994.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7K8Yj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you so much! But if there is someone that can do it prior i'd love that too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603237904.076300",
+        "parent_user_id": "U01831XEWLW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUXLKS2F4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e232362-63db-4acf-87a2-c160e7a5b8d6",
+        "type": "message",
+        "text": "Hi! Can I drop my PCB off sometime today to be soldered?",
+        "user": "U01AC1T0RKN",
+        "ts": "1603570238.125800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g688c3639518",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/688c3639518d0ee21b9670063bed9828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Natalie Sheehan",
+            "display_name": "Natalie Sheehan",
+            "team": "TUX7FNQ8J",
+            "name": "natalie.sheehan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cpvML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Can I drop my PCB off sometime today to be soldered?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603570238.125800",
+        "reply_count": 16,
+        "reply_users_count": 3,
+        "latest_reply": "1603771015.157000",
+        "reply_users": [
+            "UVA4Q0DM3",
+            "U01AC1T0RKN",
+            "UV1ANS7GR"
+        ],
+        "replies": [
+            {
+                "user": "UVA4Q0DM3",
+                "ts": "1603570508.125900"
+            },
+            {
+                "user": "U01AC1T0RKN",
+                "ts": "1603573022.127800"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603575430.128000"
+            },
+            {
+                "user": "U01AC1T0RKN",
+                "ts": "1603575874.128200"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603576707.128600"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603578923.128800"
+            },
+            {
+                "user": "U01AC1T0RKN",
+                "ts": "1603579358.129000"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603579925.129200"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603763015.152500"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603763062.153100"
+            },
+            {
+                "user": "U01AC1T0RKN",
+                "ts": "1603763857.153500"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603763910.154400"
+            },
+            {
+                "user": "U01AC1T0RKN",
+                "ts": "1603764176.154600"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603764424.156300"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603764630.156700"
+            },
+            {
+                "user": "U01AC1T0RKN",
+                "ts": "1603771015.157000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4959a136-3ddf-4494-8ad9-b707e3a7eab6",
+        "type": "message",
+        "text": "Yes! we will be here until 7.",
+        "user": "UVA4Q0DM3",
+        "ts": "1603570508.125900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4d7a36236da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d7a36236da60328b0524d2cc31523e6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jake Sorscher",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "j.sorscher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SrRs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! we will be here until 7."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603570238.125800",
+        "parent_user_id": "U01AC1T0RKN"
+    },
+    {
+        "client_msg_id": "52e3f65c-6b00-49f5-9981-b4cf6784d427",
+        "type": "message",
+        "text": "Can someone solder a SMT for me? However, I was also wondering if someone could help me design a stencil? I have film but need to design a stencil to get the film laser cut, so that my chip can get soldered on to an adaptor with the reflow. Would it be possible to get help on this?",
+        "user": "U01831XEWLW",
+        "ts": "1603571051.127300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+TKCP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can someone solder a SMT for me? However, I was also wondering if someone could help me design a stencil? I have film but need to design a stencil to get the film laser cut, so that my chip can get soldered on to an adaptor with the reflow. Would it be possible to get help on this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603571051.127300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1603571460.127600",
+        "reply_users": [
+            "UV1ANS7GR",
+            "U01831XEWLW"
+        ],
+        "replies": [
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1603571187.127400"
+            },
+            {
+                "user": "U01831XEWLW",
+                "ts": "1603571460.127600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ff8a446e-bc16-4cd7-9df3-891523cc3390",
+        "type": "message",
+        "text": "I believe <@UUXLKS2F4> can help with this, but hes's not on shift until Tuesday, I think",
+        "user": "UV1ANS7GR",
+        "ts": "1603571187.127400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/i3q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXLKS2F4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can help with this, but hes's not on shift until Tuesday, I think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603571051.127300",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "00d0c560-cd75-4deb-bb66-beb29b232c05",
+        "type": "message",
+        "text": "gotchaaa, thank you though!",
+        "user": "U01831XEWLW",
+        "ts": "1603571460.127600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g8e304fa994a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e304fa994aa32ab5c4bf090e23f82b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Jeffrey Bui",
+            "display_name": "Jeffrey Bui",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.bui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Tq8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gotchaaa, thank you though!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603571051.127300",
+        "parent_user_id": "U01831XEWLW"
+    },
+    {
+        "client_msg_id": "623e60d3-0f58-4746-946f-559d5a9c2ca8",
+        "type": "message",
+        "text": "Just dropped it off!",
+        "user": "U01AC1T0RKN",
+        "ts": "1603573022.127800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g688c3639518",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/688c3639518d0ee21b9670063bed9828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Natalie Sheehan",
+            "display_name": "Natalie Sheehan",
+            "team": "TUX7FNQ8J",
+            "name": "natalie.sheehan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5kY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just dropped it off!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603570238.125800",
+        "parent_user_id": "U01AC1T0RKN"
+    },
+    {
+        "client_msg_id": "78a2b352-9030-4a31-a184-371aefe55040",
+        "type": "message",
+        "text": "<@U01AC1T0RKN> does the orientation of the MOSFET matter?",
+        "user": "UV1ANS7GR",
+        "ts": "1603575430.128000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GRe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AC1T0RKN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " does the orientation of the MOSFET matter?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603570238.125800",
+        "parent_user_id": "U01AC1T0RKN"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, sorry I probably could've included something more helpful than just the schematic. This is the 3D view it gives me, so they should all face the same way as shown.",
+        "files": [
+            {
+                "id": "F01D68EBH9B",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, sorry I probably could've included something more helpful than just the schematic. This is the 3D view it gives me, so they should all face the same way as shown."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AC1T0RKN",
+        "display_as_bot": false,
+        "ts": "1603575874.128200",
+        "client_msg_id": "fd90c123-00e2-40c7-bb0b-995e703a91f7",
+        "thread_ts": "1603570238.125800",
+        "parent_user_id": "U01AC1T0RKN"
+    },
+    {
+        "client_msg_id": "68ba7a31-58ad-4eb3-b1c6-adf2eac988ba",
+        "type": "message",
+        "text": "awesome, thanks!",
+        "user": "UV1ANS7GR",
+        "ts": "1603576707.128600",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awesome, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603570238.125800",
+        "parent_user_id": "U01AC1T0RKN"
+    },
+    {
+        "client_msg_id": "5b0e6955-fba9-4fe0-b5c1-cd305ab9d2fa",
+        "type": "message",
+        "text": "Hey Natalie, I have some sad news :disappointed:. I accidentally soldere one of your N channel MOSFETs upside down :disappointed:. Unfortunately there are no extra N channel MOSFETs, so we'll have to wait until we get more before I can finish soldering your PCB",
+        "user": "UV1ANS7GR",
+        "ts": "1603578923.128800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qk7s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Natalie, I have some sad news "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I accidentally soldere one of your N channel MOSFETs upside down "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Unfortunately there are no extra N channel MOSFETs, so we'll have to wait until we get more before I can finish soldering your PCB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603570238.125800",
+        "parent_user_id": "U01AC1T0RKN"
+    },
+    {
+        "client_msg_id": "4bd5dece-9618-48f4-a945-939d980d7e52",
+        "type": "message",
+        "text": "That's alright, I'm in no rush! Do you know when that might be?",
+        "user": "U01AC1T0RKN",
+        "ts": "1603579358.129000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g688c3639518",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/688c3639518d0ee21b9670063bed9828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Natalie Sheehan",
+            "display_name": "Natalie Sheehan",
+            "team": "TUX7FNQ8J",
+            "name": "natalie.sheehan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gmr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's alright, I'm in no rush! Do you know when that might be?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603570238.125800",
+        "parent_user_id": "U01AC1T0RKN"
+    },
+    {
+        "client_msg_id": "55f0e875-0094-4067-898d-0c895eedf9ce",
+        "type": "message",
+        "text": "I'm not sure, but your professors would know!",
+        "user": "UV1ANS7GR",
+        "ts": "1603579925.129200",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kg00",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure, but your professors would know!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603570238.125800",
+        "parent_user_id": "U01AC1T0RKN"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "7A8C87CA-4014-479F-B2FA-9BD2A03721C6",
+        "type": "message",
+        "text": "Hi I have a quick solder job",
+        "user": "U01ADHK39FH",
+        "ts": "1620921423.001900",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/KQX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi I have a quick solder job"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620921423.001900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620922241.002500",
+        "reply_users": [
+            "U010SQKCPGR",
+            "U01ADHK39FH"
+        ],
+        "replies": [
+            {
+                "user": "U010SQKCPGR",
+                "ts": "1620921493.002000"
+            },
+            {
+                "user": "U01ADHK39FH",
+                "ts": "1620922241.002500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3f3c34d4-9ef6-4d98-8346-919ee121264b",
+        "type": "message",
+        "text": "I don't think anyone is in rn, but I'm omw over and I can check it out in 15",
+        "user": "U010SQKCPGR",
+        "ts": "1620921493.002000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "d47e61607918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-09\/1740263872916_d47e616079183867111b_72.png",
+            "first_name": "Jeffrey",
+            "real_name": "Jeffrey Blitt",
+            "display_name": "Jeff",
+            "team": "TUX7FNQ8J",
+            "name": "jeffrey.blitt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J2oEM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think anyone is in rn, but I'm omw over and I can check it out in 15"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620921423.001900",
+        "parent_user_id": "U01ADHK39FH"
+    },
+    {
+        "client_msg_id": "F4E58402-CE90-482C-BFD1-C594C7087C32",
+        "type": "message",
+        "text": "All good, Libby helped me out. Thanks",
+        "user": "U01ADHK39FH",
+        "ts": "1620922241.002500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g62080610230",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6208061023031602aa2caa2059d49869.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "evan slack",
+            "display_name": "evan slack",
+            "team": "TUX7FNQ8J",
+            "name": "evan.slack",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vn\/8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All good, Libby helped me out. Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620921423.001900",
+        "parent_user_id": "U01ADHK39FH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010SQKCPGR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,313 @@
+[
+    {
+        "client_msg_id": "252c1522-c2d7-4966-9465-d4e8dd234292",
+        "type": "message",
+        "text": "hi! can i drop off our imu for some soldering?",
+        "user": "U01P80Z9KNJ",
+        "ts": "1618436219.070400",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gc9adba554ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c9adba554abe842ecdfa067bdc451f6c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Ananya",
+            "display_name": "Ananya",
+            "team": "TUX7FNQ8J",
+            "name": "ananya.ram",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72ooA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi! can i drop off our imu for some soldering?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618436219.070400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1618438192.071000",
+        "reply_users": [
+            "UV1ANS7GR",
+            "U01P80Z9KNJ"
+        ],
+        "replies": [
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1618436246.070500"
+            },
+            {
+                "user": "U01P80Z9KNJ",
+                "ts": "1618437900.070700"
+            },
+            {
+                "user": "UV1ANS7GR",
+                "ts": "1618438192.071000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "251f97ac-5951-4b23-8152-73e78983590e",
+        "type": "message",
+        "text": "yup!",
+        "user": "UV1ANS7GR",
+        "ts": "1618436246.070500",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3GUVj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yup!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618436219.070400",
+        "parent_user_id": "U01P80Z9KNJ"
+    },
+    {
+        "client_msg_id": "2d99170d-bcd0-4e38-aaaf-6ae9cf4d9f74",
+        "type": "message",
+        "text": "we dropped it off outside! sorry for the late response haha",
+        "user": "U01P80Z9KNJ",
+        "ts": "1618437900.070700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "gc9adba554ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c9adba554abe842ecdfa067bdc451f6c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Ananya",
+            "display_name": "Ananya",
+            "team": "TUX7FNQ8J",
+            "name": "ananya.ram",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01P80Z9KNJ",
+            "ts": "1618437906.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we dropped it off outside! sorry for the late response haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618436219.070400",
+        "parent_user_id": "U01P80Z9KNJ"
+    },
+    {
+        "client_msg_id": "26bc894d-29d8-4b24-b9db-c843fb9d98f9",
+        "type": "message",
+        "text": "Jeremy did it already haha",
+        "user": "UV1ANS7GR",
+        "ts": "1618438192.071000",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g1cfb526a542",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cfb526a5428bd078919485703b0ca5d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Maya K",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "maya.kurzman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H=aYb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jeremy did it already haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618436219.070400",
+        "parent_user_id": "U01P80Z9KNJ"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Dangit looks like those pins are for the device descriptor request which means no computers recognize it :persevere:",
+        "user": "U01BRDMSYRH",
+        "ts": "1618438518.073500",
+        "thread_ts": "1617053496.044300",
+        "root": {
+            "client_msg_id": "39fcf5e4-be09-4952-a117-d46d47619f6a",
+            "type": "message",
+            "text": "Hi, I dropped off a board with a usb mini receiver to be soldered around a week ago, and I think it was a matter of a certain tool coming in, is there any word of it being ready?",
+            "user": "U01BRDMSYRH",
+            "ts": "1617053496.044300",
+            "team": "TUX7FNQ8J",
+            "edited": {
+                "user": "U01BRDMSYRH",
+                "ts": "1617053943.000000"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "H7C",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi, I dropped off a board with a usb mini receiver to be soldered around a week ago, and I think it was a matter of a certain tool coming in, is there any word of it being ready?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1617053496.044300",
+            "reply_count": 29,
+            "reply_users_count": 4,
+            "latest_reply": "1618535166.077500",
+            "reply_users": [
+                "UVCATTNCW",
+                "U01BRDMSYRH",
+                "U010SQKCPGR",
+                "UUXLKS2F4"
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZDV+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dangit looks like those pins are for the device descriptor request which means no computers recognize it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "persevere"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "335AAF19-1D76-4F15-AF26-DC573FAF4A35",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "UUXLKS2F4",
+                    "U01E0CNFBDG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B27E1AF6-F0EF-4FB6-A698-6EA66315F1D2",
+        "type": "message",
+        "text": "Is it supposed to be left unconnected? If so we we could help you snap off that connection entirely",
+        "user": "UUXLKS2F4",
+        "ts": "1618440806.074800",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g4df50d30de2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4df50d30de2a58901cb4bc4701412545.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Eric Wu",
+            "display_name": "Eric Wu",
+            "team": "TUX7FNQ8J",
+            "name": "yufeng.wu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXLKS2F4",
+            "ts": "1618440827.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "26Ln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it supposed to be left unconnected? If so we we could help you snap off that connection entirely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617053496.044300",
+        "parent_user_id": "U01BRDMSYRH"
+    }
+]

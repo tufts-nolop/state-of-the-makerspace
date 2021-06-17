@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "69f298d5-6db3-47e1-be4d-643f136fd278",
+        "type": "message",
+        "text": "Hi Mike, your arduino is ready and waiting",
+        "user": "UVCATTNCW",
+        "ts": "1604517115.217300",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "b4b4c0852ccf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-14\/1000690420848_b4b4c0852ccf8b272739_72.png",
+            "first_name": "Teddy",
+            "real_name": "Teddy Robbins",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "teddyrobbins3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Mike, your arduino is ready and waiting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604444098.217200",
+        "parent_user_id": "U01DV8PRTRQ"
+    },
+    {
+        "client_msg_id": "E82BC9AB-04B0-4E87-9FCF-1D74CE8FF901",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U01DV8PRTRQ",
+        "ts": "1604524351.217700",
+        "team": "TUX7FNQ8J",
+        "user_team": "TUX7FNQ8J",
+        "source_team": "TUX7FNQ8J",
+        "user_profile": {
+            "avatar_hash": "g567251a6aab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/567251a6aab21f7294e1910f068684e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Mike Kourkoulakos",
+            "display_name": "",
+            "team": "TUX7FNQ8J",
+            "name": "michael.kourkoulakos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y=Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604444098.217200",
+        "parent_user_id": "U01DV8PRTRQ"
+    }
+]
